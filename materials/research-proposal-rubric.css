@@ -257,7 +257,12 @@
     min-width: 1180px;
   }
 
-  thead th {
+  /* Bootstrap paints every cell with `.table > :not(caption) > * > *`, which
+     outranks a bare `thead th`. Without the `:is()` prefix the header text
+     keeps the dark body ink while the per-column backgrounds below still
+     apply, leaving dark text on a dark fill. */
+
+  :is(table, .table) thead th {
     padding: 0.9rem 0.85rem;
     border: 0;
     border-inline-end: 1px solid rgba(255, 255, 255, 0.16);
