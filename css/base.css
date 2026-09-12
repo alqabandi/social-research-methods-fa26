@@ -190,6 +190,30 @@ code {
   font-size: 0.92rem;
 }
 
+.course-facts li.fact-link {
+  padding: 0;
+  border-color: var(--hero-pill-fg);
+  background: transparent;
+}
+
+.course-facts li.fact-link a {
+  display: inline-block;
+  padding: 0.45rem 0.8rem;
+  border-radius: 999px;
+  color: var(--hero-pill-fg);
+  text-decoration: none;
+  font-weight: 600;
+  transition:
+    background-color 150ms ease,
+    color 150ms ease;
+}
+
+.course-facts li.fact-link a:hover,
+.course-facts li.fact-link a:focus-visible {
+  background: var(--hero-pill-fg);
+  color: var(--hero-pill-active-fg);
+}
+
 /* Cards ------------------------------------------------------------------- */
 
 .quick-links,
@@ -322,6 +346,10 @@ code {
 .schedule-table .deadline {
   color: var(--alert);
   font-weight: 600;
+}
+
+.schedule-table .deadline a {
+  font-weight: 500;
 }
 
 .schedule-table .week {

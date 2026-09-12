@@ -71,6 +71,7 @@
   --hero-pill-bg: rgba(255, 255, 255, 0.1);
   --hero-pill-border: rgba(255, 255, 255, 0.28);
   --hero-pill-fg: #ffffff;
+  --hero-pill-active-fg: #3a3028;
 
   /* Schedule table */
   --thead-bg: #3a3028;
