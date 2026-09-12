@@ -1,0 +1,300 @@
+@page {
+  size: A4 landscape;
+  margin: 7mm;
+}
+
+@media print {
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+  }
+
+  body {
+    color: #202733;
+    font-family: Arial, "Geeza Pro", sans-serif;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  #quarto-content,
+  main.content {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+body {
+  color: #202733;
+  font-family: Arial, "Geeza Pro", sans-serif;
+}
+
+.identity {
+  width: 100%;
+  margin: 0 0 2.5mm;
+  border-collapse: collapse;
+  font-size: 9pt;
+  font-weight: 700;
+}
+
+.identity td {
+  padding: 0 1.5mm 1mm 0;
+  border: 0;
+  vertical-align: bottom;
+  white-space: nowrap;
+}
+
+.identity td:not(.write-in) {
+  width: 1%;
+}
+
+[dir="rtl"] .identity td {
+  padding: 0 0 1mm 1.5mm;
+}
+
+.identity .write-in {
+  width: 39%;
+  border-bottom: 0.35mm solid #3f4650;
+}
+
+.title-block {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8mm;
+  margin-bottom: 2.5mm;
+  padding-bottom: 1.8mm;
+  border-bottom: 0.7mm solid #a47712;
+}
+
+.title-block h1,
+.title-block p {
+  margin: 0;
+  color: #172b4d;
+  font-family: Arial, "Geeza Pro", sans-serif;
+  line-height: 1.1;
+}
+
+.title-block h1 {
+  font-size: 16pt;
+  font-weight: 700;
+}
+
+.title-block p {
+  color: #695526;
+  font-size: 8.8pt;
+}
+
+.rubric-table {
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 8pt;
+  line-height: 1.22;
+}
+
+.rubric-table .criterion-col {
+  width: 13%;
+}
+
+.rubric-table .level-col {
+  width: 18%;
+}
+
+.rubric-table .meets-col {
+  width: 20%;
+}
+
+.rubric-table .exceptional-col {
+  width: 21%;
+}
+
+.rubric-table .score-col {
+  width: 10%;
+}
+
+.rubric-table th,
+.rubric-table td {
+  padding: 1.85mm 2mm;
+  border: 0.25mm solid #949ca7;
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+
+.rubric-table thead th {
+  background: #f2eee5;
+  color: #172b4d;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 8.1pt;
+  line-height: 1.18;
+}
+
+.rubric-table thead th:nth-child(5),
+.rubric-table tbody td:nth-child(5) {
+  background: #f5f5f4;
+  color: #5d646d;
+  font-style: italic;
+}
+
+.rubric-table thead .score-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 4.5mm;
+  height: 4.5mm;
+  margin-top: 0.8mm;
+  padding: 0 0.7mm;
+  border: 0.25mm solid #a47712;
+  border-radius: 2.5mm;
+  font-size: 8.2pt;
+}
+
+.rubric-table tbody th {
+  background: #f7f8fa;
+  color: #172b4d;
+  font-size: 8.2pt;
+  text-align: start;
+  vertical-align: middle;
+}
+
+.criterion-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 4.8mm;
+  height: 4.8mm;
+  margin-bottom: 1.2mm;
+  border: 0.3mm solid #a47712;
+  border-radius: 50%;
+  font-size: 8pt;
+}
+
+.criterion-name {
+  display: block;
+  font-weight: 700;
+}
+
+.criterion-measures {
+  display: block;
+  margin-top: 1.2mm;
+  color: #505965;
+  font-size: 7.3pt;
+  font-weight: 400;
+  line-height: 1.22;
+}
+
+.score-cell {
+  text-align: center;
+  vertical-align: middle !important;
+}
+
+.score-entry,
+.bonus-entry {
+  display: block;
+  white-space: nowrap;
+}
+
+.score-entry {
+  font-size: 9.5pt;
+  font-weight: 700;
+}
+
+.bonus-entry {
+  margin-top: 2.5mm;
+  font-size: 7.5pt;
+}
+
+.summary {
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  align-items: center;
+  gap: 8mm;
+  margin-top: 2.5mm;
+  padding: 2mm 2.5mm;
+  border: 0.3mm solid #a47712;
+  font-size: 8pt;
+}
+
+.summary .note {
+  text-align: end;
+  font-size: 7.3pt;
+}
+
+[dir="rtl"] .summary .note {
+  text-align: start;
+}
+
+.comment {
+  margin-top: 2.5mm;
+  font-size: 8pt;
+  font-weight: 700;
+}
+
+.comment p {
+  display: flex;
+  align-items: flex-end;
+  gap: 1.5mm;
+  width: 100%;
+  margin: 0;
+}
+
+.comment-line {
+  flex: 1;
+  height: 4mm;
+  border-bottom: 0.3mm solid #3f4650;
+}
+
+@media print {
+  [dir="ltr"] .title-block {
+    margin-bottom: 1.8mm;
+    padding-bottom: 1.2mm;
+  }
+
+  [dir="ltr"] .rubric-table {
+    font-size: 7.2pt;
+    line-height: 1.1;
+  }
+
+  [dir="ltr"] .rubric-table th,
+  [dir="ltr"] .rubric-table td {
+    padding: 1.15mm 1.5mm;
+  }
+
+  [dir="ltr"] .rubric-table thead th,
+  [dir="ltr"] .rubric-table tbody th {
+    font-size: 7.3pt;
+    line-height: 1.08;
+  }
+
+  [dir="ltr"] .criterion-number {
+    width: 4.2mm;
+    height: 4.2mm;
+    margin-bottom: 0.7mm;
+    font-size: 7.2pt;
+  }
+
+  [dir="ltr"] .criterion-measures {
+    margin-top: 0.7mm;
+    font-size: 6.6pt;
+    line-height: 1.1;
+  }
+
+  [dir="ltr"] .score-entry {
+    font-size: 8.5pt;
+  }
+
+  [dir="ltr"] .bonus-entry {
+    margin-top: 1.4mm;
+    font-size: 6.8pt;
+  }
+
+  [dir="ltr"] .summary,
+  [dir="ltr"] .comment {
+    margin-top: 1.7mm;
+  }
+}

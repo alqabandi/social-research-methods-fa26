@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "materials/*.pdf"
+
+website:
+  title: "مناهج البحث الاجتماعي"
+  site-url: "https://alqabandi.github.io/social-research-methods-fa26/"
+  description: "الموقع الرسمي لمقرر مناهج البحث الاجتماعي، الفصل الدراسي الأول ٢٠٢٦/٢٠٢٧"
+  favicon: assets/favicon.svg
+  open-graph: true
+  navbar:
+    background: primary
+    foreground: light
+    pinned: true
+    right:
+      - href: index.qmd
+        text: "الرئيسية والجدول"
+      - href: syllabus.qmd
+        text: "توصيف المقرر"
+      - href: assessments.qmd
+        text: "المشروع والتقييم"
+      - href: slides.qmd
+        text: "الشرائح"
+      - href: resources.qmd
+        text: "المصادر"
+    left:
+      - icon: github
+        href: "https://github.com/alqabandi/social-research-methods-fa26"
+        aria-label: "مستودع المقرر على GitHub"
+  page-footer:
+    center: "مناهج البحث الاجتماعي · د. فاطمة القبندي · جامعة الكويت · ٢٠٢٦"
+
+lang: ar
+dir: rtl
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    link-external-newwindow: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

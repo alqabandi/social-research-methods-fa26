@@ -1,0 +1,105 @@
+---
+lang: en
+dir: ltr
+format:
+  html:
+    toc: false
+    embed-resources: true
+    css: presentation-rubric-landscape.css
+    page-layout: full
+---
+
+<table class="identity">
+  <tr>
+    <td>Evaluator's name</td>
+    <td class="write-in"></td>
+    <td>Group being assessed</td>
+    <td class="write-in"></td>
+  </tr>
+</table>
+
+<div class="title-block">
+  <h1>Presentation and Oral Discussion Rubric</h1>
+  <p>Peer Assessment Copy · Social Research Methods · Fall 2026</p>
+</div>
+
+<table class="rubric-table">
+  <colgroup>
+    <col class="criterion-col">
+    <col class="level-col">
+    <col class="level-col">
+    <col class="meets-col">
+    <col class="exceptional-col">
+    <col class="score-col">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Criterion</th>
+      <th>Major Revision Needed<br><span class="score-number">0</span></th>
+      <th>Developing<br><span class="score-number">1</span></th>
+      <th>Meets Course Expectations<br><span class="score-number">2</span></th>
+      <th>Exceptional — Bonus Point<br><span class="score-number">+</span></th>
+      <th>Score / Bonus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">
+        <span class="criterion-number">1</span>
+        <span class="criterion-name">Organization and clarity</span>
+        <span class="criterion-measures">Structure, oral delivery, and how well the slides support the explanation</span>
+      </th>
+      <td>The presentation has no clear structure and is difficult to hear or follow. Members rely heavily on reading. Slides are missing, largely copied, or so crowded that they distract from the explanation.</td>
+      <td>The main idea comes through, but transitions are abrupt or the delivery is uneven, quiet, or rushed. Members read often or make little eye contact. Some slides are crowded, unclear, or only loosely connected to the discussion.</td>
+      <td>The presentation follows a clear, logical sequence. Members speak audibly and at an effective pace, using notes without reading the presentation. Slides are readable, accurate, and highlight the points the speakers explain.</td>
+      <td>The presentation tells a polished, compelling story. Delivery is confident, natural, and engaging. Carefully chosen visuals make complex methodological ideas easier to understand without oversimplifying them.</td>
+      <td class="score-cell"><span class="score-entry">___ / 2</span><span class="bonus-entry">□ Bonus point</span></td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <span class="criterion-number">2</span>
+        <span class="criterion-name">Explanation of the research logic</span>
+        <span class="criterion-measures">How clearly the group connects the problem, literature, question, and proposed design</span>
+      </th>
+      <td>The problem or research question is unclear, and major parts of the proposal are missing or disconnected. The audience cannot tell how the proposed method would answer the question.</td>
+      <td>The group states the problem, question, and method, but gives only a thin rationale. Connections among the literature gap, variables, sample, instrument, ethics, and research question are incomplete or hard to follow.</td>
+      <td>The group builds a clear line from the problem and evidence to the gap, question or hypotheses, method, sample, instrument, and ethics. It explains why the major choices fit the question and are feasible.</td>
+      <td>The group turns the full proposal into one coherent argument. It makes methodological trade-offs explicit, considers plausible alternatives, and shows why the chosen design best serves the question within the study's limits.</td>
+      <td class="score-cell"><span class="score-entry">___ / 2</span><span class="bonus-entry">□ Bonus point</span></td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <span class="criterion-number">3</span>
+        <span class="criterion-name">Discussion and defense of methodological decisions</span>
+        <span class="criterion-measures">Accuracy, use of course concepts, and the quality of responses during Q&amp;A</span>
+      </th>
+      <td>The group cannot answer questions about its sources, concepts, or methodological choices. Responses are inaccurate, unsupported, or unrelated to the question asked.</td>
+      <td>Responses are general or incomplete, and the group struggles with follow-up questions, alternative methods, or study limitations. One member may carry most of the discussion.</td>
+      <td>The group answers questions directly and accurately, using evidence and course concepts. It explains and defends its choices, acknowledges uncertainty and limitations, and identifies what it would revise when appropriate.</td>
+      <td>The group listens carefully and gives concise, evidence-based answers. It compares alternatives, explains the consequences of its choices, and discusses limitations with precision and intellectual honesty rather than defensiveness.</td>
+      <td class="score-cell"><span class="score-entry">___ / 2</span><span class="bonus-entry">□ Bonus point</span></td>
+    </tr>
+    <tr>
+      <th scope="row">
+        <span class="criterion-number">4</span>
+        <span class="criterion-name">Member participation and time management</span>
+        <span class="criterion-measures">Balanced contribution, shared command of the proposal, and effective use of time</span>
+      </th>
+      <td>Only one or two members do most of the work, a member does not participate meaningfully, or the presentation runs far beyond or falls far short of the assigned time.</td>
+      <td>Most members participate, but contributions are noticeably uneven. Members know only their assigned sections, transitions are awkward, or time is poorly divided among the parts of the presentation.</td>
+      <td>Every member contributes meaningfully, transitions are smooth, and the presentation stays within the assigned time. Each member shows a working understanding of the proposal as a whole.</td>
+      <td>The group works as a coordinated team. Every member can discuss any part of the proposal, time is allocated strategically, and the group adapts to questions or small disruptions without losing focus.</td>
+      <td class="score-cell"><span class="score-entry">___ / 2</span><span class="bonus-entry">□ Bonus point</span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="summary">
+  <div><strong>Base total:</strong> _____ / 8</div>
+  <div><strong>Total bonuses awarded:</strong> _____ / 4</div>
+  <div class="note">Score each criterion from 0 to 2. Check the bonus only when the exceptional description is met.</div>
+</div>
+
+<div class="comment">
+  <p><span>One specific strength or useful suggestion for the group:</span><span class="comment-line"></span></p>
+</div>

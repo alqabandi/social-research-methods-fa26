@@ -1,0 +1,46 @@
+---
+title: "توصيف المقرر"
+description: "توصيف مقرر مناهج البحث الاجتماعي بالعربية والإنجليزية"
+toc: false
+---
+
+تتضمن وثيقة المقرر وصف المقرر وأهدافه، متطلبات المشروع، توزيع الدرجات، السياسات، والجدول الزمني المبدئي. النسخة العربية هي النسخة الأساسية للمقرر.
+
+::: {.resource-grid}
+::: {.resource-card}
+### توصيف المقرر بالعربية
+
+النسخة الأساسية المعتمدة لطلبة المقرر.
+
+::: {.button-row}
+[قراءة على الموقع](materials/manahij-albahth-alijtimai-fall-2026.html){.course-button}
+[تنزيل PDF](materials/manahij-albahth-alijtimai-fall-2026.pdf){.course-button}
+:::
+:::
+
+::: {.resource-card dir="ltr"}
+### Course Syllabus in English
+
+English translation provided for reference.
+
+::: {.button-row}
+[Read online](materials/manahij-albahth-alijtimai-fall-2026.en.html){.course-button}
+[Download PDF](materials/manahij-albahth-alijtimai-fall-2026.en.pdf){.course-button}
+:::
+:::
+:::
+
+::: {.callout-note}
+## التحديثات
+
+قد تُعدَّل الموضوعات أو الأنشطة أو المواعيد عند الحاجة. يُعرض الجدول الأحدث دائمًا في [الصفحة الرئيسية](index.html#schedule)، وتُعلن التغييرات الرسمية عبر منصة Teams.
+:::
+
+## معلومات سريعة
+
+- **الجامعة:** جامعة الكويت
+- **المقرر:** مناهج البحث الاجتماعي، رقم ٢٠٩
+- **الفصل:** الأول ٢٠٢٦/٢٠٢٧
+- **فترة التدريس:** ١٣ سبتمبر–٢١ ديسمبر ٢٠٢٦
+- **المحاضرات:** الاثنين والأربعاء، ٢:٠٠–٣:١٥ مساءً
+- **الموقع:** الشويخ، مبنى ٥، قاعة ١١٥

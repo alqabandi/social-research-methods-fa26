@@ -1,0 +1,163 @@
+---
+title: "Research Proposal Grading Rubric"
+subtitle: "Social Research Methods · Fall Semester 2026/2027"
+author: "Dr. Fatima Alqabandi"
+lang: en
+dir: ltr
+language:
+  title-block-author-single: "Course Instructor"
+  title-block-author-plural: "Course Instructors"
+  title-block-published: "Date"
+format:
+  html:
+    toc: false
+    embed-resources: true
+    theme: cosmo
+    css:
+      - research-proposal-rubric.css
+      - syllabus-print.css
+    page-layout: full
+    grid:
+      body-width: 1400px
+---
+
+<!-- **Group members:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ -->
+<!-- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ -->
+<!-- **Proposal title:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ -->
+<!-- **Proposed method:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ -->
+<!-- **Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ -->
+
+# Required Declarations
+
+When submitting the final proposal, **each group member** must complete and sign both declarations below.
+
+## Academic Integrity Declaration
+
+By submitting this proposal, I affirm that all work I present as my own is my own. I have neither given nor received unauthorized help, and I have documented every source, collaborator, and tool used, including generative AI tools.
+
+I also affirm that every reference cited in this proposal **exists and has been personally verified by me**, and that any data, observations, or pilot-test results reported here **were collected and were not fabricated**.
+
+**Student signature:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Generative AI Use Declaration
+
+I affirm that I **used / did not use** generative AI tools or large language models, such as ChatGPT, Claude, Gemini, or others, in preparing this proposal.
+
+If you selected **used**, complete the following:
+
+**Tool or tools used:**\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**How you used them:**\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Parts of the proposal affected:**\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**What you checked, changed, or revised:**\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# Milestone Submissions — 15%
+
+The first three submissions are worth two points each. The fourth has two parts: the **data collection instrument** and the **study population, sampling plan, and ethics**. Each part is worth two points, making Submission 4 worth four points. The raw total of **10 points converts to 15%** of the course grade.
+
+| Submission | Deadline | Score |
+|--------------------------------------------------------|--------------|-------:|
+| **1** — Group, topic, and preliminary research questions | Tuesday, 6 October, 11:59 p.m. | \_\_ / 2 |
+| **2** — Preliminary literature review and research gap | Tuesday, 27 October, 11:59 p.m. | \_\_ / 2 |
+| **3** — Research question, hypotheses, and variables | Tuesday, 17 November, 11:59 p.m. | \_\_ / 2 |
+| **4** — Data collection instrument, study population, sampling plan, and ethics | Tuesday, 8 December, 11:59 p.m. | \_\_ / 4 |
+| **Raw total** |  | **\_\_ / 10** |
+
+The standard is simple and direct. It applies to each of the first three submissions and to each of the two parts of Submission 4:
+
+| Score | Description |
+|--------|--------------------------------------------------------------------|
+| **0** | Not submitted or substantially incomplete |
+| **1** | Submitted on time but incomplete, superficial, or rushed |
+| **2** | Meets all submission requirements with clarity and precision; shows serious thought and decisions the group can explain and defend |
+
+Each submission is judged first against **its own requirements**. There is no earlier feedback to address in Submission 1. In later submissions, earlier feedback matters only when the same element appears again. For example, feedback on the preliminary questions matters when the revised question appears in Submission 3. These milestones are meant to support steady progress and early feedback, not to make you resubmit the same work after every comment.
+
+**Conversion to the course grade:** total ÷ 10 × 15 = \_\_\_\_ out of 15%
+
+# Written Research Proposal Rubric — 15%
+
+The written proposal is assessed on **nine criteria**. Each criterion has a base score of 0–2, for a raw total of **18 points that converts to 15%** of the course grade.
+
+**A score of 2 is full credit for the criterion.** It means the work clearly and competently meets course expectations.
+
+| Criterion | Major Revision Needed (0) | Developing (1) | Meets Course Expectations (2) | Score |
+|---|---|---|---|---:|
+| **1. Research problem and significance** | The problem is missing, vague, or framed as an opinion rather than a researchable problem. Its importance is unclear. | The problem is stated but too broad or general, or the case for its significance is missing or rests mostly on unsupported opinions and claims. | The problem is precise and well bounded. Its significance is clear, persuasive, and directly connected to the problem, with support from relevant evidence and prior research. | \_\_ / 2 |
+| **2. Literature review and research gap** | There are too few sources, the sources are unreliable, or the proposal shows no understanding of them. No research gap is identified. | The proposal includes enough sources and may summarize some or all of them, but it does not identify a research gap. The study summaries or descriptions are weak. | Credible sources are synthesized around shared ideas or findings. The review identifies a clear gap that connects to the problem and leads to the research question. | \_\_ / 2 |
+| **3. Research question and hypotheses** | There is no clear question, or the hypotheses cannot be tested or do not relate to the question. | The question is understandable but vague, or the subquestions, hypotheses, or guiding questions do not align with it or cannot be studied precisely. | The question is precise and focused. The subquestions, hypotheses, or guiding questions connect to it and the literature and can be studied. Where appropriate to the design, the proposal identifies null and alternative hypotheses and the direction of the relationship. | \_\_ / 2 |
+| **4. Variables and operational definitions** | The variables are not identified, independent and dependent variables are confused, or conceptual definitions are presented as operational ones. | Some variables are identified, but their operational definitions are vague or not measurable, or there are important errors in the level of measurement or unit of analysis. | The main variables are correctly identified. Their conceptual and operational definitions, indicators, levels of measurement, and unit of analysis align with the question and instrument. | \_\_ / 2 |
+| **5. Method and research plan** | No method is identified, or the chosen method cannot answer the research question. | The method is named but poorly justified, or the plan is incomplete or includes steps that do not connect to the question. | The method suits the question and is clearly justified. The plan is coherent and feasible within realistic limits of time and resources. | \_\_ / 2 |
+| **6. Study population and sample** | The study population is not identified, or the sampling method is missing or unclear. | The population and sampling method are identified, but the justification is weak, or the sampling frame, sample size, or recruitment method is unclear. | The population, sampling frame, sampling method, sample size, and recruitment method are appropriate and well justified. The limits of generalization are clearly stated. | \_\_ / 2 |
+| **7. Data collection instrument** | The instrument is missing or incomplete, or its questions do not serve the study variables. | The instrument is present but has major flaws in wording or sequence, or the link between its questions and the variables or research questions is unclear. | The instrument is complete, well organized, and clearly worded. Each section serves a specific question or variable, with an appropriate discussion of validity and reliability and a plan for pilot testing. | \_\_ / 2 |
+| **8. Ethics and study limitations** | Ethical concerns and study limitations are not addressed, or the research proposes procedures that could harm participants. | Ethics and limitations are discussed only in general terms, without enough connection to the topic, sample, or recruitment method. | Informed consent, privacy, confidentiality, and participant protection are addressed in ways that fit the study. The proposal clearly states the limits of what the design can establish. | \_\_ / 2 |
+| **9. Citations and references** | References are missing, incomplete, or unreliable; claims lack sources; or sources appear to have been fabricated. | References are present, but citations are inconsistent or incomplete, several important claims are unsupported, or source use remains mostly descriptive. | Sources are sufficient, credible, and relevant. Citations and references are complete and consistent, evidence is woven into the argument, and central claims are supported by sources. | \_\_ / 2 |
+|  |  |  | **Total** | **\_\_ / 18** |
+
+**Conversion to the course grade:** total ÷ 18 × 15 = \_\_\_\_ out of 15%
+
+# Presentation and Oral Discussion Rubric — 20%
+
+The presentation is assessed on **four criteria**. Each has a base score of 0–2, for a raw total of **8 points that converts to 20%** of the course grade. A score of 2 is full credit for the criterion. If the work also meets the exceptional description, it earns one bonus point.
+
+For each criterion that meets the exceptional description, **one point is added directly to the final course grade**, up to **four bonus points** for the presentation. The presentation grade may therefore reach **24/20**.
+
+| Criterion | Major Revision Needed (0) | Developing (1) | Meets Course Expectations (2) | Exceptional (+ Bonus Point) | Base Score / Bonus |
+|---|---|---|---|---|---:|
+| **1. Organization and clarity**<br><small>Structure, oral delivery, and how well the slides support the explanation</small> | The presentation has no clear structure and is difficult to hear or follow. Members rely heavily on reading. Slides are missing, largely copied, or so crowded that they distract from the explanation. | The main idea comes through, but transitions are abrupt or the delivery is uneven, quiet, or rushed. Members read often or make little eye contact. Some slides are crowded, unclear, or only loosely connected to the discussion. | The presentation follows a clear, logical sequence. Members speak audibly and at an effective pace, using notes without reading the presentation. Slides are readable, accurate, and highlight the points the speakers explain. | The presentation tells a polished, compelling story. Delivery is confident, natural, and engaging. Carefully chosen visuals make complex methodological ideas easier to understand without oversimplifying them. | \_\_ / 2<br>□ Bonus point |
+| **2. Explanation of the research logic**<br><small>How clearly the group connects the problem, literature, question, and proposed design</small> | The problem or research question is unclear, and major parts of the proposal are missing or disconnected. The audience cannot tell how the proposed method would answer the question. | The group states the problem, question, and method, but gives only a thin rationale. Connections among the literature gap, variables, sample, instrument, ethics, and research question are incomplete or hard to follow. | The group builds a clear line from the problem and evidence to the gap, question or hypotheses, method, sample, instrument, and ethics. It explains why the major choices fit the question and are feasible. | The group turns the full proposal into one coherent argument. It makes methodological trade-offs explicit, considers plausible alternatives, and shows why the chosen design best serves the question within the study's limits. | \_\_ / 2<br>□ Bonus point |
+| **3. Discussion and defense of methodological decisions**<br><small>Accuracy, use of course concepts, and the quality of responses during Q&amp;A</small> | The group cannot answer questions about its sources, concepts, or methodological choices. Responses are inaccurate, unsupported, or unrelated to the question asked. | Responses are general or incomplete, and the group struggles with follow-up questions, alternative methods, or study limitations. One member may carry most of the discussion. | The group answers questions directly and accurately, using evidence and course concepts. It explains and defends its choices, acknowledges uncertainty and limitations, and identifies what it would revise when appropriate. | The group listens carefully and gives concise, evidence-based answers. It compares alternatives, explains the consequences of its choices, and discusses limitations with precision and intellectual honesty rather than defensiveness. | \_\_ / 2<br>□ Bonus point |
+| **4. Member participation and time management**<br><small>Balanced contribution, shared command of the proposal, and effective use of time</small> | Only one or two members do most of the work, a member does not participate meaningfully, or the presentation runs far beyond or falls far short of the assigned time. | Most members participate, but contributions are noticeably uneven. Members know only their assigned sections, transitions are awkward, or time is poorly divided among the parts of the presentation. | Every member contributes meaningfully, transitions are smooth, and the presentation stays within the assigned time. Each member shows a working understanding of the proposal as a whole. | The group works as a coordinated team. Every member can discuss any part of the proposal, time is allocated strategically, and the group adapts to questions or small disruptions without losing focus. | \_\_ / 2<br>□ Bonus point |
+|  |  |  |  | **Base total** | **\_\_ / 8** |
+
+**Conversion to the base grade:** base total ÷ 8 × 20 = \_\_\_\_ out of 20%  
+**Total bonuses awarded:** \_\_ / 4  
+**Presentation grade after bonus:** \_\_\_\_ out of 20%, with a possible maximum of 24/20.
+
+# Total Project Grade
+
+| Component | Raw Score | Course Grade |
+|--------------------------------------|--------------|------------:|
+| Four milestone submissions | \_\_ / 10 | \_\_ / 15% |
+| Written research proposal | \_\_ / 18 | \_\_ / 15% |
+| Presentation and oral discussion | \_\_ / 8 + \_\_ / 4 bonus | \_\_ / 20% |
+| **Total** |  | **\_\_ / 50%, with a possible maximum of 54/50 through presentation bonus points** |
+
+## Grading Notes
+
+- **The grade is shared** by all group members unless the oral discussion or submission record shows that a member did not contribute meaningfully. In that case, I will adjust that student's grade individually.
+- **Visual polish is assessed only when it affects clear communication.** A simple, well-designed proposal is better than a beautiful but empty one.
+- **You do not need to collect or statistically analyze data from a full sample.** This rubric assesses the quality of the **design**, not its implementation.
+- **Your response to feedback is considered when the same element appears again.** It is not a separate requirement in Submission 1. It becomes visible, for example, when you refine the question in a later submission and develop every section in the final proposal.
+
+# Feedback
+
+**Strengths:**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**What could be improved:**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**If you were to carry out this study, your next step would be:**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

@@ -1,0 +1,70 @@
+---
+title: "المشروع والتقييم"
+description: "نماذج تقييم المقترح البحثي والعرض التقديمي"
+toc: true
+toc-title: "في هذه الصفحة"
+---
+
+يبني طلبة المقرر مقترحًا بحثيًا متكاملًا على مراحل. توضّح النماذج المنشورة هنا معايير العمل الجيد وما يُتوقع في النسخة المكتوبة والعرض الشفوي.
+
+## نموذج تقييم المقترح البحثي {#proposal-rubric}
+
+هذا النموذج مخصص لإرشاد الطلبة أثناء إعداد المقترح النهائي. يُنصح بقراءته منذ بداية المشروع والرجوع إليه عند مراجعة كل تسليم مرحلي.
+
+::: {.resource-grid}
+::: {.resource-card}
+### النسخة العربية
+
+معايير تقييم السؤال البحثي، الأدبيات، الفروض والمتغيرات، المنهج، المعاينة، الأداة، الأخلاقيات، والكتابة العلمية.
+
+::: {.button-row}
+[قراءة النموذج](materials/research-proposal-rubric-ar.html){.course-button}
+[تنزيل PDF](materials/research-proposal-rubric-ar.pdf){.course-button}
+:::
+:::
+
+::: {.resource-card dir="ltr"}
+### English version
+
+English reference version of the research proposal grading rubric.
+
+::: {.button-row}
+[Read online](materials/research-proposal-rubric-en.html){.course-button}
+[Download PDF](materials/research-proposal-rubric-en.pdf){.course-button}
+:::
+:::
+:::
+
+## نموذج تقييم العرض والمناقشة {#presentation-rubric}
+
+يُستخدم هذا النموذج في جلسات العروض لتقييم العرض التقديمي والمناقشة الشفوية. ستُوزَّع نسخ منه على المقيّمين والطلبة المشاركين في تقييم الزملاء.
+
+::: {.resource-grid}
+::: {.resource-card}
+### النسخة العربية
+
+نسخة أفقية قابلة للطباعة لتسجيل التقدير والملاحظات أثناء العرض.
+
+::: {.button-row}
+[قراءة النموذج](materials/presentation-oral-discussion-rubric-ar.html){.course-button}
+[تنزيل PDF](materials/presentation-oral-discussion-rubric-ar.pdf){.course-button}
+:::
+:::
+
+::: {.resource-card dir="ltr"}
+### English version
+
+Printable landscape reference copy for presentation and oral-discussion assessment.
+
+::: {.button-row}
+[Read online](materials/presentation-oral-discussion-rubric-en.html){.course-button}
+[Download PDF](materials/presentation-oral-discussion-rubric-en.pdf){.course-button}
+:::
+:::
+:::
+
+::: {.callout-important}
+## المقترح تصميم لدراسة، لا تنفيذ لها
+
+لا يُطلب من الطلبة جمع بيانات فعلية أو التواصل مع مبحوثين أو تحليل بيانات إحصائيًا. المطلوب هو تصميم دراسة سليمة وقابلة للتنفيذ والدفاع عن الاختيارات المنهجية.
+:::

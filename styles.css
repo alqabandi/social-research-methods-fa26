@@ -1,0 +1,265 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap");
+
+:root {
+  --course-navy: #17324d;
+  --course-navy-soft: #244b70;
+  --course-gold: #d6aa4b;
+  --course-teal: #2f7f7a;
+  --course-ink: #23313f;
+  --course-muted: #657382;
+  --course-paper: #fffdf8;
+  --course-rule: #dce3e8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--course-ink);
+  font-family: "Noto Sans Arabic", Arial, sans-serif;
+  line-height: 1.9;
+}
+
+h1,
+h2,
+h3,
+h4,
+.navbar-brand,
+.nav-link {
+  font-family: "Noto Kufi Arabic", "Noto Sans Arabic", Arial, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--course-navy);
+}
+
+a {
+  color: #176c76;
+}
+
+.navbar {
+  border-bottom: 3px solid var(--course-gold);
+  box-shadow: 0 3px 14px rgba(23, 50, 77, 0.13);
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.nav-link {
+  font-size: 0.9rem;
+}
+
+.hero {
+  margin: 0 0 2.25rem;
+  padding: clamp(1.7rem, 4vw, 3.5rem);
+  border-radius: 0 0 1.25rem 1.25rem;
+  background:
+    radial-gradient(circle at 12% 20%, rgba(214, 170, 75, 0.28), transparent 20rem),
+    linear-gradient(135deg, var(--course-navy), var(--course-navy-soft));
+  color: #fff;
+  box-shadow: 0 18px 45px rgba(23, 50, 77, 0.17);
+}
+
+.hero h1 {
+  margin: 0 0 0.65rem;
+  color: #fff;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+}
+
+.hero .lead {
+  margin-bottom: 1.5rem;
+  color: #f4e6c7;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+}
+
+.course-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.2rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.course-facts li {
+  padding: 0.45rem 0.8rem;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.09);
+  color: #fff;
+  font-size: 0.92rem;
+}
+
+.quick-links,
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2.25rem;
+}
+
+.quick-links > p {
+  display: contents;
+}
+
+.quick-link,
+.resource-card {
+  display: block;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid var(--course-rule);
+  border-radius: 0.8rem;
+  background: #fff;
+  color: var(--course-ink);
+  text-decoration: none;
+  box-shadow: 0 7px 22px rgba(23, 50, 77, 0.07);
+  transition:
+    border-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease;
+}
+
+.quick-link:hover,
+.resource-card:hover {
+  border-color: var(--course-teal);
+  color: var(--course-ink);
+  box-shadow: 0 12px 26px rgba(23, 50, 77, 0.12);
+  transform: translateY(-2px);
+}
+
+.quick-link strong,
+.resource-card h3 {
+  display: block;
+  margin: 0 0 0.3rem;
+  color: var(--course-navy);
+  font-family: "Noto Kufi Arabic", "Noto Sans Arabic", Arial, sans-serif;
+}
+
+.resource-card h3 {
+  font-size: 1.05rem;
+}
+
+.quick-link span,
+.resource-card p,
+.resource-card .meta {
+  color: var(--course-muted);
+  font-size: 0.92rem;
+}
+
+.resource-card p:last-child {
+  margin-bottom: 0;
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 0.9rem;
+}
+
+.course-button {
+  display: inline-block;
+  padding: 0.38rem 0.72rem;
+  border: 1px solid var(--course-teal);
+  border-radius: 999px;
+  color: var(--course-teal);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.course-button:hover {
+  background: var(--course-teal);
+  color: #fff;
+}
+
+.schedule-note {
+  margin: 1rem 0 1.4rem;
+  padding: 0.9rem 1rem;
+  border-inline-start: 4px solid var(--course-gold);
+  border-radius: 0.35rem;
+  background: #fff8e8;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--course-rule);
+  border-radius: 0.65rem;
+  overflow: hidden;
+  font-size: 0.94rem;
+}
+
+.schedule-table th {
+  padding: 0.8rem 0.7rem;
+  background: var(--course-navy);
+  color: #fff;
+  text-align: right;
+  vertical-align: top;
+}
+
+.schedule-table td {
+  padding: 0.8rem 0.7rem;
+  border-top: 1px solid var(--course-rule);
+  vertical-align: top;
+}
+
+.schedule-table tr:nth-child(even) td {
+  background: #f7f9fa;
+}
+
+.schedule-table .deadline {
+  color: #8c4d31;
+  font-weight: 600;
+}
+
+.schedule-table .week {
+  width: 5rem;
+  color: var(--course-navy);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.coming-soon {
+  padding: 1.4rem;
+  border: 1px dashed #aab7c2;
+  border-radius: 0.75rem;
+  background: #f8fafb;
+  color: var(--course-muted);
+  text-align: center;
+}
+
+@media (max-width: 760px) {
+  .hero {
+    margin-inline: -0.75rem;
+    border-radius: 0;
+  }
+
+  .schedule-table {
+    display: block;
+    overflow-x: auto;
+    white-space: normal;
+  }
+
+  .schedule-table th,
+  .schedule-table td {
+    min-width: 8rem;
+  }
+
+  .schedule-table .week {
+    min-width: 4rem;
+  }
+}
+
+@media print {
+  .navbar,
+  .nav-footer,
+  #quarto-margin-sidebar,
+  .button-row {
+    display: none !important;
+  }
+}

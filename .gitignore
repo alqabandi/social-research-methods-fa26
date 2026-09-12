@@ -1,0 +1,9 @@
+/.quarto/
+/_site/
+/.DS_Store
+**/.DS_Store
+
+# Standalone HTML files created during local document rendering
+/materials/*.html
+
+**/*.quarto_ipynb

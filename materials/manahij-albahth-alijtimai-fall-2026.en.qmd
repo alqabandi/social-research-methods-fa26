@@ -1,0 +1,433 @@
+---
+title: "Social Research Methods"
+subtitle: "Fall Semester 2026/2027"
+author: "Dr. Fatima Alqabandi"
+date: "2026-09-13"
+date-format: "D MMMM YYYY"
+lang: en
+dir: ltr
+translation-source-sha256: "6c04113392b27d07887f8262dc006be46d8e9c5df2d6f6d90e61881bbff0c2e3"
+language:
+  title-block-author-single: "Course Instructor"
+  title-block-author-plural: "Course Instructors"
+  title-block-published: "Date"
+  toc-title-document: "Contents"
+  callout-note-title: "Note"
+  callout-important-title: "Important"
+  callout-tip-title: "Tip"
+  callout-warning-title: "Warning"
+  callout-caution-title: "Caution"
+format:
+  html:
+    toc: false
+    toc-depth: 2
+    toc-title: "Contents"
+    embed-resources: true
+    theme: cosmo
+    css: syllabus-print.css
+---
+
+::: {.syllabus-actions}
+[العربية](manahij-albahth-alijtimai-fall-2026.html) · [**English**](manahij-albahth-alijtimai-fall-2026.en.html){aria-current="page"} · [Download PDF](manahij-albahth-alijtimai-fall-2026.en.pdf)
+:::
+
+# Course Information
+
+**University:** Kuwait University\
+**Course Title:** Social Research Methods\
+**Course Number:** 209\
+**Semester:** Fall 2026/2027\
+**Teaching Period:** 13 September-21 December 2026\
+**Class Days and Times:** Mondays and Wednesdays, 2:00-3:15 p.m.\
+**Location:** Shuwaikh, Building 5, Room 115\
+**Course Platform:** Teams
+
+## Instructor
+
+**Instructor:** Dr. Fatima Alqabandi\
+**Office:** Shuwaikh, Building 5, second floor, Office S-10 48\
+**Office Hours:** Tuesdays, 11:00 a.m.-12:00 p.m.\
+**Email:** fatemah.alqabandi@ku.edu.kw\
+**Expected Response Time:** I reply within two business days. I review and answer email only during working hours on official business days, so weekends and official holidays do not count.
+
+# Course Description
+
+Social research methods are not a set of definitions to memorize; they are a way of thinking. In this course, you will learn how to turn curiosity about a social phenomenon into a researchable question, build that question into a clear research plan, collect data, measure variables, select a sample, and judge the strength of the evidence before you.
+
+<!-- The question we will repeat throughout the semester is: What is the evidence? How do we know that? Is there another explanation? -->
+
+We will follow the stages of social research in their logical order. We will begin with the nature of science and scientific knowledge, move to research problems and hypotheses, then build a research plan, measure variables, design questionnaires and interviews, and select samples. We will finish with social surveys and experiments.
+
+My goal is not for you to memorize the material. By the end of the course, you should be able to design your own research and read other people's research critically. To help you get there, you will build a complete research proposal in stages throughout the semester, applying each topic we study to a research topic you choose.
+
+# Required Text and Supporting Materials
+
+You do not need to buy a textbook for this course. Our lectures and class materials will be your main reference for course content and assessment.
+
+I will sometimes draw on the following book:
+
+Al-Thaqeb, Fahad. *Introduction to Social Research*.
+
+You are welcome to use the book as an additional reference, but you are not required to buy it.
+
+I will also share supporting materials through Teams whenever possible.
+
+# Course Topics
+
+1.  Social Research Methods
+2.  The Research Problem and Hypotheses
+3.  The Research Plan
+4.  Measurement of Variables
+5.  Questionnaires and Interviews
+6.  Sampling
+7.  Social Surveys
+8.  The Experimental Method
+
+# Learning Outcomes
+
+By the end of the course, you will be able to:
+
+1.  Explain the characteristics of scientific knowledge and distinguish it from commonly held beliefs or opinions.
+<!-- 2.  Formulate a clear and specific research problem based on a social phenomenon and justify its scientific and social significance. -->
+<!-- 3.  Derive testable hypotheses and distinguish between the null and alternative hypotheses. -->
+2.  Construct a complete research plan that connects the question, method, and data collection tools.
+3.  Distinguish between conceptual and operational definitions and turn an abstract concept into a measurable variable.
+<!-- 6.  Identify a variable's level of measurement and the unit of analysis, and evaluate an instrument's validity and reliability. -->
+4.  Design a questionnaire or interview guide and identify flaws in question wording, such as leading, double-barreled, and ambiguous questions.
+5.  Distinguish between probability and nonprobability samples, select the sampling method appropriate to a research question, and justify the choice.
+6.  Explain the logic of social surveys and the experimental method, and compare what each can and cannot establish.
+<!-- 10. Distinguish between correlation and causation, and identify extraneous variables and alternative explanations. -->
+7.  Understand key ethical considerations in social research, including informed consent, confidentiality, and avoiding harm to research participants.
+8.  Read a published social research study critically and identify its methodological strengths and limitations.
+
+# Assessment and Grade Distribution
+
+| Assessment Component | Weight |
+|-------------------------------------------|--------:|
+| Final Project (Research Proposal) | 50% |
+| Midterm Examination | 25% |
+| In-Class Quizzes | 15% |
+| Attendance and Participation | 10% |
+| **Total** | **100%** |
+
+<!-- Final grades will be calculated according to the grading scale approved by Kuwait University: **\[Insert the official scale\]**. -->
+
+<!--
+::: {.callout-important}
+**There is no final examination in this course.** The **research proposal** takes its place.
+
+The reason is straightforward: the ability to design research cannot be measured by a two-hour written examination. A student who memorizes the difference between stratified and cluster sampling may still be unable to select the appropriate one for their own question. Therefore, the final assessment in this course is **authentic research work** developed throughout the semester, not an examination in a single week.
+:::
+-->
+
+## Research Proposal Project — 50% 
+
+This project is the backbone of the course. Instead of learning research methods in the abstract and then forgetting them, you will build a **complete research proposal** in stages. Each topic we study will become part of a project built around a topic your group chooses.
+
+You will work in **groups of 2-4**. I may adjust the group size depending on enrollment.
+
+::: {.callout-note}
+**How to build the proposal without letting it become overwhelming:** Each milestone becomes **a section of your final proposal**. Do not start from scratch with every submission. Revisit the work from the previous stage, improve it using the feedback you received, and then add the new section. Keep these pieces in one document that grows with you throughout the semester.
+
+Before your presentation, return to the full document. Organize the sections, remove repetition, make the language and formatting consistent, and check that the ideas flow. After presenting, use your classmates' questions and my feedback to make the final revisions before you submit. This way, you will not write the proposal all at once at the end of the semester. You will assemble and polish work you have already completed, one step at a time.
+:::
+
+### Project Grade Distribution
+
+| Project Component | Weight |
+|--------------------------------------------------|--------:|
+| Milestone Submissions (four submissions) | 15% |
+| Final Written Research Proposal | 15% |
+| Presentation and Oral Discussion | 20% |
+| **Total** | **50%** |
+
+::: {.callout-warning}
+**Half of your course grade comes from this project.** If your group waits until the final weeks, you will not be able to make up the missed work. The milestones are spread across the semester and are not accepted late without an excuse.   
+:::
+
+### Milestone Submissions
+
+::: {.callout-note}
+**Milestone deadlines are provisional.** I may move a deadline, especially if we have not yet finished the topic connected to that submission. I will announce any change in advance through Teams.
+:::
+
+::: {.callout-important}
+**Submission time:** Upload each milestone through Teams by **11:59 p.m. on the day before the class session connected to that submission**. Submit the final written proposal by **11:59 p.m. on Sunday, 20 December 2026**.
+:::
+
+#### Submission 1 — Forming the Group and Selecting the Topic (Tuesday, 6 October 2026, 11:59 p.m.)
+
+One page containing:
+
+1.  **Names of group members** (2-4 students) and their university ID numbers.
+2.  **The social issue or phenomenon** you would like to study, in a short paragraph.
+3.  **Three to five preliminary research questions** you would like to address.
+4.  **Why is this topic worth studying?** It may not have been studied in Kuwait, may not have been studied from this perspective, or may have changed in a way that warrants re-examination.
+
+Your questions do not need to be perfect from the start; we will develop them together during the semester. What matters here is **a serious beginning**, not a final result.
+
+::: {.callout-tip}
+**Alternative topics (optional):** Your group may propose a second and third topic, but you must include **three to five preliminary research questions for each proposed topic**, not merely topic titles.
+:::
+
+<!-- This submission is connected to the beginning of the research problem topic, as it transforms a broad social phenomenon into a specific topic and preliminary research questions that can be developed. -->
+
+#### Submission 2 — Preliminary Literature Review (Tuesday, 27 October 2026, 11:59 p.m.)
+
+Two to three pages containing:
+
+1.  **At least five credible sources** on your topic: peer-reviewed studies, academic books, official reports, or published statistics.
+2.  **A brief summary of each source** (3-4 sentences): What was studied? Who was studied? By what method? What was the most important finding?
+3.  **A synthesis paragraph:** What do we already know about this topic?
+4.  **The research gap:** What remains unknown or unstudied in this context? This is where your research problem emerges.
+5.  **A reference list** documented in a consistent style.
+
+<!-- This submission is directly connected to the research problem and research plan topics, particularly the use of literature to synthesize what we know and identify the gap that justifies the study. -->
+
+#### Submission 3 — Question, Hypotheses, and Variables (Tuesday, 17 November 2026, 11:59 p.m.)
+
+Two pages containing:
+
+1.  **One precisely formulated main research question**, accompanied by two or three subquestions.
+2.  **One to three testable hypotheses** (or guiding questions if your research is qualitative), identifying the null and alternative hypotheses where applicable.
+3.  **Identification of variables:** the independent variable, dependent variable, and any mediating or control variables.
+4.  **For each main variable:** the conceptual definition and the operational definition.
+5.  **The level of measurement** of each variable (nominal, ordinal, interval, ratio).
+6.  **The unit of analysis** in your study.
+
+<!-- This submission is connected to the topics of the research problem and hypotheses, the research plan, and measurement of variables; it tests the consistency of the question, hypotheses, and unit of analysis with the operational definitions and levels of measurement. -->
+
+#### Submission 4 — Data Collection Instrument, Study Population, Sampling Plan, and Ethics (Tuesday, 8 December 2026, 11:59 p.m.)
+
+This submission brings together your data collection instrument and your plan for reaching participants. It has two parts:
+
+**Part 1: Data Collection Instrument**
+
+Submit a draft of the instrument you plan to use:
+
+- **If you choose a questionnaire:** A draft containing 15-25 questions, divided into clear sections.
+- **If you choose an interview:** An interview guide containing 10-15 open-ended questions, along with anticipated probing questions.
+
+Include the following with your instrument:
+
+1.  **A mapping table:** Which variable or research question does each question serve? (A question that serves no purpose will not be accepted.)
+2.  **A paragraph on validity and reliability:** How did you ensure that the questions measure what you intend to measure?
+
+**Part 2: Study Population, Sampling Plan, and Ethics**
+
+One to two pages containing:
+
+1.  **The target study population** and its temporal and geographic boundaries.
+2.  **The available sampling frame** and any problems it may have.
+3.  **The selected sampling method** (simple random, stratified, cluster, systematic, purposive, quota, snowball) **with justification for the choice**.
+4.  **The proposed sample size** and the basis for estimating it.
+5.  **How you will reach research participants**, the anticipated difficulties, and how you will address them.
+6.  **Ethical considerations:** informed consent, data confidentiality, anonymity, and protection of vulnerable groups.
+
+<!-- This submission brings together variable measurement, questionnaires and interviews, sampling, and social surveys. It turns operational definitions into a usable instrument and a justified, ethical plan for reaching research participants. -->
+
+### Final Research Proposal — 15%
+
+Submit the final proposal by **11:59 p.m. on Sunday, 20 December 2026**, after the Monday and Wednesday presentations. Before presenting, bring your milestone sections into one document, revisit each section using the feedback you received, and organize and polish the proposal so that it reads as one coherent paper rather than a stack of separate submissions. After presenting, use your classmates' questions and my feedback to make the final revisions before you submit.
+
+Write **at least 5 and no more than 12 double-spaced pages**, excluding appendices and references. Include the following sections:
+
+1.  **Title and names of group members**
+2.  **Introduction:** A description of the problem or phenomenon, its significance, and why it is worth studying
+3.  **Literature review and research gap** (developed from Submission 2)
+4.  **Research question and hypotheses** (developed from Submission 3)
+5.  **Variables, operational definitions, and levels of measurement** (developed from Submission 3)
+6.  **The proposed method and justification for its selection:** questionnaire, observation, in-depth interviews, experiment, or a combination of these
+7.  **Study population and sample** (developed from Submission 4)
+8.  **Data collection instrument** in the main text, with the complete instrument in an appendix (developed from Submission 4)
+9. **Study limitations:** What will your research be unable to answer? Acknowledging limitations is a sign of research maturity, not weakness.
+10. **Reference list**
+
+::: {.callout-important}
+You are designing a study, not conducting one. **Do not collect actual data or contact research participants. You are not required to analyze data statistically.** Your task is to show that you can design a sound, feasible study.
+:::
+
+### Presentation and Oral Discussion — 20%
+
+Each group will present its proposal on **Monday, 14 December or Wednesday, 16 December**, followed by questions and discussion.
+
+Your presentation must explain: **Why this question? What do we already know? How will you study it? Why this particular design rather than another?**
+
+The discussion involves the whole group. **Every member** should be ready to defend any part of the proposal, not only the part they wrote.
+
+**Everyone is expected to attend both presentation sessions**, not only the session in which their group presents. You will assess each presenting group using a short peer-assessment form. Completing these assessments will count toward your attendance for each session.
+
+Use the [presentation and oral-discussion rubric](presentation-oral-discussion-rubric-en.qmd) to see what each level of performance means. I assess production quality and visual design only when they affect the clarity of your communication.
+
+### Project Topic Ideas
+
+The social world is everywhere, and any phenomenon can become a researchable question. Treat these ideas as invitations, not limits:
+
+- **Family and social change:** Changes in the age of marriage, housing patterns, the distribution of roles within the family, or women's entry into the labor market and its effects.
+- **Education:** The prevalence and causes of private tutoring, students' selection of university majors, the relationship between family background and achievement, or why some parents prefer private schools to public schools.
+- **Work and employment:** Preference for the public sector over the private sector, remote work, or *wasta* and its effect on employment opportunities.
+- **Media and social media:** Patterns of use and how they differ across platforms, the effect of influencers on purchasing decisions, the representation of a social issue in the media, or the effects of social media on adolescents.
+- **Health and behavior:** Dietary habits and how they are changing, physical activity and its barriers, awareness of a particular health issue and sources of information about it, or differences in mothers' health outcomes when a support person is present in the delivery room compared with when no support person is present.
+- **Urban life:** Traffic and driving behavior, use of public spaces, or movement and mobility within the city.
+- **Consumption and identity:** What do brands, cars, and cafés say about social status? How has this changed over time?
+- **Youth and transitions:** Changes in leisure patterns, relationships to place, or volunteering and community work.
+
+You are welcome to propose other topics. 
+
+## Midterm Examination — 25%
+
+The midterm will cover the concepts we discuss in class and will combine multiple-choice and short-answer questions. I will announce the date through Teams.
+
+## In-Class Quizzes — 15%
+
+We will have several short quizzes throughout the semester. I will automatically drop your lowest score. I do not offer make-up quizzes.
+
+## Attendance and Participation — 10%
+
+# Course Policies
+
+## Late Submissions
+
+I accept late work only in documented cases of illness or emergency. **For each day late, I will deduct 5% of the submission grade**.
+
+Quizzes and class participation cannot be made up. If you need greater flexibility, please contact me **before the deadline** whenever possible. I handle official excuses and emergencies according to university regulations.
+
+## Group Work
+
+All group members normally receive the same project grade. However, if the oral discussion or milestone submissions show that a member did not contribute meaningfully, I will adjust that member's grade individually.
+
+Attach a short page to the final proposal explaining how your group divided the work. If your group has a collaboration problem, contact me early, not in the final week.
+
+## Academic Integrity
+
+Submit your own work, document your sources, and follow Kuwait University's academic integrity regulations. University regulations govern plagiarism, unauthorized collaboration, fabricated data, purchased work, impersonation, and prohibited assistance.
+
+<!-- **A special warning for the Research Methods course:** Fabricating data or inventing results, sources, or interviews that did not actually occur is among the most serious violations in this particular field because it strikes at the heart of what students learn in this course. -->
+
+When you work in a group, you remain responsible for verifying every source and every claim submitted under your name.
+
+Begin every submission, project, and examination with this statement:
+
+> **Academic Integrity Declaration**
+>
+> By submitting this work, I/we affirm that the work attributed to me/us is my/our own, that I/we have neither provided nor received unauthorized assistance, and that all permitted sources, collaborators, and tools have been documented.
+
+## Generative Artificial Intelligence
+
+Generative AI and large language models are likely to remain part of academic and professional life. I therefore encourage **transparency** and **honesty** whenever you use them. The key questions are: Does this use follow the assignment instructions? Does it support my research thinking rather than replace it?
+
+Include this declaration with every submission, **even if you did not use AI at all:**
+
+> **Artificial Intelligence Use Declaration**
+>
+> I declare that I **used / did not use** generative artificial intelligence tools or large language models (such as ChatGPT, Claude, Gemini, or others) in preparing this work.
+>
+> If you selected **used**, complete the following:
+>
+> **Tool or tools used:**\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>
+> **How I used them:**\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>
+> **Parts of the work affected:**\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>
+> **What I verified, changed, or reviewed:**\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Permitted with detailed disclosure**
+
+- Generating preliminary ideas for project topics
+- Requesting an explanation of a concept and then verifying it in the book or with the instructor
+- Receiving feedback on a draft written by the student
+- Assistance with proofreading and editing
+- Assistance with formatting references after manually verifying their accuracy
+
+**Not permitted**
+
+- Any use during examinations
+- Asking a tool to write an assignment or a section of it that is intended to demonstrate the student's own analysis
+- Presenting AI-generated analysis, text, data, or references as the student's own work
+- **Inventing sources, data, interviews, or field observations** — this is strictly prohibited in this course
+- Generating an entire questionnaire or interview guide without intellectual work by the student, because instrument design is itself the skill being assessed
+
+You will not lose points simply for disclosing a permitted use. However, disclosure does not make a prohibited use permissible.
+
+These tools can be inaccurate and reproduce bias, and they are specifically known to invent references that do not exist. You remain fully responsible for everything you submit. Specific assignment instructions always take priority over this general policy.
+
+<!--
+## Accommodations
+
+Students who require accommodations must follow official university procedures and contact me as soon as possible. Course activities can be adapted to meet mobility, sensory, technological, language, or participation needs while maintaining the learning objective.
+
+**University contact:** \[Insert the official office and contact details\]
+-->
+
+## Recording, Privacy, and Course Materials
+
+Students may not record, photograph, publish, upload, or sell lectures, nor distribute slides, examinations, or classmates' contributions without permission. Any authorized recording must protect the privacy of other students.
+
+## Course Changes
+
+I may adjust topics, activities, or dates in response to university announcements, our progress, or an emergency. I will announce any change through Teams.
+
+# Provisional Schedule
+
+| Week | Date | Topic | Assessment or Submission |
+|-------------|-------------|-------------------------|-------------------------|
+| **1** | 13-17 September | Monday, 14 September: Course introduction and project overview<br>Wednesday, 16 September: <!-- Chapter 1 -->Social Research Methods (1) |  |
+| **2** | 20-24 September | <!-- Chapter 1 -->Social Research Methods (2)<br><!-- Chapter 2 -->The Research Problem and Hypotheses (1) |  |
+| **3** | 27 September-1 October | <!-- Chapter 2 -->The Research Problem and Hypotheses (2-3) |  |
+| **4** | 4-8 October | Topic and preliminary questions workshop<br><!-- Chapter 3 -->The Research Plan (1) | **Submission 1 (Tuesday, 6 October, 11:59 p.m.):**<br>**Group, Topic, and Preliminary Research Questions** |
+| **5** | 11-15 October | <!-- Chapter 3 -->The Research Plan (2)<br>Literature review workshop and evaluation of sources and published statistics | <!-- Feedback on Submission 1 --> |
+| **6** | 18-22 October | <!-- Chapter 4 -->Measurement of Variables (1-2)<br>Applied example from content analysis coding |  |
+| **7** | 25-29 October | <!-- Chapter 4 -->Measurement of Variables (3)<br>Workshop to complete the preliminary literature review | **Submission 2 (Tuesday, 27 October, 11:59 p.m.): Preliminary Literature Review** |
+| **8** | 1-5 November | Question, hypotheses, and variables workshop<br>Applications and cumulative review |  |
+| **9** | 8-12 November | Midterm examination (the class meeting date will be announced later)<br><!-- Chapter 5 -->Questionnaires and Interviews (1) | **Midterm Examination** |
+| **10** | 15-19 November | <!-- Chapter 5 -->Questionnaires and Interviews (2-3) | **Submission 3 (Tuesday, 17 November, 11:59 p.m.): Question, Hypotheses, and Variables** |
+| **11** | 22-26 November | <!-- Chapter 6 -->Sampling (1-2), including sampling documents and media materials |  |
+| **12** | 29 November-3 December | <!-- Chapter 7 -->Social Surveys (1-2) and the ethics of access to research participants |  |
+| **13** | 6-10 December | Monday, 7 December: <!-- Chapter 10 in the reference -->The Experimental Method (1)<br>Wednesday, 9 December: <!-- Chapter 10 in the reference -->The Experimental Method (2-3) | **Submission 4 (Tuesday, 8 December, 11:59 p.m.): Data Collection Instrument, Study Population, Sampling, and Ethics** |
+| **14** | 13-17 December | Monday, 14 December and Wednesday, 16 December: Presentations, discussions, and justification of method selection and alternatives | **Presentations and Oral Discussion**<br>Attendance and peer assessment are required in both sessions |
+| **15** | 20-21 December | Monday, 21 December: Course synthesis, final review, and semester close | **Final Written Research Proposal Due — 15% (Sunday, 20 December, 11:59 p.m.)** |
+| **Examination Period** | 23 December 2026-4 January 2027 | No final examination |  |
+
+::: {.callout-tip}
+**How to read this schedule:** Each submission follows the topic it applies. You will not write the proposal all at once at the end of the semester; you will build it piece by piece as you learn each component.
+:::
+
+# Supporting Resources
+
+You may use the following resources in class exercises and projects:
+
+::: {.supporting-resources}
+- [Central Statistical Bureau — Kuwait](https://www.csb.gov.kw/)
+- [Kuwait Census 2021](https://census.csb.gov.kw/)
+- [Labour Market Information System](https://lmis.csb.gov.kw/)
+- [Kuwait Open Data Portal](https://data.gov.kw/)
+- [Our World in Data](https://ourworldindata.org/)
+- [Gapminder](https://www.gapminder.org/)
+- [Google Scholar](https://scholar.google.com/)
+:::
+
+<!--
+# Checklist Before Distributing the Syllabus to Students
+
+Note to the instructor — delete this checklist before distribution
+
+The following must be confirmed before publishing the syllabus:
+
+- Course and section numbers
+- Class days, times, and room
+- Contact information and office hours
+- Course Teams platform
+- Approved required textbook information
+- Official Kuwait University grading scale
+- **Confirmation of the official semester start date** and verification that week numbers and dates match the schedule above
+- Department approval to replace the final examination with the project and approval of the grade distribution
+- Official holidays and days when classes are suspended during the semester, and their alignment with the schedule
+- Official contacts for accommodations and student support
+-->
