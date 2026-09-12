@@ -1,0 +1,491 @@
+/* Shared layout for the course site.
+   This file contains no colours, fonts, or shadows of its own: every visual
+   decision reads a token that a theme file must define. Load it first, then
+   exactly one css/theme-*.css after it.
+
+     css:
+       - css/base.css
+       - css/theme-meyers.css
+
+   Font @import rules belong at the top of the theme file, not here. */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-weight: var(--body-weight);
+  line-height: var(--line-height);
+}
+
+h1,
+h2,
+h3,
+h4,
+.navbar-brand,
+.nav-link {
+  font-family: var(--font-heading);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: var(--heading-weight);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--ink-strong);
+}
+
+h1 {
+  font-weight: var(--h1-weight);
+}
+
+a {
+  color: var(--accent);
+}
+
+/* Prose defaults that Bootstrap paints in cool greys and a bright code purple,
+   both of which read as foreign on a warm page. Blockquote also gets a logical
+   border so its bar sits on the inline start of an RTL page. */
+
+h2,
+.h2 {
+  border-bottom-color: var(--rule);
+}
+
+hr {
+  color: var(--rule);
+  opacity: 1;
+}
+
+blockquote {
+  border-left: 0;
+  border-inline-start: 0.25rem solid var(--rule-strong);
+  color: var(--muted);
+}
+
+code {
+  background-color: var(--surface-alt);
+  color: var(--accent);
+}
+
+.table {
+  --bs-table-color: var(--ink);
+  --bs-table-bg: transparent;
+  --bs-table-border-color: var(--rule);
+  --bs-table-striped-color: var(--ink);
+  --bs-table-hover-color: var(--ink);
+}
+
+/* Navbar ------------------------------------------------------------------
+   `navbar.foreground: light` in _quarto.yml makes Quarto stamp
+   data-bs-theme="dark" on the <nav>, and Bootstrap ships a
+   `.navbar[data-bs-theme=dark]` block that outranks a bare `.navbar`. The
+   attribute selector has to be repeated here or the link colours stay white. */
+
+.navbar,
+.navbar.navbar-dark,
+.navbar[data-bs-theme="dark"] {
+  --bs-navbar-color: var(--nav-fg);
+  --bs-navbar-hover-color: var(--nav-fg-active);
+  --bs-navbar-active-color: var(--nav-fg-active);
+  --bs-navbar-brand-color: var(--nav-fg-active);
+  --bs-navbar-brand-hover-color: var(--nav-fg-active);
+  background-color: var(--nav-bg);
+  color: var(--nav-fg);
+  border-bottom: var(--nav-border-width) solid var(--nav-border);
+  box-shadow: var(--nav-shadow);
+}
+
+.navbar-brand {
+  font-weight: var(--nav-brand-weight);
+}
+
+.nav-link {
+  font-size: 0.9rem;
+}
+
+.navbar .bi {
+  color: var(--nav-fg);
+}
+
+.navbar .bi:hover {
+  color: var(--nav-fg-active);
+}
+
+/* The search glyphs are hard-coded to the light foreground colour, so they need
+   selectors as specific as Quarto's own. */
+.navbar #quarto-search.type-overlay .aa-Autocomplete .aa-Form .aa-Label svg,
+.navbar #quarto-search.type-overlay .aa-Autocomplete .aa-Form .aa-LoadingIndicator svg,
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+  color: var(--nav-fg);
+}
+
+.aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item,
+#quarto-search-results li.aa-Item[aria-selected="true"] .search-item {
+  background-color: var(--accent);
+}
+
+/* The default toggler bakes its stroke colour into a data URI. Re-draw it as a
+   mask so the bars follow --nav-fg instead. */
+.navbar-toggler-icon {
+  background-image: none;
+  background-color: var(--nav-fg);
+  -webkit-mask-image: var(--icon-burger);
+  mask-image: var(--icon-burger);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+
+/* Hero -------------------------------------------------------------------- */
+
+.hero {
+  margin: 0 0 2.25rem;
+  padding: clamp(1.7rem, 4vw, 3.5rem);
+  border-radius: var(--hero-radius);
+  border-bottom: var(--hero-border-width) solid var(--hero-border);
+  background: var(--hero-bg);
+  color: var(--hero-fg);
+  box-shadow: var(--hero-shadow);
+}
+
+.hero h1 {
+  margin: 0 0 0.65rem;
+  color: var(--hero-h1);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+}
+
+.hero .lead {
+  margin-bottom: 1.5rem;
+  color: var(--hero-lead);
+  font-size: clamp(1rem, 2vw, 1.25rem);
+}
+
+.course-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.2rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.course-facts li {
+  padding: 0.45rem 0.8rem;
+  border: 1px solid var(--hero-pill-border);
+  border-radius: 999px;
+  background: var(--hero-pill-bg);
+  color: var(--hero-pill-fg);
+  font-size: 0.92rem;
+}
+
+/* Cards ------------------------------------------------------------------- */
+
+.quick-links,
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2.25rem;
+}
+
+.quick-links > p {
+  display: contents;
+}
+
+.quick-link,
+.resource-card {
+  display: block;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--ink);
+  text-decoration: none;
+  box-shadow: var(--card-shadow);
+  transition:
+    border-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease;
+}
+
+.quick-link:hover,
+.resource-card:hover {
+  border-color: var(--accent);
+  color: var(--ink);
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-2px);
+}
+
+.quick-link strong,
+.resource-card h3 {
+  display: block;
+  margin: 0 0 0.3rem;
+  color: var(--ink-strong);
+  font-family: var(--font-heading);
+}
+
+.resource-card h3 {
+  font-size: 1.05rem;
+}
+
+.quick-link span,
+.resource-card p,
+.resource-card .meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.resource-card p:last-child {
+  margin-bottom: 0;
+}
+
+/* Buttons ----------------------------------------------------------------- */
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 0.9rem;
+}
+
+.course-button {
+  display: inline-block;
+  padding: 0.38rem 0.72rem;
+  border: 1px solid var(--accent);
+  border-radius: var(--button-radius);
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.course-button:hover {
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+/* Schedule ---------------------------------------------------------------- */
+
+.schedule-note {
+  margin: 1rem 0 1.4rem;
+  padding: 0.9rem 1rem;
+  border-inline-start: 4px solid var(--accent-2);
+  border-radius: var(--radius-sm);
+  background: var(--accent-2-tint);
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  overflow: hidden;
+  font-size: 0.94rem;
+}
+
+.schedule-table th {
+  padding: 0.8rem 0.7rem;
+  background: var(--thead-bg);
+  border-bottom: var(--thead-rule-width) solid var(--thead-rule);
+  color: var(--thead-fg);
+  text-align: end;
+  vertical-align: top;
+}
+
+.schedule-table td {
+  padding: 0.8rem 0.7rem;
+  border-top: 1px solid var(--rule);
+  vertical-align: top;
+}
+
+.schedule-table tbody tr:first-child td {
+  border-top: 0;
+}
+
+.schedule-table tr:nth-child(even) td {
+  background: var(--row-alt);
+}
+
+.schedule-table .deadline {
+  color: var(--alert);
+  font-weight: 600;
+}
+
+.schedule-table .week {
+  width: 5rem;
+  color: var(--ink-strong);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.coming-soon {
+  padding: 1.4rem;
+  border: 1px dashed var(--rule-strong);
+  border-radius: var(--radius);
+  background: var(--surface-alt);
+  color: var(--muted);
+  text-align: center;
+}
+
+/* Callouts ---------------------------------------------------------------
+   Quarto's defaults use physical borders and colour-baked icon data URIs, so
+   on an RTL page the accent bar lands on the trailing edge and the icons stay
+   Bootstrap green/blue/red whatever the theme does. Both are fixed here: the
+   bar moves to the inline start, and the icons become masks tinted by
+   --callout-accent. */
+
+.callout.callout-style-default {
+  border-left: 0;
+  border-right: 0;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  border-inline-start: 4px solid var(--callout-accent);
+  border-inline-end: 1px solid var(--rule);
+  border-radius: var(--radius-sm);
+}
+
+.callout.callout-style-default > .callout-header {
+  background-color: var(--callout-bg);
+  color: var(--ink-strong);
+  font-family: var(--font-heading);
+  opacity: 1;
+}
+
+.callout-icon-container {
+  padding-right: 0;
+  padding-inline-end: 0.35em;
+}
+
+.callout .callout-icon::before {
+  background-image: none;
+  background-color: var(--callout-accent);
+  -webkit-mask-image: var(--callout-icon);
+  mask-image: var(--callout-icon);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+
+.callout-note {
+  --callout-accent: var(--tone-note);
+  --callout-bg: var(--tone-note-tint);
+  --callout-icon: var(--icon-info);
+}
+
+.callout-tip {
+  --callout-accent: var(--tone-tip);
+  --callout-bg: var(--tone-tip-tint);
+  --callout-icon: var(--icon-lightbulb);
+}
+
+.callout-warning {
+  --callout-accent: var(--tone-warning);
+  --callout-bg: var(--tone-warning-tint);
+  --callout-icon: var(--icon-triangle);
+}
+
+.callout-caution {
+  --callout-accent: var(--tone-caution);
+  --callout-bg: var(--tone-caution-tint);
+  --callout-icon: var(--icon-cone);
+}
+
+.callout-important {
+  --callout-accent: var(--tone-important);
+  --callout-bg: var(--tone-important-tint);
+  --callout-icon: var(--icon-exclamation);
+}
+
+/* Monochrome Bootstrap Icons paths, drawn as masks so the fill is irrelevant. */
+:root {
+  --icon-burger: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path stroke="%23000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"/></svg>');
+  --icon-info: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/><path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/></svg>');
+  --icon-lightbulb: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1z"/></svg>');
+  --icon-triangle: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/><path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995z"/></svg>');
+  --icon-cone: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9.97 4.88l.953 3.811C10.158 8.878 9.14 9 8 9c-1.14 0-2.159-.122-2.923-.309L6.03 4.88C6.635 4.957 7.3 5 8 5s1.365-.043 1.97-.12zm-.245-.978L8.97.88C8.718-.13 7.282-.13 7.03.88L6.274 3.9C6.8 3.965 7.382 4 8 4c.618 0 1.2-.036 1.725-.098zm4.396 8.613a.5.5 0 0 1 .037.96l-6 2a.5.5 0 0 1-.316 0l-6-2a.5.5 0 0 1 .037-.96l2.391-.598.565-2.257c.862.212 1.964.339 3.165.339s2.303-.127 3.165-.339l.565 2.257 2.391.598z"/></svg>');
+  --icon-exclamation: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/><path d="M7.002 11a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 4.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995z"/></svg>');
+}
+
+/* Table of contents ------------------------------------------------------ */
+
+nav[role="doc-toc"] > h2,
+nav[role="doc-toc"] > .h2 {
+  color: var(--muted);
+  font-family: var(--font-heading);
+}
+
+nav[role="doc-toc"] > ul a {
+  border-left: 0;
+  padding-left: 0;
+  border-inline-start: 1px solid var(--rule);
+  padding-inline-start: 0.6rem;
+  color: var(--muted);
+}
+
+nav[role="doc-toc"] > ul li a:hover,
+nav[role="doc-toc"] > ul li a.active {
+  border-inline-start-color: var(--accent);
+  color: var(--accent);
+}
+
+/* Footer ----------------------------------------------------------------- */
+
+.nav-footer {
+  background-color: var(--footer-bg);
+  border-top: 1px solid var(--rule);
+  color: var(--footer-fg);
+  font-size: 0.88rem;
+}
+
+.nav-footer a {
+  color: var(--accent);
+}
+
+/* Responsive ------------------------------------------------------------- */
+
+@media (max-width: 760px) {
+  .hero {
+    margin-inline: -0.75rem;
+    border-radius: 0;
+  }
+
+  .schedule-table {
+    display: block;
+    overflow-x: auto;
+    white-space: normal;
+  }
+
+  .schedule-table th,
+  .schedule-table td {
+    min-width: 8rem;
+  }
+
+  .schedule-table .week {
+    min-width: 4rem;
+  }
+}
+
+@media print {
+  .navbar,
+  .nav-footer,
+  #quarto-margin-sidebar,
+  .button-row {
+    display: none !important;
+  }
+}

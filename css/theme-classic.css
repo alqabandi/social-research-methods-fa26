@@ -1,0 +1,89 @@
+/* Theme: Classic — the original navy / gold / teal look.
+   A faithful port of the pre-refactor styles.css, kept so the current
+   semester's appearance is always one line away. Load after css/base.css.
+
+   Callout, footer, and TOC tokens reproduce the Bootstrap "cosmo" defaults
+   that the old stylesheet left alone. */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap");
+
+:root {
+  /* Type */
+  --font-heading: "Noto Kufi Arabic", "Noto Sans Arabic", Arial, sans-serif;
+  --font-body: "Noto Sans Arabic", Arial, sans-serif;
+  --body-weight: 400;
+  --heading-weight: 700;
+  --h1-weight: 700;
+  --line-height: 1.9;
+
+  /* Surfaces and text */
+  --paper: #ffffff;
+  --surface: #ffffff;
+  --surface-alt: #f8fafb;
+  --ink: #23313f;
+  --ink-strong: #17324d;
+  --muted: #657382;
+  --rule: #dce3e8;
+  --rule-strong: #aab7c2;
+
+  /* Accents */
+  --accent: #176c76;
+  --on-accent: #ffffff;
+  --accent-2: #d6aa4b;
+  --accent-2-tint: #fff8e8;
+  --alert: #8c4d31;
+
+  /* Shape */
+  --radius: 0.8rem;
+  --radius-sm: 0.35rem;
+  --button-radius: 999px;
+  --card-shadow: 0 7px 22px rgba(23, 50, 77, 0.07);
+  --card-shadow-hover: 0 12px 26px rgba(23, 50, 77, 0.12);
+
+  /* Navbar */
+  --nav-bg: #17324d;
+  --nav-fg: #f8f9fa;
+  --nav-fg-active: #ffffff;
+  --nav-border: #d6aa4b;
+  --nav-border-width: 3px;
+  --nav-brand-weight: 700;
+  --nav-shadow: 0 3px 14px rgba(23, 50, 77, 0.13);
+
+  /* Hero */
+  --hero-bg:
+    radial-gradient(circle at 12% 20%, rgba(214, 170, 75, 0.28), transparent 20rem),
+    linear-gradient(135deg, #17324d, #244b70);
+  --hero-fg: #ffffff;
+  --hero-h1: #ffffff;
+  --hero-lead: #f4e6c7;
+  --hero-radius: 0 0 1.25rem 1.25rem;
+  --hero-border: transparent;
+  --hero-border-width: 0;
+  --hero-shadow: 0 18px 45px rgba(23, 50, 77, 0.17);
+  --hero-pill-bg: rgba(255, 255, 255, 0.09);
+  --hero-pill-border: rgba(255, 255, 255, 0.24);
+  --hero-pill-fg: #ffffff;
+
+  /* Schedule table */
+  --thead-bg: #17324d;
+  --thead-fg: #ffffff;
+  --thead-rule: #17324d;
+  --thead-rule-width: 0;
+  --row-alt: #f7f9fa;
+
+  /* Callouts — Bootstrap cosmo values */
+  --tone-note: #2780e3;
+  --tone-note-tint: #e9f2fc;
+  --tone-tip: #3fb618;
+  --tone-tip-tint: #ecf8e8;
+  --tone-warning: #ff7518;
+  --tone-warning-tint: #fff1e8;
+  --tone-caution: #f0ad4e;
+  --tone-caution-tint: #fdf7ed;
+  --tone-important: #ff0039;
+  --tone-important-tint: #ffe6eb;
+
+  /* Chrome */
+  --footer-bg: #ffffff;
+  --footer-fg: hsl(0, 0%, 46%);
+}

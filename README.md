@@ -19,10 +19,38 @@ The personal website should contain only a Teaching-page link to this course sit
 - `slides.qmd` and `slides/` — lecture slides
 - `resources.qmd` — public research and data resources
 - `materials/` — copied public syllabus and rubric sources plus downloadable PDFs
+- `styles.css` — the original single-file stylesheet, kept as a fallback
+- `css/` — swappable website themes (see below)
 - `scripts/` — translation check and local PDF rendering
 - `.github/workflows/publish.yml` — automatic GitHub Pages deployment
 
 Instructor notes, answer keys, student information, and other private materials must not be added to this public repository.
+
+## Changing the website look
+
+`css/base.css` holds all the layout and reads its colours, fonts, and shadows from CSS variables. One theme file supplies those variables:
+
+| Theme | Look |
+| --- | --- |
+| `css/theme-classic.css` | Navy, gold, and teal — the original design |
+| `css/theme-meyers.css` | Cream page, espresso and brass structure |
+| `css/theme-scandi.css` | Warm white page, deep pine and sage structure, crisper corners |
+
+All three share the same hierarchy: a dark hero, navbar, and table header to anchor the page, white cards lifting off tinted paper, and callouts with a saturated bar and tint. Only the palette and the type change.
+
+Switch by editing the `css` key in `_quarto.yml`:
+
+```yaml
+format:
+  html:
+    css:
+      - css/base.css
+      - css/theme-meyers.css
+```
+
+Load exactly one theme, always after `base.css`. To add a new look, copy an existing theme file and change the values — no layout rules need touching.
+
+The downloadable syllabus and rubrics in `materials/` set their own `css:` and `embed-resources: true`, so they are self-contained and unaffected by the website theme. Their palettes live in `materials/syllabus-print.css`, `materials/research-proposal-rubric.css`, and `materials/presentation-rubric-landscape.css`.
 
 ## Local workflow
 

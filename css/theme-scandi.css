@@ -1,0 +1,96 @@
+/* Theme: Scandi — warm white page, deep pine and sage structure.
+   Cooler and crisper than Meyers, with tighter corners and a greener accent,
+   but built on the same hierarchy: a dark hero, navbar, and table header to
+   anchor the page, white cards that lift off tinted paper, and callouts with a
+   saturated bar and tint. Load after css/base.css.
+
+   Latin text falls to Noto Serif and Arabic to Noto Naskh Arabic, because the
+   browser walks the stack per character and Noto Serif carries no Arabic.
+
+   Contrast against --paper (#f7f6f1): --ink 16.1:1, --muted 5.4:1,
+   --accent 6.7:1, --alert 6.1:1. --accent-2 (sage) is roughly 3.5:1 and is
+   therefore only used for rules, bars, and fills — never for body text. */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600&display=swap");
+
+:root {
+  /* Type */
+  --font-heading: "Noto Serif", "Noto Naskh Arabic", Georgia, serif;
+  --font-body: "IBM Plex Sans Arabic", "IBM Plex Sans", -apple-system, sans-serif;
+  --body-weight: 400;
+  --heading-weight: 600;
+  --h1-weight: 600;
+  --line-height: 1.9;
+
+  /* Surfaces and text */
+  --paper: #f7f6f1;
+  --surface: #ffffff;
+  --surface-alt: #edebe3;
+  --ink: #26251f;
+  --ink-strong: #2e3a31;
+  --muted: #66645d;
+  --rule: #e0ddd2;
+  --rule-strong: #c4c0b2;
+
+  /* Accents */
+  --accent: #42574a;
+  --on-accent: #ffffff;
+  --accent-2: #7a8a6e;
+  --accent-2-tint: #e8ede0;
+  --alert: #8f4a2f;
+
+  /* Shape — crisper than Meyers */
+  --radius: 0.4rem;
+  --radius-sm: 0.25rem;
+  --button-radius: 0.3rem;
+  --card-shadow: 0 6px 18px rgba(38, 37, 31, 0.07);
+  --card-shadow-hover: 0 10px 24px rgba(38, 37, 31, 0.13);
+
+  /* Navbar — deep pine with a sage rule. For a light navbar instead, set
+     --nav-bg to #f1f0ea, --nav-fg to #4a4842, and --nav-fg-active to #24231f. */
+  --nav-bg: #2e3a31;
+  --nav-fg: #e4eadf;
+  --nav-fg-active: #ffffff;
+  --nav-border: #7a8a6e;
+  --nav-border-width: 3px;
+  --nav-brand-weight: 600;
+  --nav-shadow: 0 3px 14px rgba(38, 37, 31, 0.14);
+
+  /* Hero */
+  --hero-bg:
+    radial-gradient(120% 95% at 85% 0%, rgba(160, 184, 148, 0.24), transparent 65%),
+    linear-gradient(135deg, #2e3a31, #445244);
+  --hero-fg: #edf1ea;
+  --hero-h1: #ffffff;
+  --hero-lead: #c8d6c2;
+  --hero-radius: 0 0 0.6rem 0.6rem;
+  --hero-border: transparent;
+  --hero-border-width: 0;
+  --hero-shadow: 0 16px 40px rgba(38, 37, 31, 0.18);
+  --hero-pill-bg: rgba(255, 255, 255, 0.1);
+  --hero-pill-border: rgba(255, 255, 255, 0.28);
+  --hero-pill-fg: #ffffff;
+
+  /* Schedule table */
+  --thead-bg: #2e3a31;
+  --thead-fg: #edf1ea;
+  --thead-rule: #2e3a31;
+  --thead-rule-width: 0;
+  --row-alt: #f2f1eb;
+
+  /* Callouts */
+  --tone-note: #42565f;
+  --tone-note-tint: #e4eaec;
+  --tone-tip: #42574a;
+  --tone-tip-tint: #e4ede3;
+  --tone-warning: #7e6428;
+  --tone-warning-tint: #f4eed9;
+  --tone-caution: #7a6a34;
+  --tone-caution-tint: #f3efdd;
+  --tone-important: #8f4a2f;
+  --tone-important-tint: #f6e4dc;
+
+  /* Chrome */
+  --footer-bg: #edebe3;
+  --footer-fg: #66645d;
+}

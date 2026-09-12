@@ -9,39 +9,45 @@ toc-title: "في هذه الصفحة"
 
 ## بيانات وإحصاءات الكويت
 
-::: {.resource-grid}
-[### الإدارة المركزية للإحصاء
-
-الإحصاءات الرسمية لدولة الكويت.](https://www.csb.gov.kw/){.resource-card}
-
-[### تعداد الكويت ٢٠٢١
-
-نتائج وبيانات التعداد السكاني.](https://census.csb.gov.kw/){.resource-card}
-
-[### نظام معلومات سوق العمل
-
-مؤشرات وبيانات مرتبطة بسوق العمل.](https://lmis.csb.gov.kw/){.resource-card}
-
-[### بوابة البيانات المفتوحة
-
-مجموعات بيانات منشورة من الجهات الحكومية الكويتية.](https://data.gov.kw/){.resource-card}
-:::
+```{=html}
+<div class="resource-grid">
+<a class="resource-card" href="https://www.csb.gov.kw/" target="_blank" rel="noopener">
+<h3>الإدارة المركزية للإحصاء</h3>
+<p>الإحصاءات الرسمية لدولة الكويت.</p>
+</a>
+<a class="resource-card" href="https://census.csb.gov.kw/" target="_blank" rel="noopener">
+<h3>تعداد الكويت ٢٠٢١</h3>
+<p>نتائج وبيانات التعداد السكاني.</p>
+</a>
+<a class="resource-card" href="https://lmis.csb.gov.kw/" target="_blank" rel="noopener">
+<h3>نظام معلومات سوق العمل</h3>
+<p>مؤشرات وبيانات مرتبطة بسوق العمل.</p>
+</a>
+<a class="resource-card" href="https://data.gov.kw/" target="_blank" rel="noopener">
+<h3>بوابة البيانات المفتوحة</h3>
+<p>مجموعات بيانات منشورة من الجهات الحكومية الكويتية.</p>
+</a>
+</div>
+```
 
 ## مصادر دولية
 
-::: {.resource-grid}
-[### Our World in Data
-
-بيانات ورسوم توضيحية موثّقة حول موضوعات اجتماعية واقتصادية وصحية.](https://ourworldindata.org/){.resource-card}
-
-[### Gapminder
-
-أدوات وبيانات لاستكشاف التحولات العالمية ومقارنتها.](https://www.gapminder.org/){.resource-card}
-
-[### Google Scholar
-
-محرك بحث للأبحاث والكتب والمصادر الأكاديمية.](https://scholar.google.com/){.resource-card}
-:::
+```{=html}
+<div class="resource-grid">
+<a class="resource-card" href="https://ourworldindata.org/" target="_blank" rel="noopener">
+<h3>Our World in Data</h3>
+<p>بيانات ورسوم توضيحية موثّقة حول موضوعات اجتماعية واقتصادية وصحية.</p>
+</a>
+<a class="resource-card" href="https://www.gapminder.org/" target="_blank" rel="noopener">
+<h3>Gapminder</h3>
+<p>أدوات وبيانات لاستكشاف التحولات العالمية ومقارنتها.</p>
+</a>
+<a class="resource-card" href="https://scholar.google.com/" target="_blank" rel="noopener">
+<h3>Google Scholar</h3>
+<p>محرك بحث للأبحاث والكتب والمصادر الأكاديمية.</p>
+</a>
+</div>
+```
 
 ::: {.callout-tip}
 ## قبل استخدام أي مصدر

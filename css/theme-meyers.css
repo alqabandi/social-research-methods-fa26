@@ -1,0 +1,97 @@
+/* Theme: Meyers — cream and oatmeal page, espresso and brass structure.
+   Warm rather than pale: the page stays light, but the hero, navbar, and table
+   headers are deep walnut so they anchor the layout the way the navy does in
+   Classic. Cards are pure white on tinted paper so they lift, and callouts keep
+   a saturated bar and tint so a tip still reads as a tip. Load after
+   css/base.css.
+
+   Latin text falls to Noto Serif and Arabic to Noto Naskh Arabic, because the
+   browser walks the stack per character and Noto Serif carries no Arabic.
+
+   Contrast against --paper (#fbf6ee): --ink 15.1:1, --muted 5.5:1,
+   --accent 6.2:1, --alert 5.8:1. --accent-2 (brass) is roughly 3.7:1 and is
+   therefore only used for rules, bars, and fills — never for body text. */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600&display=swap");
+
+:root {
+  /* Type */
+  --font-heading: "Noto Serif", "Noto Naskh Arabic", Georgia, serif;
+  --font-body: "IBM Plex Sans Arabic", "IBM Plex Sans", -apple-system, sans-serif;
+  --body-weight: 400;
+  --heading-weight: 600;
+  --h1-weight: 600;
+  --line-height: 1.9;
+
+  /* Surfaces and text — cream paper, white cards */
+  --paper: #fbf6ee;
+  --surface: #ffffff;
+  --surface-alt: #f5ede1;
+  --ink: #2e2a24;
+  --ink-strong: #3a3028;
+  --muted: #6b6259;
+  --rule: #e4d9c8;
+  --rule-strong: #c9b99f;
+
+  /* Accents */
+  --accent: #4c5f69;
+  --on-accent: #ffffff;
+  --accent-2: #9a7a42;
+  --accent-2-tint: #fbefd6;
+  --alert: #9a4a2e;
+
+  /* Shape */
+  --radius: 0.8rem;
+  --radius-sm: 0.35rem;
+  --button-radius: 999px;
+  --card-shadow: 0 7px 20px rgba(58, 48, 42, 0.08);
+  --card-shadow-hover: 0 12px 26px rgba(58, 48, 42, 0.14);
+
+  /* Navbar — deep walnut with a brass rule. For a light navbar instead, set
+     --nav-bg to #fbf5ec, --nav-fg to #4a443c, and --nav-fg-active to #2c2a26. */
+  --nav-bg: #3a3028;
+  --nav-fg: #efe4d2;
+  --nav-fg-active: #ffffff;
+  --nav-border: #9a7a42;
+  --nav-border-width: 3px;
+  --nav-brand-weight: 600;
+  --nav-shadow: 0 3px 14px rgba(58, 48, 42, 0.14);
+
+  /* Hero */
+  --hero-bg:
+    radial-gradient(120% 95% at 85% 0%, rgba(214, 176, 106, 0.3), transparent 65%),
+    linear-gradient(135deg, #3a3028, #574636);
+  --hero-fg: #f6eee0;
+  --hero-h1: #ffffff;
+  --hero-lead: #e8d5b4;
+  --hero-radius: 0 0 1.25rem 1.25rem;
+  --hero-border: transparent;
+  --hero-border-width: 0;
+  --hero-shadow: 0 16px 40px rgba(58, 48, 42, 0.2);
+  --hero-pill-bg: rgba(255, 255, 255, 0.1);
+  --hero-pill-border: rgba(255, 255, 255, 0.28);
+  --hero-pill-fg: #ffffff;
+
+  /* Schedule table */
+  --thead-bg: #3a3028;
+  --thead-fg: #f6eee0;
+  --thead-rule: #3a3028;
+  --thead-rule-width: 0;
+  --row-alt: #faf4ea;
+
+  /* Callouts — saturated enough to read as highlights */
+  --tone-note: #4c5f69;
+  --tone-note-tint: #e4eaed;
+  --tone-tip: #5a7048;
+  --tone-tip-tint: #e9efdf;
+  --tone-warning: #8a5a20;
+  --tone-warning-tint: #fbebd2;
+  --tone-caution: #8a6b2c;
+  --tone-caution-tint: #faf0da;
+  --tone-important: #9a4a2e;
+  --tone-important-tint: #f8e2d8;
+
+  /* Chrome */
+  --footer-bg: #f5ede1;
+  --footer-fg: #6b6259;
+}

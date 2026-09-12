@@ -11,7 +11,7 @@ website:
   favicon: assets/favicon.svg
   open-graph: true
   navbar:
-    background: primary
+    background: "#17324d"
     foreground: light
     pinned: true
     right:
@@ -38,7 +38,9 @@ dir: rtl
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css:
+      - css/base.css
+      - css/theme-classic.css
     toc: true
     toc-location: right
     link-external-newwindow: true
