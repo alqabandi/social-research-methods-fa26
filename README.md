@@ -28,30 +28,19 @@ Instructor notes, answer keys, student information, and other private materials 
 
 ## Changing the website look
 
-`css/base.scss` holds all the layout and reads its colours, fonts, and shadows from CSS variables. One theme file supplies those variables:
-
-| Theme | Look |
-| --- | --- |
-| `css/theme-classic.scss` | Navy, gold, and teal — the original design |
-| `css/theme-meyers.scss` | Cream page, espresso and brass structure |
-| `css/theme-scandi.scss` | Warm white page, deep pine and sage structure, crisper corners |
-
-All three share the same hierarchy: a dark hero, navbar, and table header to anchor the page, white cards lifting off tinted paper, and callouts with a saturated bar and tint. Only the palette and the type change.
-
-Switch by editing the `theme` key in `_quarto.yml`:
+The active design is `css/brite.scss`, a Quarto and Arabic adaptation of the
+Bootswatch Brite 5.3.8 theme. It defines both Bootstrap variables and the
+course-specific homepage, cards, schedule, callouts, and responsive behavior.
+It is loaded directly from `_quarto.yml`:
 
 ```yaml
 format:
   html:
-    theme:
-      - cosmo
-      - css/base.scss
-      - css/theme-meyers.scss
+    theme: css/brite.scss
 ```
 
-Load exactly one theme, always after `base.scss`. To add a new look, copy an existing theme file and change the values — no layout rules need touching.
-
-These are plain CSS despite the `.scss` extension, which is a superset. They are listed under `theme` rather than `css` so that Quarto compiles them into its own stylesheet bundle and fingerprints the filename. That fingerprint is what lets a returning visitor pick up a restyle immediately: a file served under a stable name like `css/base.css` sits in the browser cache for ten minutes under the `max-age` GitHub Pages sends, long enough for students to see new markup styled by an old stylesheet. Each file needs the `/*-- scss:rules --*/` marker near the top so Quarto layers it after Bootstrap's own rules.
+The earlier navy, Meyers, and Scandi experiments remain in `css/` as design
+references but are not loaded by the website.
 
 The downloadable syllabus and rubrics in `materials/` set their own `css:` and `embed-resources: true`, so they are self-contained and unaffected by the website theme. Their palettes live in `materials/syllabus-print.css`, `materials/research-proposal-rubric.css`, and `materials/presentation-rubric-landscape.css`.
 

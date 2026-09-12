@@ -1,0 +1,605 @@
+/*-- scss:defaults --*/
+
+// Bootswatch Brite 5.3.8, adapted for Quarto and Arabic course content.
+$theme: "brite";
+
+$white: #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-600: #868e96;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black: #000;
+
+$blue: #61bcff;
+$indigo: #828df9;
+$purple: #be82fa;
+$pink: #ea4998;
+$red: #f56565;
+$orange: #fa984a;
+$yellow: #ffc700;
+$green: #68d391;
+$teal: #2ed3be;
+$cyan: #22d2ed;
+$lime: #a2e436;
+
+$primary: $lime;
+$secondary: $white;
+$success: $green;
+$info: $cyan;
+$warning: $yellow;
+$danger: $red;
+$light: $gray-200;
+$dark: $black;
+
+$body-color: $black;
+$body-bg: $white;
+$link-color: $black;
+$font-family-sans-serif: "IBM Plex Sans Arabic", "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$headings-font-family: "Noto Kufi Arabic", "IBM Plex Sans Arabic", sans-serif;
+$font-size-base: 1rem;
+$line-height-base: 1.85;
+$headings-font-weight: 600;
+$border-width: 2px;
+$border-color: $black;
+$border-radius: .375rem;
+$border-radius-lg: .5rem;
+
+$navbar-padding-y: .75rem;
+$navbar-nav-link-padding-x: 1rem;
+$navbar-light-color: $black;
+$navbar-light-hover-color: $black;
+$navbar-light-active-color: $black;
+$navbar-light-toggler-border-color: $black;
+
+$card-border-color: $black;
+$table-border-color: $black;
+$table-cell-padding-y: .75rem;
+$table-cell-padding-x: .75rem;
+$dropdown-border-color: $black;
+$dropdown-border-width: 2px;
+$dropdown-link-hover-bg: $primary;
+$accordion-button-active-bg: $primary;
+$accordion-button-active-color: $black;
+$badge-color: $black;
+
+/*-- scss:rules --*/
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@500;600;700&display=swap");
+
+:root {
+  --bs-border-width: 2px;
+  --bs-border-color: #000;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+.navbar-brand,
+.nav-link {
+  font-family: $headings-font-family;
+}
+
+h1 {
+  line-height: 1.35;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  padding-bottom: .45rem;
+  border-bottom: 2px solid $black;
+}
+
+a {
+  font-weight: 600;
+  text-underline-offset: .16em;
+}
+
+code {
+  border: 1px solid $black;
+  border-radius: .25rem;
+  background: #fff4cc;
+  color: $black;
+}
+
+blockquote {
+  border-left: 0;
+  border-inline-start: .5rem solid $primary;
+  background: $gray-100;
+}
+
+/* Navigation ------------------------------------------------------------ */
+
+.navbar {
+  border-bottom: 2px solid $black;
+  font-weight: 600;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.navbar .nav-link {
+  border-radius: $border-radius;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  background: $white;
+  color: $black;
+  outline: 2px solid $black;
+}
+
+.navbar-toggler,
+.dropdown-menu {
+  border: 2px solid $black;
+}
+
+.dropdown-menu {
+  box-shadow: 3px 3px 0 0 $black;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background: $primary;
+  color: $black;
+}
+
+.navbar #quarto-search.type-overlay .aa-Autocomplete .aa-Form {
+  border: 2px solid $black;
+}
+
+/* Buttons --------------------------------------------------------------- */
+
+.btn,
+.course-button {
+  display: inline-block;
+  margin: 3px 0 0 3px;
+  padding: .5rem 1rem;
+  border: 2px solid $black;
+  border-radius: $border-radius;
+  background: $primary;
+  color: $black;
+  box-shadow: 3px 3px 0 0 $black;
+  font-weight: 700;
+  line-height: 1.5;
+  text-decoration: none;
+  transform: translate(-3px, -3px);
+  transition: box-shadow .2s ease, transform .2s ease;
+}
+
+.btn:hover,
+.btn:focus,
+.course-button:hover,
+.course-button:focus {
+  border-color: $black;
+  background: $primary;
+  color: $black;
+  box-shadow: none;
+  transform: translate(0, 0);
+}
+
+.btn-secondary,
+.document-actions .btn-secondary,
+.resource-card .course-button:nth-child(even) {
+  background: $white;
+}
+
+.btn-dark {
+  background: $black;
+  color: $white;
+}
+
+.btn-dark:hover,
+.btn-dark:focus {
+  background: $black;
+  color: $white;
+}
+
+.document-actions,
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .8rem;
+  margin: 1.25rem 0 .25rem;
+}
+
+/* Homepage hero --------------------------------------------------------- */
+
+.hero {
+  position: relative;
+  margin: 1.5rem 0 3rem;
+  padding: clamp(1.5rem, 4vw, 3.75rem);
+  overflow: hidden;
+  border: 2px solid $black;
+  border-radius: $border-radius-lg;
+  background:
+    radial-gradient(circle at 12% 14%, rgba(255, 255, 255, .45), transparent 14rem),
+    $primary;
+  box-shadow: 8px 8px 0 0 $black;
+}
+
+.hero::after {
+  position: absolute;
+  inset-inline-end: -2rem;
+  bottom: -4.5rem;
+  width: 13rem;
+  height: 13rem;
+  border: 2px solid $black;
+  border-radius: 50%;
+  background: $cyan;
+  content: "";
+  opacity: .75;
+}
+
+.hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+.hero h1 {
+  max-width: 15ch;
+  margin: .9rem 0 .75rem;
+  border: 0;
+  font-size: clamp(2.4rem, 7vw, 5rem);
+  line-height: 1.2;
+}
+
+.hero p:not(.lead) {
+  max-width: 64ch;
+}
+
+.hero .lead {
+  max-width: 64ch;
+  margin-bottom: 1rem;
+  font-size: clamp(1.05rem, 2vw, 1.25rem);
+  font-weight: 500;
+}
+
+.badge {
+  border: 2px solid $black;
+  background: $white;
+  color: $black;
+  font-weight: 700;
+}
+
+/* Homepage cards and facts --------------------------------------------- */
+
+.quick-link-grid,
+.quick-links,
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.25rem 0 2.75rem;
+}
+
+.quick-links > p {
+  display: contents;
+}
+
+.quick-link-card,
+.quick-link,
+.resource-card {
+  display: flex;
+  min-height: 11rem;
+  flex-direction: column;
+  padding: 1.35rem;
+  border: 2px solid $black;
+  border-radius: $border-radius-lg;
+  background: $white;
+  color: $black;
+  box-shadow: 4px 4px 0 0 $black;
+  text-decoration: none;
+  transition: box-shadow .2s ease, transform .2s ease;
+}
+
+.quick-link-card:nth-child(2),
+.quick-link:nth-child(2),
+.resource-card:nth-child(2),
+.resource-grid > p:nth-child(2) .resource-card {
+  background: #d3f6fb;
+}
+
+.quick-link-card:nth-child(3),
+.quick-link:nth-child(3),
+.resource-card:nth-child(3),
+.resource-grid > p:nth-child(3) .resource-card {
+  background: #fff4cc;
+}
+
+.quick-link-card:hover,
+.quick-link:hover,
+.resource-card:hover {
+  color: $black;
+  box-shadow: none;
+  transform: translate(4px, 4px);
+}
+
+.quick-link-card h3,
+.quick-link strong,
+.resource-card h3 {
+  display: block;
+  margin: 0 0 .65rem;
+  color: $black;
+  font-family: $headings-font-family;
+  font-size: 1.12rem;
+}
+
+.quick-link span,
+.resource-card p {
+  font-weight: 400;
+}
+
+.quick-link-card > p:last-child,
+.quick-link > span:last-child,
+.resource-card .button-row {
+  margin-top: auto;
+}
+
+.card-arrow {
+  font-weight: 700;
+}
+
+.course-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2.75rem;
+}
+
+.course-fact {
+  padding: 1rem 1.15rem;
+  border-inline-start: .55rem solid $primary;
+  background: $gray-100;
+}
+
+.course-fact:nth-child(2) {
+  border-inline-start-color: $cyan;
+}
+
+.course-fact:nth-child(3) {
+  border-inline-start-color: $yellow;
+}
+
+.course-fact:nth-child(4) {
+  border-inline-start-color: $pink;
+}
+
+.course-fact strong {
+  display: block;
+  margin-bottom: .2rem;
+  font-family: $headings-font-family;
+}
+
+/* Schedule -------------------------------------------------------------- */
+
+.schedule-note {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem 1.15rem;
+  border: 2px solid $black;
+  border-inline-start-width: .65rem;
+  border-radius: $border-radius;
+  background: #fff4cc;
+}
+
+.schedule-table {
+  width: 100%;
+  margin: 1rem 0 2rem;
+  overflow: hidden;
+  border: 2px solid $black;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: $border-radius-lg;
+  box-shadow: 5px 5px 0 0 $black;
+  font-size: .94rem;
+}
+
+.schedule-table th {
+  padding: .85rem .75rem;
+  border-bottom: 2px solid $black;
+  background: $primary;
+  color: $black;
+  font-family: $headings-font-family;
+  text-align: start;
+  vertical-align: top;
+}
+
+.schedule-table td {
+  padding: .85rem .75rem;
+  border-top: 1px solid $black;
+  background: $white;
+  vertical-align: top;
+}
+
+.schedule-table th + th,
+.schedule-table td + td {
+  border-inline-start: 1px solid $black;
+}
+
+.schedule-table tbody tr:first-child td {
+  border-top: 0;
+}
+
+.schedule-table tr:nth-child(even) td {
+  background: #f3fbfc;
+}
+
+.schedule-table .week {
+  width: 5rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.schedule-table .deadline {
+  background: #fff4cc;
+  color: $black;
+  font-weight: 600;
+}
+
+/* Quarto components ----------------------------------------------------- */
+
+.callout.callout-style-default {
+  border: 2px solid $black;
+  border-radius: $border-radius;
+  box-shadow: 4px 4px 0 0 $black;
+}
+
+.callout.callout-style-default > .callout-header {
+  border-bottom: 1px solid $black;
+  background: $primary;
+  color: $black;
+  font-family: $headings-font-family;
+  opacity: 1;
+}
+
+.callout.callout-tip > .callout-header {
+  background: $green;
+}
+
+.callout.callout-warning > .callout-header {
+  background: $yellow;
+}
+
+.callout.callout-important > .callout-header,
+.callout.callout-caution > .callout-header {
+  background: $red;
+}
+
+.callout .callout-body-container {
+  background: $white;
+}
+
+.coming-soon {
+  padding: 1.5rem;
+  border: 2px dashed $black;
+  border-radius: $border-radius-lg;
+  background: $gray-100;
+  text-align: center;
+}
+
+.table {
+  margin-top: 1rem;
+  border: 2px solid $black;
+}
+
+.table > thead {
+  background: $primary;
+}
+
+.table > :not(caption) > * > * {
+  border-color: $black;
+}
+
+.quarto-title-block .quarto-title-banner {
+  border-bottom: 2px solid $black;
+  background: #d3f6fb;
+}
+
+nav[role="doc-toc"] > ul a {
+  border-left: 0;
+  border-inline-start: 2px solid $gray-300;
+  padding-left: 0;
+  padding-inline-start: .65rem;
+}
+
+nav[role="doc-toc"] > ul a:hover,
+nav[role="doc-toc"] > ul a.active {
+  border-inline-start-color: $black;
+  background: $primary;
+  color: $black;
+}
+
+.nav-footer {
+  border-top: 2px solid $black;
+  background: $gray-100;
+}
+
+/* Responsive and print -------------------------------------------------- */
+
+@media (max-width: 900px) {
+  .quick-link-grid,
+  .quick-links,
+  .resource-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .quick-link-card,
+  .quick-link,
+  .resource-card {
+    min-height: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  .navbar-brand {
+    font-size: .95rem;
+  }
+
+  .course-facts {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    margin-inline: -.25rem;
+    box-shadow: 5px 5px 0 0 $black;
+  }
+
+  .hero::after {
+    opacity: .35;
+  }
+
+  .schedule-table {
+    display: block;
+    overflow-x: auto;
+  }
+
+  .schedule-table th,
+  .schedule-table td {
+    min-width: 8rem;
+  }
+
+  .schedule-table .week {
+    min-width: 4rem;
+  }
+}
+
+@media (max-width: 430px) {
+  #quarto-search {
+    display: none;
+  }
+
+  .navbar-brand {
+    font-size: .9rem;
+  }
+}
+
+@media print {
+  .navbar,
+  .nav-footer,
+  #quarto-margin-sidebar,
+  .document-actions,
+  .button-row {
+    display: none !important;
+  }
+
+  .hero,
+  .quick-link-card,
+  .quick-link,
+  .resource-card,
+  .schedule-table,
+  .callout.callout-style-default {
+    box-shadow: none;
+  }
+}

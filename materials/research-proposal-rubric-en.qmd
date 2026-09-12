@@ -14,8 +14,9 @@ format:
     embed-resources: true
     theme: cosmo
     css:
-      - research-proposal-rubric.css
       - syllabus-print.css
+      - brite-document.css
+      - brite-proposal-rubric.css
     page-layout: full
     grid:
       body-width: 1400px

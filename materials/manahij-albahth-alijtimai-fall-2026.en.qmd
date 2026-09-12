@@ -6,7 +6,7 @@ date: "2026-09-13"
 date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
-translation-source-sha256: "6c04113392b27d07887f8262dc006be46d8e9c5df2d6f6d90e61881bbff0c2e3"
+translation-source-sha256: "da749e61f1f467d81a9c9b4f3caa844d247caea6ed0a98db16aa5046623c6fc4"
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
@@ -24,7 +24,9 @@ format:
     toc-title: "Contents"
     embed-resources: true
     theme: cosmo
-    css: syllabus-print.css
+    css:
+      - syllabus-print.css
+      - brite-document.css
 ---
 
 ::: {.syllabus-actions}

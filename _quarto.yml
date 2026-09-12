@@ -11,8 +11,8 @@ website:
   favicon: assets/favicon.svg
   open-graph: true
   navbar:
-    background: "#17324d"
-    foreground: light
+    background: primary
+    foreground: dark
     pinned: true
     right:
       - href: index.qmd
@@ -30,21 +30,22 @@ website:
         href: "https://github.com/alqabandi/social-research-methods-fa26"
         aria-label: "مستودع المقرر على GitHub"
   page-footer:
-    center: "مناهج البحث الاجتماعي · د. فاطمة القبندي · جامعة الكويت · ٢٠٢٦"
+    left: "مناهج البحث الاجتماعي · د. فاطمة القبندي · جامعة الكويت"
+    right: "الفصل الدراسي الأول · ٢٠٢٦/٢٠٢٧"
+  search: true
 
 lang: ar
 dir: rtl
 
 format:
   html:
-    theme:
-      - cosmo
-      - css/base.scss
-      - css/theme-classic.scss
+    theme: css/brite.scss
     toc: true
+    toc-depth: 2
     toc-location: right
     link-external-newwindow: true
     smooth-scroll: true
+    anchor-sections: true
 
 execute:
   freeze: auto

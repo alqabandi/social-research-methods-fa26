@@ -23,7 +23,9 @@ format:
     toc-title: "المحتويات"
     embed-resources: true
     theme: cosmo
-    css: syllabus-print.css
+    css:
+      - syllabus-print.css
+      - brite-document.css
 ---
 
 ::: {.syllabus-actions}

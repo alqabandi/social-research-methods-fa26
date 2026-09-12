@@ -1,0 +1,162 @@
+/* Brite extensions for the wide research-proposal rubrics.
+   Screen-only: PDF output continues to use syllabus-print.css. */
+
+@media screen {
+  body {
+    background:
+      radial-gradient(circle at 6% 5%, rgba(34, 210, 237, 0.16), transparent 24rem),
+      radial-gradient(circle at 94% 16%, rgba(162, 228, 54, 0.18), transparent 28rem),
+      #f8f9fa;
+  }
+
+  #quarto-content.page-columns main#quarto-document-content {
+    grid-column: screen-start / screen-end;
+  }
+
+  main#quarto-document-content {
+    width: min(100% - 2rem, 1480px);
+  }
+
+  #title-block-header .title {
+    max-width: 22ch;
+    font-size: clamp(2.2rem, 5vw, 4.5rem);
+  }
+
+  #title-block-header .quarto-title-meta {
+    width: min(100%, 24rem);
+  }
+
+  main > section.level1 {
+    overflow-x: auto;
+    padding: clamp(1.25rem, 2.7vw, 2.5rem);
+  }
+
+  main > section.level1:first-of-type {
+    border-block-start-color: var(--brite-yellow);
+    background: #fffdf5;
+  }
+
+  main > section.level1:first-of-type section.level2 {
+    margin-block: 1.25rem;
+    padding: 1.15rem 1.25rem;
+    border: 2px solid var(--brite-black);
+    border-inline-start: 0.65rem solid var(--brite-yellow);
+    border-radius: 0.375rem;
+    background: var(--brite-white);
+  }
+
+  main > section.level1:first-of-type section.level2:nth-of-type(2) {
+    border-inline-start-color: var(--brite-cyan);
+  }
+
+  table,
+  .table {
+    min-width: 680px;
+    font-size: clamp(0.78rem, 1vw, 0.92rem);
+    line-height: 1.55;
+  }
+
+  table:has(th:nth-child(5)),
+  .table:has(th:nth-child(5)) {
+    min-width: 1180px;
+  }
+
+  :is(table, .table) thead th {
+    text-align: center;
+  }
+
+  :is(table, .table):has(th:nth-child(5)) thead th:first-child {
+    background: var(--brite-black);
+    color: var(--brite-white);
+  }
+
+  :is(table, .table):has(th:nth-child(5)) thead th:nth-child(2) {
+    background: var(--brite-red);
+  }
+
+  :is(table, .table):has(th:nth-child(5)) thead th:nth-child(3) {
+    background: var(--brite-yellow);
+  }
+
+  :is(table, .table):has(th:nth-child(5)) thead th:nth-child(4) {
+    background: var(--brite-green);
+  }
+
+  :is(table, .table):has(th:nth-child(5)) thead th:nth-child(5) {
+    background: var(--brite-purple);
+  }
+
+  :is(table, .table):has(th:nth-child(5)) thead th:last-child {
+    background: var(--brite-cyan);
+  }
+
+  :is(table, .table) tbody td:first-child {
+    background: #f3fbfc;
+    font-weight: 600;
+  }
+
+  :is(table, .table) tbody td:last-child {
+    background: #fff8d9;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  :is(table, .table) tbody tr:nth-child(even) td:not(:first-child, :last-child) {
+    background: var(--brite-gray);
+  }
+
+  :is(table, .table) tbody tr:hover td {
+    background: #edffd0;
+  }
+
+  table small {
+    display: block;
+    margin-top: 0.35rem;
+    font-size: 0.82em;
+    font-weight: 500;
+    line-height: 1.45;
+  }
+
+  main > section.level1:nth-last-of-type(2) ul {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.8rem;
+    padding: 0;
+    list-style: none;
+  }
+
+  main > section.level1:nth-last-of-type(2) li {
+    margin: 0;
+    padding: 1rem 1.1rem;
+    border: 2px solid var(--brite-black);
+    border-radius: 0.375rem;
+    background: #f3fbfc;
+  }
+
+  main > section.level1:last-of-type {
+    min-height: 18rem;
+    background:
+      linear-gradient(rgba(255, 255, 255, 0.94), rgba(255, 255, 255, 0.94)),
+      repeating-linear-gradient(
+        transparent 0 2rem,
+        var(--brite-black) 2rem calc(2rem + 1px)
+      );
+  }
+
+  main > section.level1:last-of-type p {
+    max-width: none;
+    color: #495057;
+    line-height: 2;
+  }
+
+  @media (max-width: 760px) {
+    main#quarto-document-content {
+      width: min(100% - 1rem, 1480px);
+    }
+
+    main > section.level1:nth-last-of-type(2) ul {
+      grid-template-columns: 1fr;
+    }
+  }
+}
