@@ -1,9 +1,11 @@
 /* Theme: Classic — the original navy / gold / teal look.
    A faithful port of the pre-refactor styles.css, kept so the current
-   semester's appearance is always one line away. Load after css/base.css.
+   semester's appearance is always one line away. Load after css/base.scss.
 
    Callout, footer, and TOC tokens reproduce the Bootstrap "cosmo" defaults
    that the old stylesheet left alone. */
+
+/*-- scss:rules --*/
 
 @import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap");
 

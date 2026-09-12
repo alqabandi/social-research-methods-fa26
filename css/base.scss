@@ -1,13 +1,16 @@
 /* Shared layout for the course site.
    This file contains no colours, fonts, or shadows of its own: every visual
    decision reads a token that a theme file must define. Load it first, then
-   exactly one css/theme-*.css after it.
+   exactly one css/theme-*.scss after it.
 
-     css:
-       - css/base.css
-       - css/theme-meyers.css
+     theme:
+       - cosmo
+       - css/base.scss
+       - css/theme-meyers.scss
 
    Font @import rules belong at the top of the theme file, not here. */
+
+/*-- scss:rules --*/
 
 html {
   scroll-behavior: smooth;

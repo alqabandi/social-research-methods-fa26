@@ -3,7 +3,7 @@
    headers are deep walnut so they anchor the layout the way the navy does in
    Classic. Cards are pure white on tinted paper so they lift, and callouts keep
    a saturated bar and tint so a tip still reads as a tip. Load after
-   css/base.css.
+   css/base.scss.
 
    Latin text falls to Noto Serif and Arabic to Noto Naskh Arabic, because the
    browser walks the stack per character and Noto Serif carries no Arabic.
@@ -11,6 +11,8 @@
    Contrast against --paper (#fbf6ee): --ink 15.1:1, --muted 5.5:1,
    --accent 6.2:1, --alert 5.8:1. --accent-2 (brass) is roughly 3.7:1 and is
    therefore only used for rules, bars, and fills — never for body text. */
+
+/*-- scss:rules --*/
 
 @import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600&display=swap");
 

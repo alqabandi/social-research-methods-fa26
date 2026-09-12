@@ -37,10 +37,10 @@ dir: rtl
 
 format:
   html:
-    theme: cosmo
-    css:
-      - css/base.css
-      - css/theme-classic.css
+    theme:
+      - cosmo
+      - css/base.scss
+      - css/theme-classic.scss
     toc: true
     toc-location: right
     link-external-newwindow: true
