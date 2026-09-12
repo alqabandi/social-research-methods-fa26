@@ -7,3 +7,6 @@
 /materials/*.html
 
 **/*.quarto_ipynb
+
+# Private scratch notes
+*.local.md
