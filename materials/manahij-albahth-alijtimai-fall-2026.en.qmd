@@ -6,7 +6,7 @@ date: last-modified
 date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
-translation-source-sha256: "8539773bf6dbf2b52e2499197cb11be93175fd3469036fa7f3fc4750dbce06c2"
+translation-source-sha256: "1a48b7b9c97f7496ef8f8b80cde7d20978138230b8f7032b65064a5883d771d9"
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
@@ -278,7 +278,7 @@ You are welcome to propose other topics.
 
 ## Final Examination — 25%
 
-The final exam will cover the concepts we discuss in class and will combine multiple-choice and short-answer questions. I will announce the date through Teams.
+The final exam will take place on Saturday, 2 January 2027, from 9:00 to 11:00 a.m. It will cover the concepts we discuss in class and will combine multiple-choice and short-answer questions.
 
 ## In-Class Quizzes — 15%
 
@@ -389,7 +389,7 @@ I may adjust topics, activities, or dates in response to university announcement
 | **13** | 6-10 December | Monday, 7 December: <!-- Chapter 10 in the reference -->The Experimental Method (1)<br>Wednesday, 9 December: <!-- Chapter 10 in the reference -->The Experimental Method (2-3) | **Submission 4 (Tuesday, 8 December, 11:59 p.m.): Data Collection Instrument, Study Population, Sampling, and Ethics** |
 | **14** | 13-17 December | Monday, 14 December and Wednesday, 16 December: Presentations, discussions, and justification of method selection and alternatives | **Written Research Proposal Due — 15% (Sunday, 13 December, 11:59 p.m.)**<br>**Presentations and Oral Discussion**<br>Attendance and peer assessment are required in both sessions |
 | **15** | 20-21 December | Monday, 21 December: Course synthesis, final review, and semester close |  |
-| **Examination Period** | Date to be determined (within 23 December 2026-4 January 2027) | Final examination | **Final Exam — 25%** |
+| **Examination Period** | Saturday, 2 January 2027, 9:00–11:00 a.m. | Final examination | **Final Exam — 25%** |
 
 ::: {.callout-tip}
 **How to read this schedule:** Each submission follows the topic it applies. You will not write the proposal all at once at the end of the semester; you will build it piece by piece as you learn each component.
