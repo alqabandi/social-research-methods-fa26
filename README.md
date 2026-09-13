@@ -2,7 +2,7 @@
 
 Arabic-first course website for **مناهج البحث الاجتماعي (SOC 209)** at Kuwait University, Fall 2026/2027.
 
-- Course website: <https://alqabandi.github.io/social-research-methods-fa26/>
+- Course website: <https://alqabandi.co/social-research-methods-fa26/>
 - Instructor: Dr. Fatima Alqabandi
 
 ## Where the website lives
@@ -51,6 +51,13 @@ Preview ordinary website changes from the repository root:
 ```sh
 /Applications/RStudio.app/Contents/Resources/app/quarto/bin/quarto preview
 ```
+
+Page and PDF “last updated” dates are automatic. The project uses each changed
+source file's current modification time during local work and its latest Git
+commit date after it is committed. The pre-render script
+`scripts/set-source-mtimes.py` preserves those per-page dates during GitHub
+Pages deployment, where checkout timestamps would otherwise make every page
+look newly updated.
 
 After changing a syllabus or rubric, regenerate the site and all downloadable PDFs:
 

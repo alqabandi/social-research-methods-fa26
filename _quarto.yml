@@ -1,12 +1,18 @@
 project:
   type: website
   output-dir: _site
+  pre-render: scripts/set-source-mtimes.py
+  render:
+    - "*.qmd"
+    - "materials/*.qmd"
+    - "slides/*.qmd"
+    - "!NOTES.local.md"
   resources:
     - "materials/*.pdf"
 
 website:
   title: "مناهج البحث الاجتماعي"
-  site-url: "https://alqabandi.github.io/social-research-methods-fa26/"
+  site-url: "https://alqabandi.co/social-research-methods-fa26/"
   description: "الموقع الرسمي لمقرر مناهج البحث الاجتماعي، الفصل الدراسي الأول ٢٠٢٦/٢٠٢٧"
   favicon: assets/favicon.svg
   open-graph: true
@@ -36,6 +42,10 @@ website:
 
 lang: ar
 dir: rtl
+date: last-modified
+date-format: "D MMMM YYYY"
+language:
+  title-block-published: "آخر تحديث"
 
 format:
   html:

@@ -2,15 +2,15 @@
 title: "Social Research Methods"
 subtitle: "Fall Semester 2026/2027"
 author: "Dr. Fatima Alqabandi"
-date: "2026-09-13"
+date: last-modified
 date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
-translation-source-sha256: "da749e61f1f467d81a9c9b4f3caa844d247caea6ed0a98db16aa5046623c6fc4"
+translation-source-sha256: "eccb62ff1bab80e4983ad25ce2b9b0114549cf9e700c28fdb09997dc4c3ee604"
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
-  title-block-published: "Date"
+  title-block-published: "Last updated"
   toc-title-document: "Contents"
   callout-note-title: "Note"
   callout-important-title: "Important"
@@ -107,20 +107,12 @@ By the end of the course, you will be able to:
 | Assessment Component | Weight |
 |-------------------------------------------|--------:|
 | Final Project (Research Proposal) | 50% |
-| Midterm Examination | 25% |
+| Final Exam | 25% |
 | In-Class Quizzes | 15% |
 | Attendance and Participation | 10% |
 | **Total** | **100%** |
 
 <!-- Final grades will be calculated according to the grading scale approved by Kuwait University: **\[Insert the official scale\]**. -->
-
-<!--
-::: {.callout-important}
-**There is no final examination in this course.** The **research proposal** takes its place.
-
-The reason is straightforward: the ability to design research cannot be measured by a two-hour written examination. A student who memorizes the difference between stratified and cluster sampling may still be unable to select the appropriate one for their own question. Therefore, the final assessment in this course is **authentic research work** developed throughout the semester, not an examination in a single week.
-:::
--->
 
 ## Research Proposal Project — 50% 
 
@@ -276,9 +268,9 @@ The social world is everywhere, and any phenomenon can become a researchable que
 
 You are welcome to propose other topics. 
 
-## Midterm Examination — 25%
+## Final Examination — 25%
 
-The midterm will cover the concepts we discuss in class and will combine multiple-choice and short-answer questions. I will announce the date through Teams.
+The final exam will cover the concepts we discuss in class and will combine multiple-choice and short-answer questions. I will announce the date through Teams.
 
 ## In-Class Quizzes — 15%
 
@@ -388,14 +380,14 @@ I may adjust topics, activities, or dates in response to university announcement
 | **6** | 18-22 October | <!-- Chapter 4 -->Measurement of Variables (1-2)<br>Applied example from content analysis coding |  |
 | **7** | 25-29 October | <!-- Chapter 4 -->Measurement of Variables (3)<br>Workshop to complete the preliminary literature review | **Submission 2 (Tuesday, 27 October, 11:59 p.m.): Preliminary Literature Review** |
 | **8** | 1-5 November | Question, hypotheses, and variables workshop<br>Applications and cumulative review |  |
-| **9** | 8-12 November | Midterm examination (the class meeting date will be announced later)<br><!-- Chapter 5 -->Questionnaires and Interviews (1) | **Midterm Examination** |
+| **9** | 8-12 November | <!-- Chapter 5 -->Questionnaires and Interviews (1) |  |
 | **10** | 15-19 November | <!-- Chapter 5 -->Questionnaires and Interviews (2-3) | **Submission 3 (Tuesday, 17 November, 11:59 p.m.): Question, Hypotheses, and Variables** |
 | **11** | 22-26 November | <!-- Chapter 6 -->Sampling (1-2), including sampling documents and media materials |  |
 | **12** | 29 November-3 December | <!-- Chapter 7 -->Social Surveys (1-2) and the ethics of access to research participants |  |
 | **13** | 6-10 December | Monday, 7 December: <!-- Chapter 10 in the reference -->The Experimental Method (1)<br>Wednesday, 9 December: <!-- Chapter 10 in the reference -->The Experimental Method (2-3) | **Submission 4 (Tuesday, 8 December, 11:59 p.m.): Data Collection Instrument, Study Population, Sampling, and Ethics** |
 | **14** | 13-17 December | Monday, 14 December and Wednesday, 16 December: Presentations, discussions, and justification of method selection and alternatives | **Presentations and Oral Discussion**<br>Attendance and peer assessment are required in both sessions |
 | **15** | 20-21 December | Monday, 21 December: Course synthesis, final review, and semester close | **Final Written Research Proposal Due — 15% (Sunday, 20 December, 11:59 p.m.)** |
-| **Examination Period** | 23 December 2026-4 January 2027 | No final examination |  |
+| **Examination Period** | Date to be determined (within 23 December 2026-4 January 2027) | Final examination | **Final Exam — 25%** |
 
 ::: {.callout-tip}
 **How to read this schedule:** Each submission follows the topic it applies. You will not write the proposal all at once at the end of the semester; you will build it piece by piece as you learn each component.
@@ -429,7 +421,7 @@ The following must be confirmed before publishing the syllabus:
 - Approved required textbook information
 - Official Kuwait University grading scale
 - **Confirmation of the official semester start date** and verification that week numbers and dates match the schedule above
-- Department approval to replace the final examination with the project and approval of the grade distribution
+- Confirmation of the official final examination date
 - Official holidays and days when classes are suspended during the semester, and their alignment with the schedule
 - Official contacts for accommodations and student support
 -->

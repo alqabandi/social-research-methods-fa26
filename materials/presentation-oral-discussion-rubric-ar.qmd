@@ -1,6 +1,10 @@
 ---
 lang: ar
 dir: rtl
+date: last-modified
+date-format: "D MMMM YYYY"
+language:
+  title-block-published: "آخر تحديث"
 format:
   html:
     toc: false
@@ -20,7 +24,7 @@ format:
 
 <div class="title-block" dir="rtl">
   <h1>نموذج تقييم العرض التقديمي والمناقشة الشفوية</h1>
-  <p>نسخة تقييم الزملاء · مناهج البحث الاجتماعي · الفصل الأول ٢٠٢٦/٢٠٢٧</p>
+  <p>نسخة تقييم الزملاء · مناهج البحث الاجتماعي · الفصل الأول ٢٠٢٦/٢٠٢٧<br>آخر تحديث: {{< meta date >}}</p>
 </div>
 
 <table class="rubric-table" dir="rtl">

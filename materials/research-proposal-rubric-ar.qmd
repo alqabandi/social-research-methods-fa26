@@ -2,12 +2,14 @@
 title: "نموذج تقييم المقترح البحثي"
 subtitle: "مناهج البحث الاجتماعي · الفصل الأول ٢٠٢٦/٢٠٢٧"
 author: "د. فاطمة القبندي"
+date: last-modified
+date-format: "D MMMM YYYY"
 lang: ar
 dir: rtl
 language:
   title-block-author-single: "أستاذة المقرر"
   title-block-author-plural: "أساتذة المقرر"
-  title-block-published: "التاريخ"
+  title-block-published: "آخر تحديث"
 format:
   html:
     toc: false

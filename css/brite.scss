@@ -119,6 +119,24 @@ blockquote {
   background: $gray-100;
 }
 
+.quarto-title-meta-heading {
+  color: $gray-700;
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.quarto-title-meta-contents {
+  display: inline-block;
+  padding: .2rem .55rem;
+  border: 1px solid $black;
+  border-radius: $border-radius;
+  background: #fff4cc;
+  color: $black;
+  font-weight: 700;
+}
+
 /* Navigation ------------------------------------------------------------ */
 
 .navbar {
@@ -265,6 +283,18 @@ blockquote {
   margin-bottom: 1rem;
   font-size: clamp(1.05rem, 2vw, 1.25rem);
   font-weight: 500;
+}
+
+.hero .hero-update {
+  display: inline-block;
+  width: fit-content;
+  margin: .25rem 0 0;
+  padding: .2rem .55rem;
+  border: 1px solid $black;
+  border-radius: $border-radius;
+  background: rgba($white, .82);
+  font-size: .82rem;
+  font-weight: 700;
 }
 
 .badge {

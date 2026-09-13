@@ -2,12 +2,14 @@
 title: "Research Proposal Grading Rubric"
 subtitle: "Social Research Methods · Fall Semester 2026/2027"
 author: "Dr. Fatima Alqabandi"
+date: last-modified
+date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
-  title-block-published: "Date"
+  title-block-published: "Last updated"
 format:
   html:
     toc: false

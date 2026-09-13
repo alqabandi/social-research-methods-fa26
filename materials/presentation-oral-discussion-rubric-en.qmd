@@ -1,6 +1,10 @@
 ---
 lang: en
 dir: ltr
+date: last-modified
+date-format: "D MMMM YYYY"
+language:
+  title-block-published: "Last updated"
 format:
   html:
     toc: false
@@ -20,7 +24,7 @@ format:
 
 <div class="title-block">
   <h1>Presentation and Oral Discussion Rubric</h1>
-  <p>Peer Assessment Copy · Social Research Methods · Fall 2026</p>
+  <p>Peer Assessment Copy · Social Research Methods · Fall 2026<br>Last updated: {{< meta date >}}</p>
 </div>
 
 <table class="rubric-table">

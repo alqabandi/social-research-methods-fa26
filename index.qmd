@@ -9,7 +9,7 @@ format:
 ---
 
 <style>
-main#quarto-document-content > header.quarto-title-block {
+main#quarto-document-content > header#title-block-header {
   display: none;
 }
 </style>
@@ -22,6 +22,8 @@ main#quarto-document-content > header.quarto-title-block {
 <p class="lead">من الفضول تجاه ظاهرة اجتماعية إلى سؤال قابل للدراسة وخطة بحث يمكن تقييم أدلتها وحدودها.</p>
 
 **د. فاطمة القبندي · جامعة الكويت**
+
+[آخر تحديث: {{< meta date >}}]{.hero-update}
 
 ::: {.document-actions}
 [الانتقال إلى الجدول](#schedule){.btn .btn-dark role="button"}
@@ -152,8 +154,8 @@ Microsoft Teams
     <tr>
       <td class="week">٩</td>
       <td>٨–١٢ نوفمبر</td>
-      <td>الاختبار النصفي (يُعلن موعد اللقاء لاحقًا)<br>الاستبانة والمقابلة (١)</td>
-      <td class="deadline">الاختبار النصفي</td>
+      <td>الاستبانة والمقابلة (١)</td>
+      <td></td>
     </tr>
     <tr>
       <td class="week">١٠</td>
@@ -193,9 +195,9 @@ Microsoft Teams
     </tr>
     <tr>
       <td class="week">الاختبارات</td>
-      <td>٢٣ ديسمبر ٢٠٢٦–٤ يناير ٢٠٢٧</td>
-      <td>لا يوجد اختبار نهائي</td>
-      <td></td>
+      <td>يُحدَّد الموعد لاحقًا (ضمن الفترة من ٢٣ ديسمبر ٢٠٢٦ إلى ٤ يناير ٢٠٢٧)</td>
+      <td>الاختبار النهائي</td>
+      <td class="deadline">الاختبار النهائي · ٢٥٪</td>
     </tr>
   </tbody>
 </table>

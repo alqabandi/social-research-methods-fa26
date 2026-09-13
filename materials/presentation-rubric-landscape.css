@@ -32,6 +32,10 @@ body {
   font-family: Arial, "Geeza Pro", sans-serif;
 }
 
+#title-block-header {
+  display: none;
+}
+
 .identity {
   width: 100%;
   margin: 0 0 2.5mm;
