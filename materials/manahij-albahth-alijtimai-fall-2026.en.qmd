@@ -6,7 +6,7 @@ date: last-modified
 date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
-translation-source-sha256: "1288697db2129e1026a7455b1c2b703245437723b1f4b946f707a7fbd7ac377f"
+translation-source-sha256: "8539773bf6dbf2b52e2499197cb11be93175fd3469036fa7f3fc4750dbce06c2"
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
@@ -326,19 +326,13 @@ Include this declaration with every submission, **even if you did not use AI at 
 >
 > If you selected **used**, complete the following:
 >
-> **Tool or tools used:**\
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> **Tool or tools used:**
 >
-> **How I used them:**\
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> **How I used them:**
 >
-> **Parts of the work affected:**\
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> **Parts of the work affected:**
 >
-> **What I verified, changed, or reviewed:**\
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> **What I verified, changed, or reviewed:**
 
 **Permitted with detailed disclosure**
 
