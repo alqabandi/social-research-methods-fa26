@@ -339,6 +339,44 @@
     background: var(--brite-white);
   }
 
+  .milestone-card {
+    --milestone-accent: var(--brite-cyan);
+    margin: 2.25rem 3px;
+    padding: 1.35rem 1.5rem 1.55rem;
+    border: 2px solid var(--brite-black);
+    border-block-start: 0.7rem solid var(--milestone-accent);
+    border-radius: 0.5rem;
+    background: var(--brite-white);
+    box-shadow: 5px 5px 0 var(--brite-black);
+  }
+
+  .milestone-card.milestone-two {
+    --milestone-accent: var(--brite-yellow);
+  }
+
+  .milestone-card.milestone-three {
+    --milestone-accent: var(--brite-green);
+  }
+
+  .milestone-card.milestone-four {
+    --milestone-accent: var(--brite-purple);
+  }
+
+  .milestone-card h4:first-of-type {
+    margin: -1.35rem -1.5rem 1.25rem;
+    padding: 1rem 1.25rem;
+    border-block-end: 2px solid var(--brite-black);
+    background: var(--milestone-accent);
+    color: var(--brite-black);
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    line-height: 1.55;
+  }
+
+  .milestone-card > :last-child,
+  .milestone-card > section > :last-child {
+    margin-bottom: 0;
+  }
+
   blockquote {
     padding: 1rem 1.2rem;
     border: 2px solid var(--brite-black);
@@ -372,6 +410,16 @@
 
     main > section.level1 {
       padding: 1.1rem;
+    }
+
+    .milestone-card {
+      padding: 1.1rem 1rem 1.25rem;
+      box-shadow: 4px 4px 0 var(--brite-black);
+    }
+
+    .milestone-card h4:first-of-type {
+      margin: -1.1rem -1rem 1rem;
+      padding: 0.85rem 1rem;
     }
 
     .supporting-resources {

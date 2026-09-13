@@ -295,6 +295,43 @@
     background: var(--brite-white) !important;
   }
 
+  .milestone-card {
+    --milestone-accent: var(--brite-cyan);
+    margin: 5mm 0;
+    padding: 3.5mm 4mm 4mm;
+    border: 1.2pt solid var(--brite-black);
+    border-top: 4pt solid var(--milestone-accent);
+    border-radius: 2mm;
+    background: var(--brite-white) !important;
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .milestone-card.milestone-two {
+    --milestone-accent: var(--brite-yellow);
+  }
+
+  .milestone-card.milestone-three {
+    --milestone-accent: var(--brite-green);
+  }
+
+  .milestone-card.milestone-four {
+    --milestone-accent: #c69af4;
+  }
+
+  .milestone-card h4:first-of-type {
+    margin: -3.5mm -4mm 3mm;
+    padding: 2.5mm 3mm;
+    border-bottom: 1pt solid var(--brite-black);
+    background: var(--milestone-accent) !important;
+    font-size: 10.5pt;
+    line-height: 1.4;
+  }
+
+  .milestone-card > :last-child {
+    margin-bottom: 0;
+  }
+
   blockquote {
     break-inside: avoid;
     page-break-inside: avoid;

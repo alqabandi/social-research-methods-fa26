@@ -6,7 +6,7 @@ date: last-modified
 date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
-translation-source-sha256: "eccb62ff1bab80e4983ad25ce2b9b0114549cf9e700c28fdb09997dc4c3ee604"
+translation-source-sha256: "1288697db2129e1026a7455b1c2b703245437723b1f4b946f707a7fbd7ac377f"
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
@@ -106,7 +106,7 @@ By the end of the course, you will be able to:
 
 | Assessment Component | Weight |
 |-------------------------------------------|--------:|
-| Final Project (Research Proposal) | 50% |
+| Research Proposal Project | 50% |
 | Final Exam | 25% |
 | In-Class Quizzes | 15% |
 | Attendance and Participation | 10% |
@@ -121,9 +121,9 @@ This project is the backbone of the course. Instead of learning research methods
 You will work in **groups of 2-4**. I may adjust the group size depending on enrollment.
 
 ::: {.callout-note}
-**How to build the proposal without letting it become overwhelming:** Each milestone becomes **a section of your final proposal**. Do not start from scratch with every submission. Revisit the work from the previous stage, improve it using the feedback you received, and then add the new section. Keep these pieces in one document that grows with you throughout the semester.
+**How to build the proposal without letting it become overwhelming:** Each milestone becomes **a section of your written research proposal**. Do not start from scratch with every submission. Revisit the work from the previous stage, improve it using the feedback you received, and then add the new section. Keep these pieces in one document that grows with you throughout the semester.
 
-Before your presentation, return to the full document. Organize the sections, remove repetition, make the language and formatting consistent, and check that the ideas flow. After presenting, use your classmates' questions and my feedback to make the final revisions before you submit. This way, you will not write the proposal all at once at the end of the semester. You will assemble and polish work you have already completed, one step at a time.
+Before submitting, return to the full document. Organize the sections, remove repetition, make the language and formatting consistent, and check that the ideas flow. After submitting, use the proposal as the basis for your presentation and prepare to explain and defend your methodological choices. This way, you will not write the proposal all at once at the end of the semester. You will assemble and polish work you have already completed, one step at a time.
 :::
 
 ### Project Grade Distribution
@@ -131,7 +131,7 @@ Before your presentation, return to the full document. Organize the sections, re
 | Project Component | Weight |
 |--------------------------------------------------|--------:|
 | Milestone Submissions (four submissions) | 15% |
-| Final Written Research Proposal | 15% |
+| Written Research Proposal | 15% |
 | Presentation and Oral Discussion | 20% |
 | **Total** | **50%** |
 
@@ -146,9 +146,10 @@ Before your presentation, return to the full document. Organize the sections, re
 :::
 
 ::: {.callout-important}
-**Submission time:** Upload each milestone through Teams by **11:59 p.m. on the day before the class session connected to that submission**. Submit the final written proposal by **11:59 p.m. on Sunday, 20 December 2026**.
+**Submission time:** Upload each milestone through Teams by **11:59 p.m. on the day before the class session connected to that submission**. Submit the written research proposal by **11:59 p.m. on Sunday, 13 December 2026**.
 :::
 
+::: {.milestone-card .milestone-one}
 #### Submission 1 — Forming the Group and Selecting the Topic (Tuesday, 6 October 2026, 11:59 p.m.)
 
 One page containing:
@@ -165,7 +166,9 @@ Your questions do not need to be perfect from the start; we will develop them to
 :::
 
 <!-- This submission is connected to the beginning of the research problem topic, as it transforms a broad social phenomenon into a specific topic and preliminary research questions that can be developed. -->
+:::
 
+::: {.milestone-card .milestone-two}
 #### Submission 2 — Preliminary Literature Review (Tuesday, 27 October 2026, 11:59 p.m.)
 
 Two to three pages containing:
@@ -177,7 +180,9 @@ Two to three pages containing:
 5.  **A reference list** documented in a consistent style.
 
 <!-- This submission is directly connected to the research problem and research plan topics, particularly the use of literature to synthesize what we know and identify the gap that justifies the study. -->
+:::
 
+::: {.milestone-card .milestone-three}
 #### Submission 3 — Question, Hypotheses, and Variables (Tuesday, 17 November 2026, 11:59 p.m.)
 
 Two pages containing:
@@ -190,7 +195,9 @@ Two pages containing:
 6.  **The unit of analysis** in your study.
 
 <!-- This submission is connected to the topics of the research problem and hypotheses, the research plan, and measurement of variables; it tests the consistency of the question, hypotheses, and unit of analysis with the operational definitions and levels of measurement. -->
+:::
 
+::: {.milestone-card .milestone-four}
 #### Submission 4 — Data Collection Instrument, Study Population, Sampling Plan, and Ethics (Tuesday, 8 December 2026, 11:59 p.m.)
 
 This submission brings together your data collection instrument and your plan for reaching participants. It has two parts:
@@ -219,10 +226,11 @@ One to two pages containing:
 6.  **Ethical considerations:** informed consent, data confidentiality, anonymity, and protection of vulnerable groups.
 
 <!-- This submission brings together variable measurement, questionnaires and interviews, sampling, and social surveys. It turns operational definitions into a usable instrument and a justified, ethical plan for reaching research participants. -->
+:::
 
-### Final Research Proposal — 15%
+### Written Research Proposal — 15%
 
-Submit the final proposal by **11:59 p.m. on Sunday, 20 December 2026**, after the Monday and Wednesday presentations. Before presenting, bring your milestone sections into one document, revisit each section using the feedback you received, and organize and polish the proposal so that it reads as one coherent paper rather than a stack of separate submissions. After presenting, use your classmates' questions and my feedback to make the final revisions before you submit.
+Submit the written research proposal by **11:59 p.m. on Sunday, 13 December 2026**. Before submitting, bring your milestone sections into one document, revisit each section using the feedback you received, and organize and polish the proposal so that it reads as one coherent paper rather than a stack of separate submissions. Then use the proposal as the basis for the Monday and Wednesday presentations.
 
 Write **at least 5 and no more than 12 double-spaced pages**, excluding appendices and references. Include the following sections:
 
@@ -385,8 +393,8 @@ I may adjust topics, activities, or dates in response to university announcement
 | **11** | 22-26 November | <!-- Chapter 6 -->Sampling (1-2), including sampling documents and media materials |  |
 | **12** | 29 November-3 December | <!-- Chapter 7 -->Social Surveys (1-2) and the ethics of access to research participants |  |
 | **13** | 6-10 December | Monday, 7 December: <!-- Chapter 10 in the reference -->The Experimental Method (1)<br>Wednesday, 9 December: <!-- Chapter 10 in the reference -->The Experimental Method (2-3) | **Submission 4 (Tuesday, 8 December, 11:59 p.m.): Data Collection Instrument, Study Population, Sampling, and Ethics** |
-| **14** | 13-17 December | Monday, 14 December and Wednesday, 16 December: Presentations, discussions, and justification of method selection and alternatives | **Presentations and Oral Discussion**<br>Attendance and peer assessment are required in both sessions |
-| **15** | 20-21 December | Monday, 21 December: Course synthesis, final review, and semester close | **Final Written Research Proposal Due — 15% (Sunday, 20 December, 11:59 p.m.)** |
+| **14** | 13-17 December | Monday, 14 December and Wednesday, 16 December: Presentations, discussions, and justification of method selection and alternatives | **Written Research Proposal Due — 15% (Sunday, 13 December, 11:59 p.m.)**<br>**Presentations and Oral Discussion**<br>Attendance and peer assessment are required in both sessions |
+| **15** | 20-21 December | Monday, 21 December: Course synthesis, final review, and semester close |  |
 | **Examination Period** | Date to be determined (within 23 December 2026-4 January 2027) | Final examination | **Final Exam — 25%** |
 
 ::: {.callout-tip}

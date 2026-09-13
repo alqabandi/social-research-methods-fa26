@@ -185,13 +185,13 @@ Microsoft Teams
       <td class="week">١٤</td>
       <td>١٣–١٧ ديسمبر</td>
       <td>الاثنين ١٤ ديسمبر والأربعاء ١٦ ديسمبر: العروض والمناقشات وتبرير اختيار المنهج والبدائل</td>
-      <td class="deadline">العروض التقديمية والمناقشة الشفوية<br>الحضور وتقييم الزملاء مطلوبان في الجلستين<br><a href="assessments.html#presentation-rubric">نموذج تقييم العرض</a></td>
+      <td class="deadline">المقترح البحثي · الأحد ١٣ ديسمبر، ١١:٥٩ مساءً<br><a href="assessments.html#proposal-rubric">نموذج تقييم المقترح</a><br><br>العروض التقديمية والمناقشة الشفوية<br>الحضور وتقييم الزملاء مطلوبان في الجلستين<br><a href="assessments.html#presentation-rubric">نموذج تقييم العرض</a></td>
     </tr>
     <tr>
       <td class="week">١٥</td>
       <td>٢٠–٢١ ديسمبر</td>
       <td>الاثنين ٢١ ديسمبر: مراجعة ختامية، وتركيب موضوعات المقرر، واختتام الفصل</td>
-      <td class="deadline">المقترح البحثي النهائي المكتوب · الأحد ٢٠ ديسمبر، ١١:٥٩ مساءً<br><a href="assessments.html#proposal-rubric">نموذج تقييم المقترح</a></td>
+      <td></td>
     </tr>
     <tr>
       <td class="week">الاختبارات</td>
