@@ -5,10 +5,12 @@ project:
   render:
     - "*.qmd"
     - "materials/*.qmd"
+    - "!materials/lecture_notes/**"
     - "slides/*.qmd"
     - "!NOTES.local.md"
   resources:
     - "materials/*.pdf"
+    - "slides/*.pdf"
 
 website:
   title: "مناهج البحث الاجتماعي"

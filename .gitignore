@@ -10,3 +10,6 @@
 
 # Private scratch notes
 *.local.md
+
+# Private lecture notes and locally rendered copies
+/materials/lecture_notes/

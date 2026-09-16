@@ -106,7 +106,7 @@ Microsoft Teams
     <tr>
       <td class="week">١</td>
       <td>١٣–١٧ سبتمبر</td>
-      <td>الاثنين ١٤ سبتمبر: تعريف بالمقرر وتقديم المشروع<br>الأربعاء ١٦ سبتمبر: مناهج البحث الاجتماعي (١)</td>
+      <td>الاثنين ١٤ سبتمبر: تعريف بالمقرر وتقديم المشروع<br>الأربعاء ١٦ سبتمبر: <a href="slides/chapter_01_slide_deck.html">مناهج البحث الاجتماعي (١) — HTML</a> · <a href="slides/chapter_01_slide_deck.pdf">PDF</a></td>
       <td></td>
     </tr>
     <tr>
