@@ -106,19 +106,19 @@ Microsoft Teams
     <tr>
       <td class="week">١</td>
       <td>١٣–١٧ سبتمبر</td>
-      <td>الاثنين ١٤ سبتمبر: تعريف بالمقرر وتقديم المشروع<br>الأربعاء ١٦ سبتمبر: <a href="slides/chapter_01_slide_deck.html">مناهج البحث الاجتماعي (١) — HTML</a> · <a href="slides/chapter_01_slide_deck.pdf">PDF</a></td>
+      <td>الاثنين ١٤ سبتمبر: تعريف بالمقرر وتقديم المشروع<br>الأربعاء ١٦ سبتمبر: <a href="slides/chapter_01_slide_deck.html">مناهج البحث الاجتماعي — الفصل الأول كاملًا — HTML</a> · <a href="slides/chapter_01_slide_deck.pdf">PDF</a></td>
       <td></td>
     </tr>
     <tr>
       <td class="week">٢</td>
       <td>٢٠–٢٤ سبتمبر</td>
-      <td>مناهج البحث الاجتماعي (٢)<br>مشكلة البحث والفروض (١)</td>
+      <td>مشكلة البحث والفروض (١–٢)</td>
       <td></td>
     </tr>
     <tr>
       <td class="week">٣</td>
       <td>٢٧ سبتمبر–١ أكتوبر</td>
-      <td>مشكلة البحث والفروض (٢–٣)</td>
+      <td>مشكلة البحث والفروض (٣)</td>
       <td></td>
     </tr>
     <tr>
