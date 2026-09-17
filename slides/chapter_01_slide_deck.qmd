@@ -49,7 +49,7 @@ format:
 4. نتخذ قرارًا.-->
 ```
 
-![](../assets/figures/chapter_01_figures/SLIDE%203%20—%20البحث%20أقرب%20إلينا%20مما%20نتوقع.png){.chapter-figure .figure-sequence width="90%" fig-alt="طالبة تنتقل من سؤال عن المطعم إلى جمع المعلومات والمقارنة ثم اتخاذ القرار."}
+![](../assets/figures/chapter_01_figures/research-in-everyday-decisions.png){.chapter-figure .figure-sequence width="90%" fig-alt="طالبة تنتقل من سؤال عن المطعم إلى جمع المعلومات والمقارنة ثم اتخاذ القرار."}
 
 ::: board
 سؤال ← بيانات ← تحليل ← نتيجة
@@ -176,7 +176,7 @@ format:
 ::::
 
 ::: {.column width="43%"}
-![](../assets/figures/chapter_01_figures/SLIDE%2010%20—%20ادعاء%20أم%20دليل؟.png){.chapter-figure .figure-side width="100%" fig-alt="مجموعة صغيرة من الأصدقاء تشغل جزءًا واحدًا فقط من مجتمع جامعي أكبر وأكثر تنوعًا."}
+![](../assets/figures/chapter_01_figures/claim-versus-evidence.png){.chapter-figure .figure-side width="100%" fig-alt="مجموعة صغيرة من الأصدقاء تشغل جزءًا واحدًا فقط من مجتمع جامعي أكبر وأكثر تنوعًا."}
 :::
 ::::::
 
@@ -355,7 +355,7 @@ format:
 - التعميم المسؤول يحتاج إلى أدلة متراكمة. -->
 ```
 
-![](../assets/figures/chapter_01_figures/SLIDE%2018%20—%20المعرفة%20العلمية%20تتراكم.png){.chapter-figure .figure-evidence width="72%" fig-alt="دراسات منفصلة تحمل أنماطًا متفاوتة، وعند جمعها يظهر اتجاه مشترك أكثر وضوحًا."}
+![](../assets/figures/chapter_01_figures/cumulative-scientific-knowledge.png){.chapter-figure .figure-evidence width="72%" fig-alt="دراسات منفصلة تحمل أنماطًا متفاوتة، وعند جمعها يظهر اتجاه مشترك أكثر وضوحًا."}
 
 ::: board
 نتيجة أولية ← تكرار الاختبار ← تراكم الأدلة ← تعميم بحذر
@@ -583,7 +583,7 @@ format:
 :::::
 
 ::: {.column width="58%"}
-![](../assets/figures/chapter_01_figures/SLIDE%2029%20—%20التعميم%20يحتاج%20إلى%20عينة%20ممثلة%20.png){.chapter-figure .figure-sampling width="100%" fig-alt="عينة كبيرة مأخوذة من مجموعة واحدة مقارنة بعينة أصغر موزعة على مجموعات المجتمع المختلفة."}
+![](../assets/figures/chapter_01_figures/representative-sampling.png){.chapter-figure .figure-sampling width="100%" fig-alt="عينة كبيرة مأخوذة من مجموعة واحدة مقارنة بعينة أصغر موزعة على مجموعات المجتمع المختلفة."}
 :::
 :::::::
 
@@ -674,7 +674,7 @@ format:
 :::::
 
 ::: {.column width="58%"}
-![](../assets/figures/chapter_01_figures/SLIDE%2035%20—%20العلم%20قابل%20للتعديل%20.png){.chapter-figure .figure-revision width="100%" fig-alt="مسار بحثي يُصحح جزئيًا عندما يكشف دليل جديد أن الطريق السابق غير صالح."}
+![](../assets/figures/chapter_01_figures/science-open-to-revision.png){.chapter-figure .figure-revision width="100%" fig-alt="مسار بحثي يُصحح جزئيًا عندما يكشف دليل جديد أن الطريق السابق غير صالح."}
 :::
 :::::::
 
