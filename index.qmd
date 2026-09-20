@@ -112,7 +112,7 @@ Microsoft Teams
     <tr>
       <td class="week">٢</td>
       <td>٢٠–٢٤ سبتمبر</td>
-      <td>مشكلة البحث والفروض (١–٢)</td>
+      <td>الاثنين ٢١ سبتمبر: <a href="slides/chapter_02_slide_deck_1_16.html">مشكلة البحث والفروض — الشرائح ١–١٦ — HTML</a> · <a href="slides/chapter_02_slide_deck_1_16.pdf">PDF</a><br>الأربعاء ٢٣ سبتمبر: مشكلة البحث والفروض (٢)</td>
       <td></td>
     </tr>
     <tr>

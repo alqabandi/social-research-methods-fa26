@@ -1,0 +1,595 @@
+/*-- scss:defaults --*/
+
+$ku-navy: #1B2A4A;
+$ku-gold: #A47712;
+$ku-teal: #147D79;
+$ku-coral: #C65D4B;
+$ku-ink: #25313D;
+$ku-muted: #6F7985;
+$ku-paper: #FCFCFA;
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap");
+
+$font-family-sans-serif: "Noto Sans Arabic", "Geeza Pro", "Arial", sans-serif;
+$presentation-font-size-root: 34px;
+$body-bg: $ku-paper;
+$body-color: $ku-ink;
+$link-color: $ku-gold;
+$presentation-heading-font: "Noto Kufi Arabic", "Geeza Pro", "Arial", sans-serif;
+$presentation-heading-color: $ku-navy;
+$presentation-heading-font-weight: 700;
+$presentation-h2-font-size: 1.25em;
+
+/*-- scss:rules --*/
+
+.reveal {
+  direction: rtl;
+}
+
+.reveal .slides {
+  text-align: right;
+}
+
+.reveal .slide h1,
+.reveal .slide h2,
+.reveal .slide h3,
+.reveal .slide p,
+.reveal .slide li {
+  direction: rtl;
+}
+
+.reveal .slide h2 {
+  margin-bottom: 0.55em;
+  padding-bottom: 0.22em;
+  border-bottom: 4px solid $ku-gold;
+  line-height: 1.35;
+}
+
+.reveal .slide h3 {
+  color: $ku-teal;
+  font-size: 0.8em;
+  margin-bottom: 0.35em;
+}
+
+.reveal .slide p,
+.reveal .slide li {
+  line-height: 1.55;
+}
+
+.reveal .slide ul,
+.reveal .slide ol {
+  margin-right: 1.2em;
+  margin-left: 0;
+}
+
+.reveal .slide li {
+  direction: rtl !important;
+  text-align: right !important;
+  margin-bottom: 0.35em;
+}
+
+.reveal .slide strong {
+  color: $ku-gold;
+  font-weight: 700;
+}
+
+.reveal .slide em {
+  color: $ku-teal;
+}
+
+.reveal .columns {
+  direction: rtl;
+  gap: 1.2em;
+}
+
+.reveal .column {
+  direction: rtl;
+}
+
+.reveal .board,
+.reveal .concept-card,
+.reveal .question-box,
+.reveal .example-box,
+.reveal .takeaway {
+  border-radius: 14px;
+  padding: 0.65em 0.85em;
+  margin: 0.45em 0;
+}
+
+.reveal .board {
+  background: #EEF2F7;
+  border: 2px dashed $ku-navy;
+  color: $ku-navy;
+  font-family: "Noto Kufi Arabic", "Geeza Pro", "Arial", sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+.reveal .concept-card {
+  background: #FFFFFF;
+  border-top: 6px solid $ku-teal;
+  box-shadow: 0 4px 18px rgba(27, 42, 74, 0.10);
+}
+
+.reveal .question-box {
+  background: #FFF7E3;
+  border-right: 7px solid $ku-gold;
+}
+
+.reveal .example-box {
+  background: #EAF6F5;
+  border-right: 7px solid $ku-teal;
+}
+
+.reveal .takeaway {
+  background: $ku-navy;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: 600;
+}
+
+.reveal .takeaway strong {
+  color: #F2D77E;
+}
+
+.reveal .small {
+  font-size: 0.72em;
+  color: $ku-muted;
+}
+
+.reveal .smaller {
+  font-size: 0.66em;
+}
+
+.reveal .large {
+  font-size: 1.18em;
+}
+
+.reveal .center {
+  text-align: center;
+}
+
+.reveal .muted {
+  opacity: 0.65;
+}
+
+.reveal .term-en {
+  display: block;
+  margin-top: 0.2em;
+  font-size: 0.72em;
+  color: $ku-teal;
+  direction: ltr;
+  unicode-bidi: isolate;
+  font-family: "Arial", sans-serif;
+}
+
+.reveal .arrow-flow {
+  direction: rtl;
+  text-align: center;
+  font-family: "Noto Kufi Arabic", "Geeza Pro", "Arial", sans-serif;
+  font-size: 1.05em;
+  color: $ku-navy;
+  padding: 0.5em;
+}
+
+.reveal .cycle-stage {
+  display: grid;
+  gap: 0.62em;
+  width: min(88%, 820px);
+  margin: 0.15em auto 0.45em;
+}
+
+.reveal .cycle-step {
+  position: relative;
+  display: grid;
+  grid-template-columns: 6.8em 1fr;
+  align-items: center;
+  gap: 0.75em;
+  min-height: 2.15em;
+  padding: 0.25em 0.7em;
+  border: 1px solid rgba(27, 42, 74, 0.12);
+  border-right: 6px solid $ku-teal;
+  border-radius: 12px;
+  background: #FFFFFF;
+  box-shadow: 0 3px 12px rgba(27, 42, 74, 0.08);
+  font-size: 0.62em;
+}
+
+.reveal .cycle-step:not(:last-child)::after {
+  content: "↓";
+  position: absolute;
+  right: 50%;
+  bottom: -0.86em;
+  z-index: 2;
+  color: $ku-gold;
+  font-size: 1.25em;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.reveal .cycle-step p {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.reveal .cycle-label {
+  color: $ku-teal;
+  font-family: "Noto Kufi Arabic", "Geeza Pro", "Arial", sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+.reveal .cycle-revision {
+  border-right-color: $ku-coral;
+  background: #FCEFEB;
+}
+
+.reveal .cycle-revision .cycle-label {
+  color: $ku-coral;
+}
+
+.reveal .fragment.highlight-current-gold.current-fragment {
+  color: $ku-gold;
+  font-weight: 700;
+}
+
+#title-slide {
+  text-align: center;
+}
+
+#title-slide .title {
+  color: #FFFFFF;
+  font-size: 1.75em;
+  line-height: 1.4;
+}
+
+#title-slide .subtitle {
+  color: #F2D77E;
+  font-weight: 500;
+  margin-top: 0.7em;
+}
+
+#title-slide .quarto-title-author-name,
+#title-slide .date {
+  color: #D4DBE8;
+  font-size: 0.7em;
+}
+
+.reveal .footer {
+  color: $ku-muted;
+  font-size: 0.4em;
+}
+
+.reveal .slide-number {
+  color: $ku-muted;
+  background: transparent;
+  font-size: 0.5em;
+}
+
+.reveal .slide table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.reveal .slide table th {
+  background-color: $ku-navy;
+  color: #FFFFFF;
+  font-weight: 600;
+  padding: 0.35em 0.62em;
+  border: none;
+  text-align: right;
+}
+
+.reveal .slide table td {
+  padding: 0.3em 0.62em;
+  border: none;
+  border-bottom: 1px solid #E3E6EB;
+  text-align: right;
+}
+
+.reveal .slide table tr:nth-child(even) td {
+  background-color: #F5F7FA;
+}
+
+.reveal .slide img {
+  box-shadow: 0 2px 14px rgba(27, 42, 74, 0.12);
+  border-radius: 4px;
+}
+
+.reveal .slide img.chapter-figure {
+  display: block;
+  margin: 0.2em auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.reveal .slide {
+  overflow: hidden;
+}
+
+/* Chapter 2 structural and methodological visuals */
+
+.reveal .lecture-divider {
+  margin: 1.15em auto 0;
+  padding: 0.9em 1.1em;
+  border-radius: 18px;
+  background: $ku-navy;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.reveal .lecture-divider strong {
+  color: #F2D77E;
+}
+
+.reveal .visual-grid {
+  display: grid;
+  gap: 0.45em;
+  align-items: center;
+}
+
+.reveal .visual-node {
+  padding: 0.45em 0.65em;
+  border: 2px solid $ku-teal;
+  border-radius: 12px;
+  background: #EAF6F5;
+  text-align: center;
+  font-weight: 600;
+}
+
+.reveal .visual-arrow {
+  color: $ku-gold;
+  font-size: 1.35em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.reveal .funnel {
+  position: relative;
+  width: 88%;
+  margin: 0.1em auto;
+  padding: 0.55em 1.1em 0.75em;
+}
+
+.reveal .funnel-outline {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.reveal .funnel-step {
+  position: relative;
+  z-index: 1;
+  margin: 0.22em auto;
+  padding: 0.28em 0.55em;
+  border-radius: 10px;
+  background: #EEF2F7;
+  text-align: center;
+}
+
+.reveal .funnel-step:nth-of-type(1) {
+  width: 100%;
+}
+
+.reveal .funnel-step:nth-of-type(2) {
+  width: 78%;
+}
+
+.reveal .funnel-step:nth-of-type(3) {
+  width: 57%;
+  background: #FFF7E3;
+}
+
+.reveal .funnel-step:nth-of-type(4) {
+  width: 38%;
+  background: #EAF6F5;
+  border: 2px solid $ku-teal;
+}
+
+.reveal .iceberg {
+  display: grid;
+  grid-template-columns: 1fr 1.25fr;
+  gap: 0.75em;
+  align-items: center;
+}
+
+.reveal .iceberg-stack > div {
+  margin: 0.25em auto;
+  padding: 0.35em 0.55em;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.reveal .iceberg-top {
+  width: 62%;
+  background: #FFF7E3;
+  border: 2px solid $ku-gold;
+}
+
+.reveal .iceberg-bottom {
+  width: 90%;
+  background: #EAF6F5;
+  border: 2px solid $ku-teal;
+}
+
+.reveal .anatomy {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.35em;
+  direction: rtl;
+}
+
+.reveal .anatomy > div {
+  padding: 0.5em 0.35em;
+  border-radius: 10px;
+  background: #EEF2F7;
+  text-align: center;
+  font-size: 0.78em;
+}
+
+.reveal .anatomy span {
+  display: block;
+  color: $ku-teal;
+  font-size: 0.72em;
+  margin-top: 0.25em;
+}
+
+.reveal .compass {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5em;
+  width: 78%;
+  margin: 0.15em auto;
+}
+
+.reveal .compass > div {
+  padding: 0.6em;
+  border-radius: 14px;
+  background: #FFFFFF;
+  border-top: 6px solid $ku-teal;
+  box-shadow: 0 3px 12px rgba(27, 42, 74, 0.10);
+  text-align: center;
+}
+
+.reveal .timeline-visual {
+  display: grid;
+  grid-template-columns: 1fr 0.12fr 1fr;
+  gap: 0.35em;
+  align-items: center;
+}
+
+.reveal .filmstrip {
+  display: flex;
+  gap: 0.18em;
+  direction: ltr;
+  justify-content: center;
+}
+
+.reveal .frame {
+  width: 2.3em;
+  height: 1.55em;
+  border: 5px solid $ku-navy;
+  border-radius: 5px;
+  background: #EAF6F5;
+  display: grid;
+  place-items: center;
+  font-size: 0.62em;
+}
+
+.reveal .nested-units {
+  width: 70%;
+  margin: 0.05em auto;
+  padding: 0.35em;
+  border: 3px solid $ku-navy;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.reveal .nested-units > div {
+  width: 78%;
+  margin: 0.3em auto 0;
+  padding: 0.3em;
+  border: 3px solid $ku-teal;
+  border-radius: 12px;
+}
+
+.reveal .nested-units > div > div {
+  width: 68%;
+  margin: 0.3em auto 0;
+  padding: 0.3em;
+  border: 3px solid $ku-gold;
+  border-radius: 10px;
+}
+
+.reveal .target-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.8em;
+}
+
+.reveal .target {
+  position: relative;
+  width: 4.7em;
+  height: 4.7em;
+  margin: 0.05em auto;
+  border-radius: 50%;
+  background: radial-gradient(circle, #FFF 0 16%, $ku-teal 17% 32%, #FFF 33% 49%, $ku-gold 50% 66%, #FFF 67%);
+  border: 2px solid $ku-navy;
+}
+
+.reveal .shots {
+  position: absolute;
+  inset: 0;
+}
+
+.reveal .shot {
+  position: absolute;
+  width: 0.22em;
+  height: 0.22em;
+  border-radius: 50%;
+  background: $ku-coral;
+}
+
+.reveal .causal-system {
+  display: grid;
+  grid-template-columns: 1fr 0.22fr 1fr 0.22fr 1fr;
+  align-items: center;
+  gap: 0.12em;
+  direction: ltr;
+}
+
+.reveal .causal-system .visual-node {
+  direction: rtl;
+  font-size: 0.72em;
+}
+
+.reveal .status-check {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.45em;
+}
+
+.reveal .status-check > div {
+  padding: 0.6em;
+  border-radius: 14px;
+  text-align: center;
+}
+
+.reveal .green {
+  background: #E5F5EC;
+  border: 3px solid #2E8B57;
+}
+
+.reveal .yellow {
+  background: #FFF7E3;
+  border: 3px solid $ku-gold;
+}
+
+.reveal .red {
+  background: #FCEFEB;
+  border: 3px solid $ku-coral;
+}
+
+.reveal .case-photo {
+  max-height: 390px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.reveal .source-credit {
+  font-size: 0.38em;
+  color: $ku-muted;
+  direction: ltr;
+  text-align: left;
+}
+
+@media print {
+  .reveal .slides {
+    text-align: right;
+  }
+}
