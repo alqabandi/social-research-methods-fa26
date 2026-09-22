@@ -13,3 +13,8 @@
 
 # Private lecture notes and locally rendered copies
 /materials/lecture_notes/
+
+# Local English slide translation and print files
+/slides/chapter_02_slide_deck_1_16_english_print.qmd
+/slides/chapter_02_slide_deck_1_16_english_print.pdf
+/slides/chapter_02_translation_print.css
