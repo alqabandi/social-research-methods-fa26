@@ -13,7 +13,12 @@ toc: false
 
 ## الفصل الثاني: مشكلة البحث والفروض
 
-### الشرائح ١–٣٧
+### الاثنين ٢١ سبتمبر — الشرائح ١–١٦
+
+- [عرض الشرائح التفاعلي (HTML)](slides/chapter_02_slide_deck_1_16.html)
+- [تنزيل عرض الشرائح (PDF)](slides/chapter_02_slide_deck_1_16.pdf)
+
+### الأربعاء ٢٣ سبتمبر — الشرائح ١–٣٧
 
 - [عرض الشرائح التفاعلي (HTML)](slides/chapter_02_slide_deck_1_37.html)
 - [تنزيل عرض الشرائح (PDF)](slides/chapter_02_slide_deck_1_37.pdf)
