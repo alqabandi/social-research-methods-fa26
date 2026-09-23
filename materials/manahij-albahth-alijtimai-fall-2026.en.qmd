@@ -6,7 +6,7 @@ date: last-modified
 date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
-translation-source-sha256: "2294aa6241b5ff1b3f20d41974222f6cd93ff2353a7676ed6d51ee0969cd61bd"
+translation-source-sha256: "43e2a9074398578954de860491c0a2e7d9dfe620abd0ffd9851bdcd9db7d2821"
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
@@ -285,6 +285,10 @@ The final exam will take place on Saturday, 2 January 2027, from 9:00 to 11:00 a
 We will have several short quizzes throughout the semester. I will automatically drop your lowest score. I do not offer make-up quizzes.
 
 ## Attendance and Participation — 10%
+
+Students who arrive more than 10 minutes after class begins will receive zero attendance credit for that session. Because in-class quizzes are given without prior notice, a late student may still take a quiz if it has not ended. A quiz score earned in this situation will count toward the separate In-Class Quizzes component, worth 15% of the final grade, but it will not restore attendance credit for that session. Missed quizzes cannot be made up.
+
+An absence will be considered excused only when supported by official documentation, such as a physician's note for an illness or documentation from the relevant authority for an emergency (for example, a police report following a traffic accident). Please submit documentation as soon as reasonably possible. Excused absences are handled in accordance with university regulations.
 
 # Course Policies
 
