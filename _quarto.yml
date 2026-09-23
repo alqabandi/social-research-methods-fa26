@@ -7,6 +7,8 @@ project:
     - "materials/*.qmd"
     - "!materials/lecture_notes/**"
     - "slides/*.qmd"
+    - "!slides/chapter_02_slide_deck_1_16_english_print.qmd"
+    - "!slides/chapter_02_slide_deck_whole.qmd"
     - "!NOTES.local.md"
   resources:
     - "materials/*.pdf"

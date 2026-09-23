@@ -18,3 +18,6 @@
 /slides/chapter_02_slide_deck_1_16_english_print.qmd
 /slides/chapter_02_slide_deck_1_16_english_print.pdf
 /slides/chapter_02_translation_print.css
+
+# Private complete Chapter 2 deck; publish only the assigned slide range
+/slides/chapter_02_slide_deck_whole.qmd

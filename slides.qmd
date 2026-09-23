@@ -13,10 +13,10 @@ toc: false
 
 ## الفصل الثاني: مشكلة البحث والفروض
 
-### الشرائح ١–١٦
+### الشرائح ١–٣٧
 
-- [عرض الشرائح التفاعلي (HTML)](slides/chapter_02_slide_deck_1_16.html)
-- [تنزيل عرض الشرائح (PDF)](slides/chapter_02_slide_deck_1_16.pdf)
+- [عرض الشرائح التفاعلي (HTML)](slides/chapter_02_slide_deck_1_37.html)
+- [تنزيل عرض الشرائح (PDF)](slides/chapter_02_slide_deck_1_37.pdf)
 
 ## طريقة النشر
 
