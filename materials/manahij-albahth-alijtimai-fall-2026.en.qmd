@@ -6,7 +6,7 @@ date: last-modified
 date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
-translation-source-sha256: "1a48b7b9c97f7496ef8f8b80cde7d20978138230b8f7032b65064a5883d771d9"
+translation-source-sha256: "2294aa6241b5ff1b3f20d41974222f6cd93ff2353a7676ed6d51ee0969cd61bd"
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
@@ -49,7 +49,7 @@ format:
 **Instructor:** Dr. Fatima Alqabandi\
 **Office:** Shuwaikh, Building 5, second floor, Office S-10 48\
 **Office Hours:** Mondays, 3:15-4:15 p.m.\
-**Email:** fatemah.alqabandi@ku.edu.kw\
+**Email:** alqabandi.f@ku.edu.kw\
 **Expected Response Time:** I reply within two business days. I review and answer email only during working hours on official business days, so weekends and official holidays do not count.
 
 # Course Description
