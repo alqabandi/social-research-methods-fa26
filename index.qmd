@@ -118,7 +118,7 @@ Microsoft Teams
     <tr>
       <td class="week">٣</td>
       <td>٢٧ سبتمبر–١ أكتوبر</td>
-      <td>مشكلة البحث والفروض (٣)</td>
+      <td>الأربعاء ٣٠ سبتمبر: <a href="slides/chapter_02_slide_deck_whole.html">مشكلة البحث والفروض — الفصل الثاني كاملًا — HTML</a></td>
       <td></td>
     </tr>
     <tr>
