@@ -118,13 +118,13 @@ Microsoft Teams
     <tr>
       <td class="week">٣</td>
       <td>٢٧ سبتمبر–١ أكتوبر</td>
-      <td>الأربعاء ٣٠ سبتمبر: <a href="slides/chapter_02_slide_deck_whole.html">مشكلة البحث والفروض — الفصل الثاني كاملًا — HTML</a></td>
+      <td>الأربعاء ٣٠ سبتمبر: <a href="slides/chapter_02_slide_deck_whole.html">مشكلة البحث والفروض — الفصل الثاني كاملًا — HTML</a> · <a href="slides/chapter_02_slide_deck_whole.pdf">PDF</a></td>
       <td></td>
     </tr>
     <tr>
       <td class="week">٤</td>
       <td>٤–٨ أكتوبر</td>
-      <td>ورشة الموضوع والأسئلة الأولية<br>خطة البحث (١)</td>
+      <td>ورشة الموضوع والأسئلة الأولية<br><a href="slides/chapter_03_slides_condensed.html">خطة البحث (١) — الفصل الثالث — HTML</a> · <a href="slides/chapter_03_slides_condensed.pdf">PDF</a></td>
       <td class="deadline">التسليم ١ · الثلاثاء ٦ أكتوبر، ١١:٥٩ مساءً<br>المجموعة والموضوع والأسئلة البحثية الأولية</td>
     </tr>
     <tr>

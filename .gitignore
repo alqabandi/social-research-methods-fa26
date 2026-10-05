@@ -8,6 +8,9 @@
 
 **/*.quarto_ipynb
 
+# Local Python environment
+/.translation-env/
+
 # Private scratch notes
 *.local.md
 

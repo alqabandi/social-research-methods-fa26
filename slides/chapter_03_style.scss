@@ -1,0 +1,192 @@
+/*-- scss:rules --*/
+
+/* Chapter section dividers, adapted from the Chapter 2 deck. */
+.reveal .lecture-divider {
+  margin: 1.15em auto 0;
+  padding: 0.9em 1.1em;
+  border-radius: 18px;
+  background: #1B2A4A;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.reveal .lecture-divider strong {
+  color: #F2D77E;
+}
+
+/* Clearly separate the two competing explanations. */
+.reveal .relationship-comparison {
+  gap: 1.8em;
+  align-items: stretch;
+}
+
+.reveal .relationship-card {
+  box-sizing: border-box;
+  align-self: stretch;
+  padding: 0.65em 0.8em 0.75em;
+  border: 2px solid rgba(27, 42, 74, 0.12);
+  border-radius: 16px;
+  background: #FFFFFF;
+  box-shadow: 0 5px 18px rgba(27, 42, 74, 0.09);
+}
+
+.reveal .relationship-card h3 {
+  margin: 0 0 0.45em;
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid rgba(27, 42, 74, 0.10);
+  text-align: center;
+}
+
+.reveal .relationship-card > p:last-child {
+  margin: 0.55em 0 0;
+  font-size: 0.82em;
+  line-height: 1.55;
+}
+
+.reveal .relationship-card .arrow-flow {
+  margin: 0;
+  padding: 0.55em 0.45em;
+  border-radius: 12px;
+  font-size: 0.86em;
+  line-height: 1.55;
+}
+
+.reveal .relationship-card .arrow-flow p {
+  margin: 0.18em 0;
+  line-height: 1.55;
+}
+
+.reveal .spurious-card {
+  border-top: 7px solid #C65D4B;
+}
+
+.reveal .spurious-card h3 {
+  color: #A34739;
+}
+
+.reveal .spurious-card .arrow-flow {
+  background: #FCEFEB;
+}
+
+.reveal .mediation-card {
+  border-top: 7px solid #147D79;
+}
+
+.reveal .mediation-card .arrow-flow {
+  background: #EAF6F5;
+}
+
+/* A readable IV → relationship → DV model for mixed Arabic/English text. */
+.reveal .variable-path {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(5.5em, 0.72fr) minmax(0, 1fr);
+  gap: 0.65em;
+  align-items: center;
+  direction: rtl;
+  margin: 0.35em auto 0.65em;
+}
+
+.reveal .variable-node {
+  min-height: 4.2em;
+  padding: 0.55em 0.65em;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  text-align: center;
+  box-shadow: 0 5px 16px rgba(27, 42, 74, 0.13);
+}
+
+.reveal .variable-node p {
+  margin: 0;
+  line-height: 1.25;
+}
+
+.reveal .variable-node strong {
+  color: #FFFFFF;
+  font-family: "Noto Kufi Arabic", "Geeza Pro", "Arial", sans-serif;
+  font-size: 1.02em;
+}
+
+.reveal .variable-node .term-en {
+  display: block;
+  margin-top: 0.35em;
+  color: #DDE9F0;
+  font-size: 0.64em;
+}
+
+.reveal .independent-node {
+  background: #1B2A4A;
+  border-bottom: 6px solid #A47712;
+}
+
+.reveal .dependent-node {
+  background: #147D79;
+  border-bottom: 6px solid #A47712;
+}
+
+.reveal .relationship-link {
+  text-align: center;
+  color: #A47712;
+}
+
+.reveal .relationship-link p {
+  margin: 0;
+  line-height: 1.15;
+  text-align: center;
+}
+
+.reveal .relationship-link strong {
+  display: inline-block;
+  padding: 0.22em 0.65em;
+  border-radius: 999px;
+  background: #FFF7E3;
+  color: #7F5A0D;
+  font-size: 0.68em;
+  white-space: nowrap;
+}
+
+.reveal .relationship-arrow {
+  display: block;
+  margin-bottom: 0.08em;
+  color: #A47712;
+  font-family: Arial, sans-serif;
+  font-size: 2.25em;
+  font-weight: 700;
+  line-height: 0.8;
+}
+
+/* Reuse Chapter 2's nested-level visual beside the unit-of-analysis text. */
+.reveal .unit-analysis-layout {
+  gap: 1.3em;
+  align-items: center;
+}
+
+.reveal .nested-units {
+  width: 92%;
+  margin: 0.1em auto 0.55em;
+  padding: 0.45em;
+  border: 3px solid #1B2A4A;
+  border-radius: 16px;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.reveal .nested-units > div {
+  width: 78%;
+  margin: 0.4em auto 0;
+  padding: 0.4em;
+  border: 3px solid #147D79;
+  border-radius: 12px;
+}
+
+.reveal .nested-units > div > div {
+  width: 68%;
+  margin: 0.4em auto 0;
+  padding: 0.4em;
+  border: 3px solid #A47712;
+  border-radius: 10px;
+}

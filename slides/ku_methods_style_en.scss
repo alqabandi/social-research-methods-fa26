@@ -1,0 +1,49 @@
+/*-- scss:rules --*/
+
+.reveal,
+.reveal .slide h1,
+.reveal .slide h2,
+.reveal .slide h3,
+.reveal .slide p,
+.reveal .slide li,
+.reveal .slide ul,
+.reveal .slide ol,
+.reveal .columns,
+.reveal .column,
+.reveal .arrow-flow {
+  direction: ltr !important;
+}
+
+.reveal .slides,
+.reveal .slide li {
+  text-align: left !important;
+}
+
+.reveal .slide ul,
+.reveal .slide ol {
+  margin-left: 1.2em;
+  margin-right: 0;
+}
+
+.reveal .question-box {
+  border-left: 7px solid #A47712;
+  border-right: 0;
+}
+
+.reveal .example-box {
+  border-left: 7px solid #147D79;
+  border-right: 0;
+}
+
+.reveal .board,
+.reveal .takeaway,
+.reveal .center,
+#title-slide {
+  text-align: center !important;
+}
+
+@media print {
+  .reveal .slides {
+    text-align: left;
+  }
+}
