@@ -1173,6 +1173,8 @@ format:
 
 ## مجتمع الدراسة والعينة
 
+::::: {.columns}
+:::: {.column width="50%"}
 ::: {.arrow-flow}
 مجتمع الدراسة<br><span class="term-en">Population</span>  
 ↓ نختار منه ↓  
@@ -1186,6 +1188,12 @@ format:
 - كيف سيُختار أفراد العينة؟
 - كم عددهم؟ ولماذا؟
 - إلى أي مجتمع يمكن تعميم النتائج؟
+::::
+
+:::: {.column width="46%"}
+![](../assets/figures/chapter_03_figures/sampling_frame_vertical.svg){style="max-height: 830px; width: auto; display: block; margin: 0 auto;" fig-alt="مجتمع الدراسة، ثم قائمة الطلبة المسجلين بوصفها إطار المعاينة، ثم العينة المختارة من القائمة. بعض الطلبة لا يظهرون في القائمة."}
+::::
+:::::
 
 ## ما الذي يجب أن تبرّره الخطة عن العينة؟
 
