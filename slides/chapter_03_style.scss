@@ -190,3 +190,36 @@
   border: 3px solid #A47712;
   border-radius: 10px;
 }
+
+/* Slide "خطأ وحدة التحليل": the prison tables replace the answers on the next click. */
+.reveal .unit-error-stack > .unit-error-answers {
+  align-self: start;
+  width: 100%;
+  margin: 0;
+}
+
+.reveal .unit-error-stack > .unit-error-figure {
+  align-self: start;
+  margin: 0 auto;
+}
+
+.reveal .unit-error-figure img {
+  display: block;
+  max-height: 650px;
+  width: auto;
+  margin: 0 auto;
+}
+
+/* The PDF shows every fragment at once, so stack answers and tables instead of overlapping them. */
+html.print-pdf .reveal .unit-error-stack {
+  display: block;
+}
+
+html.print-pdf .reveal .unit-error-figure img {
+  max-height: 300px;
+}
+
+html.print-pdf .reveal .unit-error-answers.fragment {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
