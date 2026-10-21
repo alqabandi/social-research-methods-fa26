@@ -136,13 +136,13 @@ Microsoft Teams
     <tr>
       <td class="week">٦</td>
       <td>١٨–٢٢ أكتوبر</td>
-      <td>قياس المتغيرات (١–٢)</td>
+      <td><a href="slides/chapter_04_slides.html">قياس المتغيرات (١–٢) — الفصل الرابع — HTML</a> · <a href="slides/chapter_04_slides.pdf">PDF</a></td>
       <td></td>
     </tr>
     <tr>
       <td class="week">٧</td>
       <td>٢٥–٢٩ أكتوبر</td>
-      <td>قياس المتغيرات (٣)</td>
+      <td><a href="slides/chapter_04_slides.html">قياس المتغيرات (٣) — الفصل الرابع كاملًا — HTML</a> · <a href="slides/chapter_04_slides.pdf">PDF</a></td>
       <td class="deadline">التسليم ٢ · الثلاثاء ٢٧ أكتوبر، ١١:٥٩ مساءً<br>المراجعة الأولية للأدبيات</td>
     </tr>
     <tr>

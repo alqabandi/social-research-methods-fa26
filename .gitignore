@@ -17,6 +17,9 @@
 # Private lecture notes and locally rendered copies
 /materials/lecture_notes/
 
+# Private English teaching materials and locally rendered copies
+/materials/english/
+
 # Local English slide translation and print files
 /slides/chapter_02_slide_deck_1_16_english_print.qmd
 /slides/chapter_02_slide_deck_1_16_english_print.pdf

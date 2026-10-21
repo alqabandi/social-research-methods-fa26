@@ -25,6 +25,9 @@ The personal website should contain only a Teaching-page link to this course sit
 - `.github/workflows/publish.yml` — automatic GitHub Pages deployment
 
 Instructor notes, answer keys, student information, and other private materials must not be added to this public repository.
+Keep local lecture notes in `materials/lecture_notes/` and private English teaching
+versions in `materials/english/`; both directories are excluded from Git and site
+rendering.
 
 ## Changing the website look
 
