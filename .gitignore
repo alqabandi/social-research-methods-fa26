@@ -20,6 +20,12 @@
 # Private English teaching materials and locally rendered copies
 /materials/english/
 
+# Private quizzes and locally rendered quiz files
+/materials/chapter-04-quiz*.qmd
+/materials/chapter-04-quiz*.html
+/materials/chapter-04-quiz*.pdf
+/materials/chapter-04-quiz-print.css
+
 # Local English slide translation and print files
 /slides/chapter_02_slide_deck_1_16_english_print.qmd
 /slides/chapter_02_slide_deck_1_16_english_print.pdf
