@@ -6,7 +6,7 @@ date: last-modified
 date-format: "D MMMM YYYY"
 lang: en
 dir: ltr
-translation-source-sha256: "beccfa35b0489430d5f38a45e0a2cd77adf60962e373e9af83f545a92be024cc"
+translation-source-sha256: "fa3841db10ac6c2ce68e671329278f4fd70d67da609d7a1a306d45fc706b335e"
 language:
   title-block-author-single: "Course Instructor"
   title-block-author-plural: "Course Instructors"
@@ -183,7 +183,7 @@ Two to three pages containing:
 :::
 
 ::: {.milestone-card .milestone-three}
-#### Submission 3 — Question, Hypotheses, and Variables (Tuesday, 17 November 2026, 11:59 p.m.)
+#### Submission 3 — Question, Hypotheses, and Variables (Tuesday, 10 November 2026, 11:59 p.m.)
 
 Two pages containing:
 
@@ -385,12 +385,12 @@ I may adjust topics, activities, or dates in response to university announcement
 | **5** | 11-15 October | Wednesday, 14 October: <!-- Chapter 3 -->The Research Plan (2) — Chapter 3 completed | <!-- Feedback on Submission 1 --> |
 | **6** | 18-22 October | <!-- Chapter 4 -->Measurement of Variables (1-2) |  |
 | **7** | 25-29 October | <!-- Chapter 4 -->Measurement of Variables (3) | **Submission 2 (Tuesday, 27 October, 11:59 p.m.): Preliminary Literature Review** |
-| **8** | 1-5 November |  |  |
-| **9** | 8-12 November | <!-- Chapter 5 -->Questionnaires and Interviews (1) |  |
-| **10** | 15-19 November | <!-- Chapter 5 -->Questionnaires and Interviews (2-3) | **Submission 3 (Tuesday, 17 November, 11:59 p.m.): Question, Hypotheses, and Variables** |
-| **11** | 22-26 November | <!-- Chapter 6 -->Sampling (1-2) |  |
-| **12** | 29 November-3 December | <!-- Chapter 7 -->Social Surveys (1-2) |  |
-| **13** | 6-10 December | <!-- Chapter 10 in the reference -->The Experimental Method (1)<br><!-- Chapter 10 in the reference -->The Experimental Method (2-3) | **Submission 4 (Tuesday, 8 December, 11:59 p.m.): Data Collection Instrument, Study Population, Sampling, and Ethics** |
+| **8** | 1-5 November | <!-- Chapter 5 -->Questionnaires and Interviews (1) |  |
+| **9** | 8-12 November | <!-- Chapter 5 -->Questionnaires and Interviews (2-3) | **Submission 3 (Tuesday, 10 November, 11:59 p.m.): Question, Hypotheses, and Variables** |
+| **10** | 15-19 November | <!-- Chapter 6 -->Sampling (1-2) |  |
+| **11** | 22-26 November | <!-- Chapter 7 -->Social Surveys (1-2) |  |
+| **12** | 29 November-3 December | <!-- Chapter 10 in the reference -->The Experimental Method (1)<br><!-- Chapter 10 in the reference -->The Experimental Method (2-3) |  |
+| **13** | 6-10 December |  | **Submission 4 (Tuesday, 8 December, 11:59 p.m.): Data Collection Instrument, Study Population, Sampling, and Ethics** |
 | **14** | 13-17 December | Presentations, discussions, and justification of method selection and alternatives | **Written Research Proposal Due — 15% (Sunday, 13 December, 11:59 p.m.)**<br>**Presentations and Oral Discussion**<br>Attendance and peer assessment are required in both sessions |
 | **15** | 20-21 December | Course synthesis, final review, and semester close |  |
 | **Examination Period** | Saturday, 2 January 2027, 9:00–11:00 a.m. | Final examination | **Final Exam — 25%** |
