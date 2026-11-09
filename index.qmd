@@ -154,13 +154,13 @@ Microsoft Teams
     <tr>
       <td class="week">٩</td>
       <td>٨–١٢ نوفمبر</td>
-      <td><a href="slides/chapter_05_slides.html">الاستبانة والمقابلة (٢–٣) — الفصل الخامس كاملًا — HTML</a> · <a href="slides/chapter_05_slides.pdf">PDF</a></td>
+      <td>الاثنين ٩ نوفمبر: <a href="slides/chapter_06_slides.html">اختيار العينات (١) — الفصل السادس — HTML</a> · <a href="slides/chapter_06_slides.pdf">PDF</a></td>
       <td class="deadline">التسليم ٣ · الثلاثاء ١٠ نوفمبر، ١١:٥٩ مساءً<br>السؤال والفروض والمتغيرات</td>
     </tr>
     <tr>
       <td class="week">١٠</td>
       <td>١٥–١٩ نوفمبر</td>
-      <td><a href="slides/chapter_06_slides.html">اختيار العينات (١–٢) — الفصل السادس — HTML</a> · <a href="slides/chapter_06_slides.pdf">PDF</a></td>
+      <td><a href="slides/chapter_06_slides.html">اختيار العينات (٢–٣) — الفصل السادس كاملًا — HTML</a> · <a href="slides/chapter_06_slides.pdf">PDF</a></td>
       <td></td>
     </tr>
     <tr>
