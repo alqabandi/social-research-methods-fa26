@@ -160,7 +160,7 @@ Microsoft Teams
     <tr>
       <td class="week">١٠</td>
       <td>١٥–١٩ نوفمبر</td>
-      <td>اختيار العينات (١–٢)</td>
+      <td><a href="slides/chapter_06_slides.html">اختيار العينات (١–٢) — الفصل السادس — HTML</a> · <a href="slides/chapter_06_slides.pdf">PDF</a></td>
       <td></td>
     </tr>
     <tr>
