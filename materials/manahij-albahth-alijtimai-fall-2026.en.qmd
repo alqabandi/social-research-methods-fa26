@@ -378,16 +378,16 @@ I may adjust topics, activities, or dates in response to university announcement
 
 | Week | Date | Topic | Assessment or Submission |
 |-------------|-------------|-------------------------|-------------------------|
-| **1** | 13-17 September | Monday, 14 September: Course introduction and project overview<br>Wednesday, 16 September: <!-- Chapter 1 -->Social Research Methods — Chapter 1 completed |  |
-| **2** | 20-24 September | <!-- Chapter 2 -->The Research Problem and Hypotheses (1-2) |  |
-| **3** | 27 September-1 October | <!-- Chapter 2 -->The Research Problem and Hypotheses (3) |  |
-| **4** | 4-8 October | Topic and preliminary questions workshop<br><!-- Chapter 3 -->The Research Plan (1) | **Submission 1 (Tuesday, 6 October, 11:59 p.m.):**<br>**Group, Topic, and Preliminary Research Questions** |
-| **5** | 11-15 October | Wednesday, 14 October: <!-- Chapter 3 -->The Research Plan (2) — Chapter 3 completed | <!-- Feedback on Submission 1 --> |
-| **6** | 18-22 October | <!-- Chapter 4 -->Measurement of Variables (1-2) |  |
-| **7** | 25-29 October | <!-- Chapter 4 -->Measurement of Variables (3) | **Submission 2 (Tuesday, 27 October, 11:59 p.m.): Preliminary Literature Review** |
-| **8** | 1-5 November | <!-- Chapter 5 -->Questionnaires and Interviews (1) |  |
-| **9** | 8-12 November | <!-- Chapter 5 -->Questionnaires and Interviews (2-3) | **Submission 3 (Tuesday, 10 November, 11:59 p.m.): Question, Hypotheses, and Variables** |
-| **10** | 15-19 November | <!-- Chapter 6 -->Sampling (1-2) |  |
+| **1** | 13-17 September | Monday, 14 September: Course introduction and project overview<br>Wednesday, 16 September: <!-- Chapter 1 -->[Social Research Methods — Complete Chapter 1 — HTML](../slides/chapter_01_slide_deck.html) · [PDF](../slides/chapter_01_slide_deck.pdf) |  |
+| **2** | 20-24 September | Monday, 21 September: <!-- Chapter 2 -->[The Research Problem and Hypotheses — Slides 1-16 — HTML](../slides/chapter_02_slide_deck_1_16.html) · [PDF](../slides/chapter_02_slide_deck_1_16.pdf)<br>Wednesday, 23 September: [The Research Problem and Hypotheses — Slides 1-37 — HTML](../slides/chapter_02_slide_deck_1_37.html) · [PDF](../slides/chapter_02_slide_deck_1_37.pdf) |  |
+| **3** | 27 September-1 October | Wednesday, 30 September: <!-- Chapter 2 -->[The Research Problem and Hypotheses — Complete Chapter 2 — HTML](../slides/chapter_02_slide_deck_whole.html) · [PDF](../slides/chapter_02_slide_deck_whole.pdf) |  |
+| **4** | 4-8 October | Topic and preliminary questions workshop<br><!-- Chapter 3 -->[The Research Plan (1) — Chapter 3 — HTML](../slides/chapter_03_slides_condensed.html) · [PDF](../slides/chapter_03_slides_condensed.pdf) | **Submission 1 (Tuesday, 6 October, 11:59 p.m.):**<br>**Group, Topic, and Preliminary Research Questions** |
+| **5** | 11-15 October | Wednesday, 14 October: <!-- Chapter 3 -->[The Research Plan (2) — Complete Chapter 3 — HTML](../slides/chapter_03_slides_condensed.html) · [PDF](../slides/chapter_03_slides_condensed.pdf) | <!-- Feedback on Submission 1 --> |
+| **6** | 18-22 October | <!-- Chapter 4 -->[Measurement of Variables (1-2) — Chapter 4 — HTML](../slides/chapter_04_slides.html) · [PDF](../slides/chapter_04_slides.pdf) |  |
+| **7** | 25-29 October | <!-- Chapter 4 -->[Measurement of Variables (3) — Complete Chapter 4 — HTML](../slides/chapter_04_slides.html) · [PDF](../slides/chapter_04_slides.pdf) | **Submission 2 (Tuesday, 27 October, 11:59 p.m.): Preliminary Literature Review** |
+| **8** | 1-5 November | <!-- Chapter 5 -->[Questionnaires and Interviews (1) — Chapter 5 — HTML](../slides/chapter_05_slides.html) · [PDF](../slides/chapter_05_slides.pdf) |  |
+| **9** | 8-12 November | Monday, 9 November: <!-- Chapter 6 -->[Sampling (1) — Chapter 6 — HTML](../slides/chapter_06_slides.html) · [PDF](../slides/chapter_06_slides.pdf) | **Submission 3 (Tuesday, 10 November, 11:59 p.m.): Question, Hypotheses, and Variables** |
+| **10** | 15-19 November | <!-- Chapter 6 -->[Sampling (2-3) — Complete Chapter 6 — HTML](../slides/chapter_06_slides.html) · [PDF](../slides/chapter_06_slides.pdf) |  |
 | **11** | 22-26 November | <!-- Chapter 7 -->Social Surveys (1-2) |  |
 | **12** | 29 November-3 December | <!-- Chapter 10 in the reference -->The Experimental Method (1)<br><!-- Chapter 10 in the reference -->The Experimental Method (2-3) |  |
 | **13** | 6-10 December |  | **Submission 4 (Tuesday, 8 December, 11:59 p.m.): Data Collection Instrument, Study Population, Sampling, and Ethics** |
