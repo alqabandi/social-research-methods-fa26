@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" width="1200" height="610">
+  <title>What does the sample let us say?</title>
+  <desc>With a well-executed probability sample, conclusions reach from the participants to the target population with a margin of error. With a non-probability sample, conclusions reach the participants confidently and similar cases cautiously, while generalizing to the population remains an open question.</desc>
+  <style>
+    text { font-family:'Noto Sans','Helvetica Neue',Arial,sans-serif; text-anchor:middle; }
+    .outer { fill:#EEF2F7; stroke:#9aa3ad; stroke-width:2; }
+    .middle { fill:#DDE6EE; stroke:#9aa3ad; stroke-width:2; }
+    .inner { fill:#F3DDA0; stroke:#A47712; stroke-width:2.5; }
+    .ring { font-size:17px; font-weight:700; fill:#1B2A4A; }
+    .head { font-size:24px; font-weight:700; fill:#1B2A4A; }
+    .sub { font-size:18px; font-weight:600; fill:#1B2A4A; }
+    .claim { stroke:#147D79; stroke-width:8; stroke-linecap:round; fill:none; }
+    .claim-weak { stroke:#147D79; stroke-width:6; stroke-linecap:round; stroke-dasharray:4 14; fill:none; }
+  </style>
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#147D79"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="610" fill="#FCFCFA"/>
+
+  <g transform="matrix(-1 0 0 1 1200 0)">
+    <line x1="600" y1="40" x2="600" y2="590" stroke="#c9ced6" stroke-width="2" stroke-dasharray="8 8"/>
+    <circle class="outer" cx="900" cy="310" r="210"/>
+    <circle class="middle" cx="900" cy="310" r="140"/>
+    <circle class="inner" cx="900" cy="310" r="70"/>
+    <path class="claim" d="M 900 330 H 708" marker-end="url(#ah)"/>
+    <circle cx="900" cy="330" r="8" fill="#147D79"/>
+
+    <circle class="outer" cx="300" cy="310" r="210"/>
+    <circle class="middle" cx="300" cy="310" r="140"/>
+    <circle class="inner" cx="300" cy="310" r="70"/>
+    <path class="claim" d="M 300 330 H 238"/>
+    <path class="claim-weak" d="M 226 330 H 168"/>
+    <circle cx="300" cy="330" r="8" fill="#147D79"/>
+  </g>
+
+  <text class="head" x="300" y="60">Well-executed probability sample</text>
+  <text class="head" x="900" y="60">Non-probability sample</text>
+
+  <text class="ring" x="300" y="130">Target population</text>
+  <text class="ring" x="300" y="198">Similar cases</text>
+  <text class="ring" x="300" y="275">Participants</text>
+  <text class="ring" x="900" y="130">Target population</text>
+  <text class="ring" x="900" y="198">Similar cases</text>
+  <text class="ring" x="900" y="275">Participants</text>
+  <text x="1075" y="348" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#C65D4B">?</text>
+
+  <text class="sub" x="300" y="560">Population estimates with calculated uncertainty</text>
+  <text class="sub" x="300" y="588">and stated coverage and response limits</text>
+  <text class="sub" x="900" y="560">Describe participants, understand experiences,</text>
+  <text class="sub" x="900" y="588">build hypotheses; generalize numbers with caution</text>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620">
+  <title>The starting point shapes the path</title>
+  <desc>Three networks in the population. The seeds are in the first network, so most of its members enter the sample; the second network is reached by a single bridge, so only two of its members enter; the third network is separate, so none of its members enter.</desc>
+  <style>
+    text { font-family:'Noto Sans','Helvetica Neue',Arial,sans-serif; text-anchor:middle; }
+    .area { fill:#EEF2F7; stroke:#9aa3ad; stroke-width:2; stroke-dasharray:8 7; }
+    .head { font-size:21px; font-weight:700; fill:#1B2A4A; }
+    .sub { font-size:17px; font-weight:600; fill:#1B2A4A; }
+    .sub-red { font-size:17px; font-weight:700; fill:#C65D4B; }
+    .note { font-size:19px; font-weight:700; fill:#1B2A4A; }
+    .legend { font-size:15px; font-weight:600; fill:#1B2A4A; text-anchor:start; }
+    .tie { stroke:#2a9d8f; stroke-width:3.5; stroke-linecap:round; }
+    .tie-off { stroke:#b5bcc5; stroke-width:2.5; stroke-linecap:round; }
+    .bridge { stroke:#2a9d8f; stroke-width:4; stroke-linecap:round; stroke-dasharray:10 6; }
+    .dot { fill:#d7dbe0; stroke:#8c96a3; stroke-width:1.5; }
+    .sel { fill:#e9c46a; stroke:#1B2A4A; stroke-width:1.8; }
+    .seed { fill:none; stroke:#C65D4B; stroke-width:4; }
+  </style>
+
+  <rect width="1200" height="620" fill="#FCFCFA"/>
+
+  <g transform="matrix(-1 0 0 1 1200 0)">
+    <ellipse class="area" cx="990" cy="300" rx="165" ry="175"/>
+    <ellipse class="area" cx="590" cy="300" rx="150" ry="165"/>
+    <ellipse class="area" cx="215" cy="300" rx="150" ry="165"/>
+
+    <line class="tie" x1="980" y1="220" x2="1060" y2="270"/><line class="tie" x1="980" y1="220" x2="900" y2="260"/>
+    <line class="tie" x1="980" y1="220" x2="1080" y2="190"/><line class="tie" x1="980" y1="220" x2="895" y2="190"/>
+    <line class="tie" x1="1060" y1="270" x2="1080" y2="190"/><line class="tie" x1="1060" y1="270" x2="1040" y2="350"/>
+    <line class="tie-off" x1="1060" y1="270" x2="1090" y2="400"/><line class="tie" x1="900" y1="260" x2="940" y2="340"/>
+    <line class="tie" x1="900" y1="260" x2="895" y2="190"/><line class="tie" x1="940" y1="340" x2="1040" y2="350"/>
+    <line class="tie" x1="940" y1="340" x2="1000" y2="420"/><line class="tie" x1="1040" y1="350" x2="1000" y2="420"/>
+    <line class="tie-off" x1="1040" y1="350" x2="1090" y2="400"/><line class="tie-off" x1="1000" y1="420" x2="1090" y2="400"/>
+
+    <line class="bridge" x1="900" y1="260" x2="690" y2="280"/>
+
+    <line class="tie" x1="690" y1="280" x2="630" y2="210"/>
+    <line class="tie-off" x1="690" y1="280" x2="600" y2="330"/><line class="tie-off" x1="630" y1="210" x2="520" y2="260"/>
+    <line class="tie-off" x1="630" y1="210" x2="510" y2="180"/><line class="tie-off" x1="600" y1="330" x2="520" y2="260"/>
+    <line class="tie-off" x1="600" y1="330" x2="540" y2="390"/><line class="tie-off" x1="600" y1="330" x2="650" y2="400"/>
+    <line class="tie-off" x1="540" y1="390" x2="650" y2="400"/><line class="tie-off" x1="520" y1="260" x2="510" y2="180"/>
+
+    <line class="tie-off" x1="250" y1="210" x2="180" y2="260"/><line class="tie-off" x1="250" y1="210" x2="300" y2="290"/>
+    <line class="tie-off" x1="250" y1="210" x2="130" y2="210"/><line class="tie-off" x1="180" y1="260" x2="220" y2="350"/>
+    <line class="tie-off" x1="180" y1="260" x2="140" y2="330"/><line class="tie-off" x1="180" y1="260" x2="130" y2="210"/>
+    <line class="tie-off" x1="300" y1="290" x2="220" y2="350"/><line class="tie-off" x1="300" y1="290" x2="290" y2="400"/>
+    <line class="tie-off" x1="220" y1="350" x2="290" y2="400"/><line class="tie-off" x1="220" y1="350" x2="200" y2="420"/>
+    <line class="tie-off" x1="140" y1="330" x2="200" y2="420"/>
+
+    <circle class="sel" cx="980" cy="220" r="12"/><circle class="sel" cx="1060" cy="270" r="12"/>
+    <circle class="sel" cx="900" cy="260" r="12"/><circle class="sel" cx="940" cy="340" r="12"/>
+    <circle class="sel" cx="1040" cy="350" r="12"/><circle class="sel" cx="1080" cy="190" r="12"/>
+    <circle class="sel" cx="895" cy="190" r="12"/><circle class="sel" cx="1000" cy="420" r="12"/>
+    <circle class="dot" cx="1090" cy="400" r="12"/>
+    <circle class="seed" cx="980" cy="220" r="19"/><circle class="seed" cx="1060" cy="270" r="19"/>
+
+    <circle class="sel" cx="690" cy="280" r="12"/><circle class="sel" cx="630" cy="210" r="12"/>
+    <circle class="dot" cx="600" cy="330" r="12"/><circle class="dot" cx="520" cy="260" r="12"/>
+    <circle class="dot" cx="540" cy="390" r="12"/><circle class="dot" cx="650" cy="400" r="12"/>
+    <circle class="dot" cx="510" cy="180" r="12"/>
+
+    <circle class="dot" cx="250" cy="210" r="12"/><circle class="dot" cx="180" cy="260" r="12"/>
+    <circle class="dot" cx="300" cy="290" r="12"/><circle class="dot" cx="220" cy="350" r="12"/>
+    <circle class="dot" cx="140" cy="330" r="12"/><circle class="dot" cx="290" cy="400" r="12"/>
+    <circle class="dot" cx="130" cy="210" r="12"/><circle class="dot" cx="200" cy="420" r="12"/>
+  </g>
+
+  <text class="head" x="210" y="100">The network we started in</text>
+  <text class="head" x="610" y="100">Reached by a single bridge</text>
+  <text class="head" x="985" y="100">A separate network</text>
+  <text class="sub" x="400" y="252">bridge</text>
+
+  <text class="sub" x="210" y="505">Most members are in the sample</text>
+  <text class="sub" x="610" y="505">Only two entered the sample</text>
+  <text class="sub-red" x="985" y="505">No path in: zero chance</text>
+
+  <text class="note" x="600" y="552">The sample grows inside the starting network; networks the seeds never reach are missed</text>
+
+  <g>
+    <circle class="sel" cx="420" cy="595" r="9"/>
+    <text class="legend" x="437" y="600">In the sample</text>
+    <circle class="dot" cx="575" cy="595" r="9"/>
+    <text class="legend" x="592" y="600">Not in the sample</text>
+    <circle class="sel" cx="760" cy="595" r="9"/><circle class="seed" cx="760" cy="595" r="15"/>
+    <text class="legend" x="783" y="600">Seed</text>
+  </g>
+</svg>

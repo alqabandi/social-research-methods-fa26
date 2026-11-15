@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 590" width="1200" height="590">
+  <title>The 1936 Literary Digest poll</title>
+  <desc>The magazine drew names from telephone directories, automobile registrations, and other lists, mailed about ten million postcards, and got about 2.4 million back. It forecast that Landon would win 57 percent of the two-candidate vote; he actually won about 37 percent.</desc>
+  <style>
+    text { font-family:'Noto Sans','Helvetica Neue',Arial,sans-serif; text-anchor:middle; }
+    .head { font-size:21px; font-weight:700; fill:#1B2A4A; }
+    .list { font-size:15px; font-weight:700; fill:#1B2A4A; }
+    .sub { font-size:16px; font-weight:600; fill:#1B2A4A; }
+    .big { font-size:26px; font-weight:700; }
+    .note { font-size:20px; font-weight:700; fill:#1B2A4A; }
+    .src { font-family:Arial, sans-serif; font-size:13px; fill:#6F7985; }
+  </style>
+  <defs>
+    <marker id="arrowhead" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#A47712"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="590" fill="#FCFCFA"/>
+
+  <g transform="matrix(-1 0 0 1 1200 0)">
+    <rect x="950" y="130" width="180" height="300" rx="16" fill="#FFF7E3" stroke="#A47712" stroke-width="3"/>
+    <g fill="#FFFFFF" stroke="#A47712" stroke-width="2">
+      <rect x="965" y="160" width="150" height="60" rx="8"/>
+      <rect x="965" y="250" width="150" height="60" rx="8"/>
+      <rect x="965" y="340" width="150" height="60" rx="8"/>
+    </g>
+    <line x1="940" y1="280" x2="878" y2="280" stroke="#A47712" stroke-width="8" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+
+    <polygon points="720,130 720,430 610,430 610,358" fill="#1B2A4A" opacity="0.08"/>
+    <rect x="720" y="130" width="140" height="300" rx="6" fill="#1B2A4A"/>
+    <rect x="470" y="130" width="140" height="228" rx="6" fill="none" stroke="#9aa3ad" stroke-width="2" stroke-dasharray="7 6"/>
+    <rect x="470" y="358" width="140" height="72" rx="6" fill="#e9c46a" stroke="#1B2A4A" stroke-width="1.6"/>
+
+    <line x1="95" y1="430" x2="395" y2="430" stroke="#1B2A4A" stroke-width="2"/>
+    <line x1="120" y1="230" x2="395" y2="230" stroke="#9aa3ad" stroke-width="2" stroke-dasharray="6 6"/>
+    <rect x="270" y="202" width="90" height="228" rx="6" fill="#C65D4B"/>
+    <rect x="140" y="282" width="90" height="148" rx="6" fill="#147D79"/>
+  </g>
+
+  <text class="head" x="160" y="62">1. Where did names</text>
+  <text class="head" x="160" y="88">come from?</text>
+  <text class="head" x="410" y="62">2. How were</text>
+  <text class="head" x="410" y="88">people invited?</text>
+  <text class="head" x="660" y="62">3. Who</text>
+  <text class="head" x="660" y="88">responded?</text>
+  <text class="head" x="955" y="75">Forecast vs. result</text>
+
+  <text class="list" x="160" y="196">Phone directories</text>
+  <text class="list" x="160" y="286">Car registrations</text>
+  <text class="list" x="160" y="376">Other lists</text>
+
+  <text class="big" x="410" y="275" fill="#FFFFFF">10</text>
+  <text class="sub" x="410" y="305" style="fill:#FFFFFF">million cards</text>
+  <text class="sub" x="660" y="250" style="fill:#8c96a3">not returned</text>
+  <text class="big" x="660" y="403" fill="#1B2A4A" style="font-size:22px">2.4 million</text>
+
+  <text class="sub" x="160" y="468">Lists skewed toward the better-off</text>
+  <text class="sub" x="410" y="468">Mailed out</text>
+  <text class="sub" x="660" y="468">Returned voluntarily (about 24%)</text>
+
+  <text x="1100" y="236" font-family="Arial, sans-serif" font-size="14" fill="#6F7985">50%</text>
+  <text class="big" x="885" y="190" fill="#C65D4B">57%</text>
+  <text class="big" x="1015" y="270" fill="#147D79">37%</text>
+  <text class="sub" x="885" y="458">Digest forecast</text>
+  <text class="sub" x="1015" y="458">Actual result</text>
+  <text class="sub" x="955" y="488" style="font-size:14px">Landon's share of the two-candidate vote</text>
+
+  <text class="note" x="600" y="535">The huge sample fixed neither the biased lists nor who chose to reply</text>
+  <text class="src" x="600" y="572">Sources: The Literary Digest, Oct. 31, 1936; Squire, P. (1988). Why the 1936 Literary Digest poll failed. Public Opinion Quarterly, 52(1), 125-133.</text>
+</svg>

@@ -1,0 +1,85 @@
+<svg direction="rtl" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 560" width="1200" height="560">
+  <title>عينة كرة الثلج: موجات الترشيح</title>
+  <desc>نبدأ ببذرتين، ترشح كل بذرة مشاركين في الموجة الأولى، ثم يرشح هؤلاء مشاركين في الموجة الثانية، وهكذا تتسع العينة موجة بعد موجة.</desc>
+  <style>
+    text { font-family:'Noto Kufi Arabic','Geeza Pro','IBM Plex Sans Arabic',Arial,sans-serif; text-anchor:middle; }
+    .band { fill:#EEF2F7; }
+    .band-seed { fill:#F8E6E1; }
+    .head { font-size:22px; font-weight:700; fill:#1B2A4A; }
+    .sub { font-size:18px; font-weight:600; fill:#1B2A4A; }
+    .tie { stroke:#2a9d8f; stroke-width:3.5; stroke-linecap:round; }
+    .node { fill:#ffffff; stroke:#2a9d8f; stroke-width:3; }
+    .seed { fill:#ffffff; stroke:#C65D4B; stroke-width:4; }
+  </style>
+  <defs>
+    <symbol id="person" viewBox="-14 -21 28 36" overflow="visible">
+      <circle cx="0" cy="-12" r="8"/>
+      <path d="M -13 14 Q -13 -1 0 -1 Q 13 -1 13 14 Z"/>
+    </symbol>
+    <marker id="arrowhead" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#A47712"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="560" fill="#FCFCFA"/>
+
+  <rect class="band-seed" x="955" y="80" width="190" height="420" rx="16"/>
+  <rect class="band" x="695" y="80" width="190" height="420" rx="16"/>
+  <rect class="band" x="435" y="80" width="190" height="420" rx="16"/>
+  <rect class="band" x="175" y="80" width="190" height="420" rx="16"/>
+  <text class="head" x="1050" y="58">بذور أولية</text>
+  <text class="head" x="790" y="58">الموجة الأولى</text>
+  <text class="head" x="530" y="58">الموجة الثانية</text>
+  <text class="head" x="270" y="58">الموجة الثالثة</text>
+  <line x1="150" y1="290" x2="70" y2="290" stroke="#A47712" stroke-width="7" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  <text class="sub" x="95" y="330">وتستمر</text>
+
+  <!-- ties: recruiter -> recruit -->
+  <g>
+    <line class="tie" x1="1050" y1="220" x2="790" y2="170"/><line class="tie" x1="1050" y1="220" x2="790" y2="270"/>
+    <line class="tie" x1="1050" y1="400" x2="790" y2="350"/><line class="tie" x1="1050" y1="400" x2="790" y2="450"/>
+    <line class="tie" x1="790" y1="170" x2="530" y2="140"/><line class="tie" x1="790" y1="170" x2="530" y2="205"/>
+    <line class="tie" x1="790" y1="270" x2="530" y2="275"/>
+    <line class="tie" x1="790" y1="350" x2="530" y2="335"/><line class="tie" x1="790" y1="350" x2="530" y2="395"/>
+    <line class="tie" x1="790" y1="450" x2="530" y2="460"/>
+    <line class="tie" x1="530" y1="140" x2="270" y2="120"/>
+    <line class="tie" x1="530" y1="205" x2="270" y2="185"/>
+    <line class="tie" x1="530" y1="275" x2="270" y2="250"/>
+    <line class="tie" x1="530" y1="395" x2="270" y2="330"/><line class="tie" x1="530" y1="395" x2="270" y2="395"/>
+    <line class="tie" x1="530" y1="460" x2="270" y2="460"/>
+  </g>
+
+  <!-- seeds -->
+  <circle class="seed" cx="1050" cy="220" r="27"/><use href="#person" xlink:href="#person" x="1033" y="198" width="34" height="44" fill="#C65D4B"/>
+  <circle class="seed" cx="1050" cy="400" r="27"/><use href="#person" xlink:href="#person" x="1033" y="378" width="34" height="44" fill="#C65D4B"/>
+
+  <!-- wave 1 -->
+  <g fill="#1B2A4A">
+    <circle class="node" cx="790" cy="170" r="26"/><use href="#person" xlink:href="#person" x="773" y="148" width="34" height="44"/>
+    <circle class="node" cx="790" cy="270" r="26"/><use href="#person" xlink:href="#person" x="773" y="248" width="34" height="44"/>
+    <circle class="node" cx="790" cy="350" r="26"/><use href="#person" xlink:href="#person" x="773" y="328" width="34" height="44"/>
+    <circle class="node" cx="790" cy="450" r="26"/><use href="#person" xlink:href="#person" x="773" y="428" width="34" height="44"/>
+  </g>
+
+  <!-- wave 2 -->
+  <g fill="#147D79">
+    <circle class="node" cx="530" cy="140" r="26"/><use href="#person" xlink:href="#person" x="513" y="118" width="34" height="44"/>
+    <circle class="node" cx="530" cy="205" r="26"/><use href="#person" xlink:href="#person" x="513" y="183" width="34" height="44"/>
+    <circle class="node" cx="530" cy="275" r="26"/><use href="#person" xlink:href="#person" x="513" y="253" width="34" height="44"/>
+    <circle class="node" cx="530" cy="335" r="26"/><use href="#person" xlink:href="#person" x="513" y="313" width="34" height="44"/>
+    <circle class="node" cx="530" cy="395" r="26"/><use href="#person" xlink:href="#person" x="513" y="373" width="34" height="44"/>
+    <circle class="node" cx="530" cy="460" r="26"/><use href="#person" xlink:href="#person" x="513" y="438" width="34" height="44"/>
+  </g>
+
+  <!-- wave 3 -->
+  <g fill="#A47712">
+    <circle class="node" cx="270" cy="120" r="26"/><use href="#person" xlink:href="#person" x="253" y="98" width="34" height="44"/>
+    <circle class="node" cx="270" cy="185" r="26"/><use href="#person" xlink:href="#person" x="253" y="163" width="34" height="44"/>
+    <circle class="node" cx="270" cy="250" r="26"/><use href="#person" xlink:href="#person" x="253" y="228" width="34" height="44"/>
+    <circle class="node" cx="270" cy="330" r="26"/><use href="#person" xlink:href="#person" x="253" y="308" width="34" height="44"/>
+    <circle class="node" cx="270" cy="395" r="26"/><use href="#person" xlink:href="#person" x="253" y="373" width="34" height="44"/>
+    <circle class="node" cx="270" cy="460" r="26"/><use href="#person" xlink:href="#person" x="253" y="438" width="34" height="44"/>
+  </g>
+
+  <text class="sub" x="600" y="538">كل موجة يرشحها من سبقها، فتكبر العينة مثل كرة الثلج</text>
+</svg>

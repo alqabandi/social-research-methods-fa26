@@ -1,0 +1,73 @@
+<svg direction="rtl" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" width="1200" height="610">
+  <title>الاستبانة الإلكترونية: قناة واحدة وطريقتا اختيار</title>
+  <desc>الاستبانة الإلكترونية نفسها قد تصل عبر دعوات لعينة مسحوبة عشوائيًا من كشف، فيكون احتمال الاختيار معروفًا، أو عبر رابط منشور يجيب عنه من يرغب، فيكون احتمال الدخول مجهولًا.</desc>
+  <style>
+    text { font-family:'Noto Kufi Arabic','Geeza Pro','IBM Plex Sans Arabic',Arial,sans-serif; text-anchor:middle; }
+    .step-p { fill:#FFFFFF; stroke:#147D79; stroke-width:2.5; }
+    .step-s { fill:#FFFFFF; stroke:#C65D4B; stroke-width:2.5; }
+    .step { font-size:19px; font-weight:600; fill:#1B2A4A; }
+    .res { font-size:21px; font-weight:700; fill:#FFFFFF; }
+    .res-sm { font-size:15px; font-weight:600; fill:#FFFFFF; }
+    .head { font-size:22px; font-weight:700; fill:#1B2A4A; }
+    .note { font-size:21px; font-weight:700; fill:#1B2A4A; }
+    .num { font-size:17px; font-weight:700; fill:#FFFFFF; }
+  </style>
+  <defs>
+    <marker id="ah-teal" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#147D79"/>
+    </marker>
+    <marker id="ah-red" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#C65D4B"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="610" fill="#FCFCFA"/>
+
+  <!-- shared device -->
+  <rect x="545" y="22" width="110" height="74" rx="8" fill="#1B2A4A"/>
+  <rect x="555" y="32" width="90" height="54" rx="3" fill="#FFFFFF"/>
+  <rect x="566" y="42" width="68" height="7" rx="3.5" fill="#C7CDD4"/>
+  <circle cx="571" cy="60" r="4" fill="none" stroke="#147D79" stroke-width="2"/><rect x="580" y="57" width="50" height="6" rx="3" fill="#C7CDD4"/>
+  <circle cx="571" cy="75" r="4" fill="none" stroke="#147D79" stroke-width="2"/><rect x="580" y="72" width="40" height="6" rx="3" fill="#C7CDD4"/>
+  <path d="M 528 96 H 672 L 662 108 H 538 Z" fill="#6F7985"/>
+  <text class="head" x="600" y="140">استبانة إلكترونية واحدة</text>
+
+  <path d="M 745 132 C 860 132, 900 145, 900 180" fill="none" stroke="#147D79" stroke-width="6" stroke-linecap="round" marker-end="url(#ah-teal)"/>
+  <path d="M 455 132 C 340 132, 300 145, 300 180" fill="none" stroke="#C65D4B" stroke-width="6" stroke-linecap="round" marker-end="url(#ah-red)"/>
+
+  <!-- probability path (right) -->
+  <rect class="step-p" x="680" y="196" width="440" height="62" rx="12"/>
+  <rect class="step-p" x="680" y="288" width="440" height="62" rx="12"/>
+  <rect class="step-p" x="680" y="380" width="440" height="62" rx="12"/>
+  <circle cx="1090" cy="227" r="16" fill="#147D79"/><text class="num" x="1090" y="233">١</text>
+  <circle cx="1090" cy="319" r="16" fill="#147D79"/><text class="num" x="1090" y="325">٢</text>
+  <circle cx="1090" cy="411" r="16" fill="#147D79"/><text class="num" x="1090" y="417">٣</text>
+  <text class="step" x="885" y="234">كشف الطلبة المسجلين</text>
+  <text class="step" x="885" y="326">سحب عشوائي من الكشف</text>
+  <text class="step" x="885" y="418">رسالة دعوة لكل من اختير</text>
+  <g stroke="#147D79" stroke-width="4" stroke-linecap="round">
+    <line x1="900" y1="260" x2="900" y2="284"/><line x1="900" y1="352" x2="900" y2="376"/><line x1="900" y1="444" x2="900" y2="468"/>
+  </g>
+  <rect x="680" y="472" width="440" height="72" rx="14" fill="#147D79"/>
+  <text class="res" x="900" y="503">احتمال الاختيار معروف</text>
+  <text class="res-sm" x="900" y="530">ثم نتابع من لم يستجب</text>
+
+  <!-- self-selection path (left) -->
+  <rect class="step-s" x="80" y="196" width="440" height="62" rx="12"/>
+  <rect class="step-s" x="80" y="288" width="440" height="62" rx="12"/>
+  <rect class="step-s" x="80" y="380" width="440" height="62" rx="12"/>
+  <circle cx="490" cy="227" r="16" fill="#C65D4B"/><text class="num" x="490" y="233">١</text>
+  <circle cx="490" cy="319" r="16" fill="#C65D4B"/><text class="num" x="490" y="325">٢</text>
+  <circle cx="490" cy="411" r="16" fill="#C65D4B"/><text class="num" x="490" y="417">٣</text>
+  <text class="step" x="285" y="234">رابط منشور في حسابات ومجموعات</text>
+  <text class="step" x="285" y="326">يراه من يتابع هذه الحسابات</text>
+  <text class="step" x="285" y="418">يجيب من يرغب</text>
+  <g stroke="#C65D4B" stroke-width="4" stroke-linecap="round">
+    <line x1="300" y1="260" x2="300" y2="284"/><line x1="300" y1="352" x2="300" y2="376"/><line x1="300" y1="444" x2="300" y2="468"/>
+  </g>
+  <rect x="80" y="472" width="440" height="72" rx="14" fill="#C65D4B"/>
+  <text class="res" x="300" y="503">احتمال الدخول مجهول</text>
+  <text class="res-sm" x="300" y="530">اختيار ذاتي</text>
+
+  <text class="note" x="600" y="590">«إلكترونية» تصف القناة، لا طريقة الاختيار</text>
+</svg>

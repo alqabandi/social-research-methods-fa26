@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 530" width="1200" height="530">
+  <title>Four non-probability sampling methods</title>
+  <desc>Purposive sampling picks cases that meet a stated criterion; quota sampling fills each quota with the people closest to the interviewer; snowball sampling grows from a seed through referrals; convenience sampling takes those nearest the researcher.</desc>
+  <style>
+    text { font-family:'Noto Sans','Helvetica Neue',Arial,sans-serif; text-anchor:middle; }
+    .panel { fill:#fffdf8; stroke:#c9ced6; stroke-width:2; }
+    .head { fill:#1B2A4A; }
+    .label { font-size:21px; font-weight:700; fill:#ffffff; }
+    .sub { font-size:15px; font-weight:600; fill:#1B2A4A; }
+    .legend { font-size:15px; font-weight:600; fill:#1B2A4A; text-anchor:start; }
+    .dot { fill:#d7dbe0; stroke:#8c96a3; stroke-width:1.3; }
+    .sel { fill:#e9c46a; stroke:#1B2A4A; stroke-width:1.6; }
+    .crit { fill:none; stroke:#147D79; stroke-width:3; }
+    .seed { fill:none; stroke:#C65D4B; stroke-width:3.5; }
+    .tie { stroke:#2a9d8f; stroke-width:3; stroke-linecap:round; }
+    .tie-off { stroke:#b5bcc5; stroke-width:2; stroke-linecap:round; }
+    .reach { fill:#e9a923; fill-opacity:.08; stroke:#e9a923; stroke-width:2.5; stroke-dasharray:7 6; }
+  </style>
+  <defs>
+    <symbol id="person" viewBox="-14 -21 28 36" overflow="visible">
+      <circle cx="0" cy="-12" r="8"/>
+      <path d="M -13 14 Q -13 -1 0 -1 Q 13 -1 13 14 Z"/>
+    </symbol>
+  </defs>
+
+  <rect width="1200" height="530" fill="#FCFCFA"/>
+
+  <g transform="matrix(-1 0 0 1 1200 0)">
+    <!-- Purposive -->
+    <rect class="panel" x="906" y="10" width="276" height="450" rx="14"/>
+    <rect class="head" x="906" y="10" width="276" height="64" rx="14"/>
+    <circle class="dot" cx="956" cy="110" r="9"/><circle class="sel" cx="1000" cy="110" r="9"/><circle class="dot" cx="1044" cy="110" r="9"/><circle class="dot" cx="1088" cy="110" r="9"/><circle class="dot" cx="1132" cy="110" r="9"/>
+    <circle class="dot" cx="956" cy="155" r="9"/><circle class="dot" cx="1000" cy="155" r="9"/><circle class="dot" cx="1044" cy="155" r="9"/><circle class="dot" cx="1088" cy="155" r="9"/><circle class="sel" cx="1132" cy="155" r="9"/>
+    <circle class="dot" cx="956" cy="200" r="9"/><circle class="dot" cx="1000" cy="200" r="9"/><circle class="dot" cx="1044" cy="200" r="9"/><circle class="sel" cx="1088" cy="200" r="9"/><circle class="dot" cx="1132" cy="200" r="9"/>
+    <circle class="sel" cx="956" cy="245" r="9"/><circle class="dot" cx="1000" cy="245" r="9"/><circle class="dot" cx="1044" cy="245" r="9"/><circle class="dot" cx="1088" cy="245" r="9"/><circle class="dot" cx="1132" cy="245" r="9"/>
+    <circle class="dot" cx="956" cy="290" r="9"/><circle class="dot" cx="1000" cy="290" r="9"/><circle class="dot" cx="1044" cy="290" r="9"/><circle class="dot" cx="1088" cy="290" r="9"/><circle class="sel" cx="1132" cy="290" r="9"/>
+    <circle class="dot" cx="956" cy="335" r="9"/><circle class="dot" cx="1000" cy="335" r="9"/><circle class="sel" cx="1044" cy="335" r="9"/><circle class="dot" cx="1088" cy="335" r="9"/><circle class="dot" cx="1132" cy="335" r="9"/>
+    <circle class="crit" cx="1000" cy="110" r="15"/><circle class="crit" cx="1132" cy="155" r="15"/><circle class="crit" cx="1088" cy="200" r="15"/>
+    <circle class="crit" cx="956" cy="245" r="15"/><circle class="crit" cx="1132" cy="290" r="15"/><circle class="crit" cx="1044" cy="335" r="15"/>
+
+    <!-- Quota -->
+    <rect class="panel" x="610" y="10" width="276" height="450" rx="14"/>
+    <rect class="head" x="610" y="10" width="276" height="64" rx="14"/>
+    <rect x="630" y="91" width="196" height="84" rx="10" fill="#2a9d8f" opacity="0.25"/>
+    <rect x="630" y="190" width="196" height="84" rx="10" fill="#e9c46a" opacity="0.35"/>
+    <rect x="630" y="289" width="196" height="84" rx="10" fill="#e76f51" opacity="0.25"/>
+    <circle class="dot" cx="652" cy="118" r="9"/><circle class="dot" cx="688" cy="118" r="9"/><circle class="dot" cx="724" cy="118" r="9"/><circle class="sel" cx="760" cy="118" r="9"/><circle class="sel" cx="796" cy="118" r="9"/>
+    <circle class="dot" cx="652" cy="148" r="9"/><circle class="dot" cx="688" cy="148" r="9"/><circle class="dot" cx="724" cy="148" r="9"/><circle class="dot" cx="760" cy="148" r="9"/><circle class="sel" cx="796" cy="148" r="9"/>
+    <circle class="dot" cx="652" cy="217" r="9"/><circle class="dot" cx="688" cy="217" r="9"/><circle class="dot" cx="724" cy="217" r="9"/><circle class="sel" cx="760" cy="217" r="9"/><circle class="sel" cx="796" cy="217" r="9"/>
+    <circle class="dot" cx="652" cy="247" r="9"/><circle class="dot" cx="688" cy="247" r="9"/><circle class="dot" cx="724" cy="247" r="9"/><circle class="dot" cx="760" cy="247" r="9"/><circle class="sel" cx="796" cy="247" r="9"/>
+    <circle class="dot" cx="652" cy="316" r="9"/><circle class="dot" cx="688" cy="316" r="9"/><circle class="dot" cx="724" cy="316" r="9"/><circle class="sel" cx="760" cy="316" r="9"/><circle class="sel" cx="796" cy="316" r="9"/>
+    <circle class="dot" cx="652" cy="346" r="9"/><circle class="dot" cx="688" cy="346" r="9"/><circle class="dot" cx="724" cy="346" r="9"/><circle class="dot" cx="760" cy="346" r="9"/><circle class="sel" cx="796" cy="346" r="9"/>
+    <use href="#person" xlink:href="#person" x="840" y="212" width="30" height="38" fill="#C65D4B"/>
+
+    <!-- Snowball -->
+    <rect class="panel" x="314" y="10" width="276" height="450" rx="14"/>
+    <rect class="head" x="314" y="10" width="276" height="64" rx="14"/>
+    <line class="tie" x1="470" y1="120" x2="410" y2="170"/><line class="tie" x1="470" y1="120" x2="530" y2="170"/>
+    <line class="tie" x1="410" y1="170" x2="370" y2="225"/><line class="tie" x1="410" y1="170" x2="440" y2="232"/>
+    <line class="tie" x1="530" y1="170" x2="500" y2="230"/><line class="tie" x1="530" y1="170" x2="560" y2="222"/>
+    <line class="tie" x1="370" y1="225" x2="395" y2="282"/><line class="tie" x1="560" y1="222" x2="545" y2="280"/>
+    <line class="tie-off" x1="350" y1="345" x2="395" y2="335"/><line class="tie-off" x1="395" y1="335" x2="372" y2="378"/>
+    <line class="tie-off" x1="350" y1="345" x2="372" y2="378"/><line class="tie-off" x1="395" y1="335" x2="436" y2="362"/>
+    <circle class="sel" cx="470" cy="120" r="9"/>
+    <circle class="sel" cx="410" cy="170" r="9"/><circle class="sel" cx="530" cy="170" r="9"/>
+    <circle class="sel" cx="370" cy="225" r="9"/><circle class="sel" cx="440" cy="232" r="9"/><circle class="sel" cx="500" cy="230" r="9"/><circle class="sel" cx="560" cy="222" r="9"/>
+    <circle class="sel" cx="395" cy="282" r="9"/><circle class="sel" cx="545" cy="280" r="9"/>
+    <circle class="dot" cx="350" cy="345" r="9"/><circle class="dot" cx="395" cy="335" r="9"/><circle class="dot" cx="372" cy="378" r="9"/><circle class="dot" cx="436" cy="362" r="9"/>
+    <circle class="dot" cx="520" cy="350" r="9"/><circle class="dot" cx="565" cy="372" r="9"/>
+    <circle class="seed" cx="470" cy="120" r="15"/>
+
+    <!-- Convenience -->
+    <rect class="panel" x="18" y="10" width="276" height="450" rx="14"/>
+    <rect class="head" x="18" y="10" width="276" height="64" rx="14"/>
+    <circle class="reach" cx="156" cy="320" r="75"/>
+    <circle class="dot" cx="50" cy="110" r="9"/><circle class="dot" cx="100" cy="100" r="9"/><circle class="dot" cx="150" cy="115" r="9"/><circle class="dot" cx="205" cy="105" r="9"/><circle class="dot" cx="255" cy="112" r="9"/>
+    <circle class="dot" cx="70" cy="160" r="9"/><circle class="dot" cx="125" cy="165" r="9"/><circle class="dot" cx="185" cy="155" r="9"/><circle class="dot" cx="240" cy="165" r="9"/>
+    <circle class="dot" cx="45" cy="215" r="9"/><circle class="dot" cx="95" cy="220" r="9"/><circle class="dot" cx="156" cy="205" r="9"/><circle class="dot" cx="220" cy="215" r="9"/><circle class="dot" cx="265" cy="220" r="9"/>
+    <circle class="dot" cx="50" cy="280" r="9"/><circle class="dot" cx="262" cy="285" r="9"/>
+    <circle class="dot" cx="55" cy="345" r="9"/><circle class="dot" cx="262" cy="350" r="9"/>
+    <circle class="sel" cx="120" cy="270" r="9"/><circle class="sel" cx="156" cy="255" r="9"/><circle class="sel" cx="195" cy="272" r="9"/>
+    <circle class="sel" cx="112" cy="320" r="9"/><circle class="sel" cx="200" cy="322" r="9"/>
+    <circle class="sel" cx="130" cy="370" r="9"/><circle class="sel" cx="185" cy="368" r="9"/>
+    <use href="#person" xlink:href="#person" x="141" y="301" width="30" height="38" fill="#C65D4B"/>
+  </g>
+
+  <text class="label" x="156" y="50">Purposive</text>
+  <text class="sub" x="156" y="404">Cases with the needed experience</text>
+  <text class="sub" x="156" y="430">chosen by explicit criteria</text>
+
+  <text class="label" x="452" y="50">Quota</text>
+  <text class="sub" x="452" y="404">Three per group: quota filled</text>
+  <text class="sub" x="452" y="430">but closest to the interviewer</text>
+
+  <text class="label" x="748" y="50">Snowball</text>
+  <text class="sub" x="748" y="404">A seed, then waves of referrals</text>
+  <text class="sub" x="748" y="430">but separate networks are missed</text>
+
+  <text class="label" x="1044" y="50">Convenience</text>
+  <text class="sub" x="1044" y="420">Closest and easiest to reach</text>
+
+  <g>
+    <circle class="sel" cx="230" cy="497" r="8"/>
+    <text class="legend" x="246" y="502">Selected</text>
+    <circle class="dot" cx="345" cy="497" r="8"/>
+    <text class="legend" x="361" y="502">Not selected</text>
+    <circle class="sel" cx="490" cy="497" r="8"/><circle class="crit" cx="490" cy="497" r="13"/>
+    <text class="legend" x="511" y="502">Meets the criterion</text>
+    <circle class="sel" cx="685" cy="497" r="8"/><circle class="seed" cx="685" cy="497" r="13"/>
+    <text class="legend" x="706" y="502">Seed</text>
+    <use href="#person" xlink:href="#person" x="768" y="482" width="24" height="31" fill="#C65D4B"/>
+    <text class="legend" x="798" y="502">Researcher or interviewer</text>
+  </g>
+</svg>

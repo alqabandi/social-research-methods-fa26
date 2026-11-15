@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" width="1200" height="610">
+  <title>An online survey: one channel, two ways of selecting</title>
+  <desc>The same online questionnaire can reach people through invitations sent to a random draw from a list, so the selection probability is known, or through a posted link that anyone who wants can answer, so the chance of inclusion is unknown.</desc>
+  <style>
+    text { font-family:'Noto Sans','Helvetica Neue',Arial,sans-serif; text-anchor:middle; }
+    .step-p { fill:#FFFFFF; stroke:#147D79; stroke-width:2.5; }
+    .step-s { fill:#FFFFFF; stroke:#C65D4B; stroke-width:2.5; }
+    .step { font-size:18px; font-weight:600; fill:#1B2A4A; }
+    .res { font-size:21px; font-weight:700; fill:#FFFFFF; }
+    .res-sm { font-size:15px; font-weight:600; fill:#FFFFFF; }
+    .head { font-size:22px; font-weight:700; fill:#1B2A4A; }
+    .note { font-size:21px; font-weight:700; fill:#1B2A4A; }
+    .num { font-size:17px; font-weight:700; fill:#FFFFFF; }
+  </style>
+  <defs>
+    <marker id="ah-teal" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#147D79"/>
+    </marker>
+    <marker id="ah-red" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#C65D4B"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="610" fill="#FCFCFA"/>
+
+  <rect x="545" y="22" width="110" height="74" rx="8" fill="#1B2A4A"/>
+  <rect x="555" y="32" width="90" height="54" rx="3" fill="#FFFFFF"/>
+  <rect x="566" y="42" width="68" height="7" rx="3.5" fill="#C7CDD4"/>
+  <circle cx="571" cy="60" r="4" fill="none" stroke="#147D79" stroke-width="2"/><rect x="580" y="57" width="50" height="6" rx="3" fill="#C7CDD4"/>
+  <circle cx="571" cy="75" r="4" fill="none" stroke="#147D79" stroke-width="2"/><rect x="580" y="72" width="40" height="6" rx="3" fill="#C7CDD4"/>
+  <path d="M 528 96 H 672 L 662 108 H 538 Z" fill="#6F7985"/>
+
+  <g transform="matrix(-1 0 0 1 1200 0)">
+    <path d="M 745 132 C 860 132, 900 145, 900 180" fill="none" stroke="#147D79" stroke-width="6" stroke-linecap="round" marker-end="url(#ah-teal)"/>
+    <path d="M 455 132 C 340 132, 300 145, 300 180" fill="none" stroke="#C65D4B" stroke-width="6" stroke-linecap="round" marker-end="url(#ah-red)"/>
+
+    <rect class="step-p" x="680" y="196" width="440" height="62" rx="12"/>
+    <rect class="step-p" x="680" y="288" width="440" height="62" rx="12"/>
+    <rect class="step-p" x="680" y="380" width="440" height="62" rx="12"/>
+    <circle cx="1090" cy="227" r="16" fill="#147D79"/>
+    <circle cx="1090" cy="319" r="16" fill="#147D79"/>
+    <circle cx="1090" cy="411" r="16" fill="#147D79"/>
+    <g stroke="#147D79" stroke-width="4" stroke-linecap="round">
+      <line x1="900" y1="260" x2="900" y2="284"/><line x1="900" y1="352" x2="900" y2="376"/><line x1="900" y1="444" x2="900" y2="468"/>
+    </g>
+    <rect x="680" y="472" width="440" height="72" rx="14" fill="#147D79"/>
+
+    <rect class="step-s" x="80" y="196" width="440" height="62" rx="12"/>
+    <rect class="step-s" x="80" y="288" width="440" height="62" rx="12"/>
+    <rect class="step-s" x="80" y="380" width="440" height="62" rx="12"/>
+    <circle cx="490" cy="227" r="16" fill="#C65D4B"/>
+    <circle cx="490" cy="319" r="16" fill="#C65D4B"/>
+    <circle cx="490" cy="411" r="16" fill="#C65D4B"/>
+    <g stroke="#C65D4B" stroke-width="4" stroke-linecap="round">
+      <line x1="300" y1="260" x2="300" y2="284"/><line x1="300" y1="352" x2="300" y2="376"/><line x1="300" y1="444" x2="300" y2="468"/>
+    </g>
+    <rect x="80" y="472" width="440" height="72" rx="14" fill="#C65D4B"/>
+  </g>
+
+  <text class="head" x="600" y="140">One online questionnaire</text>
+
+  <text class="num" x="110" y="233">1</text>
+  <text class="num" x="110" y="325">2</text>
+  <text class="num" x="110" y="417">3</text>
+  <text class="step" x="320" y="234">Registrar's list of enrolled students</text>
+  <text class="step" x="320" y="326">Random draw from the list</text>
+  <text class="step" x="320" y="418">Invitation to each person drawn</text>
+  <text class="res" x="300" y="503">Selection probability is known</text>
+  <text class="res-sm" x="300" y="530">then follow up with non-respondents</text>
+
+  <text class="num" x="710" y="233">1</text>
+  <text class="num" x="710" y="325">2</text>
+  <text class="num" x="710" y="417">3</text>
+  <text class="step" x="920" y="234">Link posted on accounts and group chats</text>
+  <text class="step" x="920" y="326">Seen by people who follow them</text>
+  <text class="step" x="920" y="418">Anyone who wants to can answer</text>
+  <text class="res" x="900" y="503">Chance of inclusion is unknown</text>
+  <text class="res-sm" x="900" y="530">self-selection</text>
+
+  <text class="note" x="600" y="590">"Online" describes the channel, not the selection method</text>
+</svg>

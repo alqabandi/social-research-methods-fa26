@@ -1,0 +1,81 @@
+<svg direction="rtl" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 620" width="1200" height="620">
+  <title>من نراه ليس كل من هناك</title>
+  <desc>جبل جليدي: فوق سطح الماء قلة من أعضاء الحركة الأكثر ظهورًا إعلاميًا والأسهل وصولًا، وتحت الماء أغلبية أقل ظهورًا قد تغيب عن العينة العمدية.</desc>
+  <style>
+    text { font-family:'Noto Kufi Arabic','Geeza Pro','IBM Plex Sans Arabic',Arial,sans-serif; text-anchor:middle; }
+    .head { font-size:26px; font-weight:700; fill:#1B2A4A; }
+    .lead { font-size:20px; font-weight:700; fill:#1B2A4A; }
+    .sub { font-size:16px; font-weight:600; fill:#25313D; }
+    .ask { font-size:24px; font-weight:700; fill:#C65D4B; }
+    .note { font-size:19px; font-weight:700; fill:#1B2A4A; }
+    .leader { stroke:#1B2A4A; stroke-width:2; fill:none; }
+  </style>
+  <defs>
+    <symbol id="person" viewBox="-14 -21 28 36" overflow="visible">
+      <circle cx="0" cy="-12" r="8"/>
+      <path d="M -13 14 Q -13 -1 0 -1 Q 13 -1 13 14 Z"/>
+    </symbol>
+  </defs>
+
+  <rect width="1200" height="620" fill="#FCFCFA"/>
+  <rect x="0" y="230" width="1200" height="390" fill="#DCEBF0"/>
+  <path d="M 0 230 Q 30 222 60 230 T 120 230 T 180 230 T 240 230 T 300 230 T 360 230 T 420 230 T 480 230 T 540 230 T 600 230 T 660 230 T 720 230 T 780 230 T 840 230 T 900 230 T 960 230 T 1020 230 T 1080 230 T 1140 230 T 1200 230" fill="none" stroke="#7FB3C2" stroke-width="3"/>
+
+  <text class="head" x="600" y="48">من نراه ليس كل من هناك</text>
+
+  <!-- iceberg -->
+  <path d="M 450 230 L 760 230 L 860 300 L 900 410 L 840 520 L 650 575 L 450 555 L 340 470 L 320 350 Z" fill="#F4F8FA" fill-opacity="0.85" stroke="#9aa3ad" stroke-width="2"/>
+  <path d="M 470 230 L 540 160 L 590 108 L 640 150 L 700 180 L 745 230 Z" fill="#FFFFFF" stroke="#9aa3ad" stroke-width="2"/>
+
+  <!-- visible tip -->
+  <g fill="#C65D4B">
+    <use href="#person" xlink:href="#person" x="545" y="180" width="30" height="38"/>
+    <use href="#person" xlink:href="#person" x="585" y="135" width="30" height="38"/>
+    <use href="#person" xlink:href="#person" x="645" y="182" width="30" height="38"/>
+  </g>
+
+  <!-- below the surface -->
+  <g>
+    <use href="#person" xlink:href="#person" x="455" y="270" width="30" height="38" fill="#147D79"/>
+    <use href="#person" xlink:href="#person" x="525" y="270" width="30" height="38" fill="#A47712"/>
+    <use href="#person" xlink:href="#person" x="595" y="270" width="30" height="38" fill="#1B2A4A"/>
+    <use href="#person" xlink:href="#person" x="665" y="270" width="30" height="38" fill="#6F7985"/>
+    <use href="#person" xlink:href="#person" x="735" y="270" width="30" height="38" fill="#147D79"/>
+
+    <use href="#person" xlink:href="#person" x="385" y="340" width="30" height="38" fill="#A47712"/>
+    <use href="#person" xlink:href="#person" x="455" y="340" width="30" height="38" fill="#1B2A4A"/>
+    <use href="#person" xlink:href="#person" x="525" y="340" width="30" height="38" fill="#6F7985"/>
+    <use href="#person" xlink:href="#person" x="595" y="340" width="30" height="38" fill="#147D79"/>
+    <use href="#person" xlink:href="#person" x="665" y="340" width="30" height="38" fill="#A47712"/>
+    <use href="#person" xlink:href="#person" x="735" y="340" width="30" height="38" fill="#1B2A4A"/>
+    <use href="#person" xlink:href="#person" x="805" y="340" width="30" height="38" fill="#6F7985"/>
+
+    <use href="#person" xlink:href="#person" x="405" y="410" width="30" height="38" fill="#1B2A4A"/>
+    <use href="#person" xlink:href="#person" x="475" y="410" width="30" height="38" fill="#147D79"/>
+    <use href="#person" xlink:href="#person" x="545" y="410" width="30" height="38" fill="#A47712"/>
+    <use href="#person" xlink:href="#person" x="615" y="410" width="30" height="38" fill="#6F7985"/>
+    <use href="#person" xlink:href="#person" x="685" y="410" width="30" height="38" fill="#1B2A4A"/>
+    <use href="#person" xlink:href="#person" x="755" y="410" width="30" height="38" fill="#147D79"/>
+    <use href="#person" xlink:href="#person" x="825" y="410" width="30" height="38" fill="#A47712"/>
+
+    <use href="#person" xlink:href="#person" x="465" y="480" width="30" height="38" fill="#6F7985"/>
+    <use href="#person" xlink:href="#person" x="535" y="480" width="30" height="38" fill="#1B2A4A"/>
+    <use href="#person" xlink:href="#person" x="605" y="480" width="30" height="38" fill="#147D79"/>
+    <use href="#person" xlink:href="#person" x="675" y="480" width="30" height="38" fill="#A47712"/>
+    <use href="#person" xlink:href="#person" x="745" y="480" width="30" height="38" fill="#6F7985"/>
+  </g>
+
+  <!-- annotations -->
+  <path class="leader" d="M 712 175 L 860 130"/>
+  <text class="lead" x="1010" y="125">الأكثر ظهورًا إعلاميًا</text>
+  <text class="sub" x="1010" y="153">والأسهل وصولًا للباحث</text>
+
+  <path class="leader" d="M 885 400 L 925 400"/>
+  <text class="lead" x="1055" y="380">أعضاء أقل ظهورًا</text>
+  <text class="sub" x="1055" y="408">نساء، شباب، أعضاء في مناطق أخرى</text>
+  <text class="sub" x="1055" y="434">ومن انسحبوا أو اختلفوا</text>
+
+  <text class="ask" x="165" y="395">أيّهم في عينتنا؟</text>
+
+  <text class="note" x="600" y="604">اختيار الأكثر ظهورًا قد يعيد إنتاج صورة الإعلام عن الحركة</text>
+</svg>

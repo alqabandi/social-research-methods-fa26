@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+  <title>One professor's classes do not represent the university</title>
+  <desc>A map of a university with eight colleges. Only two class sections inside the College of Social Sciences are highlighted, with three reasons their students differ from the whole university: one college, specific times and levels, and students who chose these courses.</desc>
+  <style>
+    text { font-family:'Noto Sans','Helvetica Neue',Arial,sans-serif; text-anchor:middle; }
+    .bldg { fill:#D7DBE0; stroke:#B5BCC5; stroke-width:2; }
+    .bldg-label { font-size:18px; font-weight:700; fill:#6F7985; }
+    .room { fill:#FFFFFF; stroke:#9aa3ad; stroke-width:1.5; }
+    .head { font-size:24px; font-weight:700; fill:#1B2A4A; }
+    .pill { fill:#FFFFFF; stroke:#A47712; stroke-width:2.5; }
+    .pill-text { font-size:17px; font-weight:700; fill:#1B2A4A; }
+    .note { font-size:20px; font-weight:700; fill:#1B2A4A; }
+  </style>
+
+  <rect width="1200" height="600" fill="#FCFCFA"/>
+  <rect x="40" y="65" width="1120" height="405" rx="30" fill="#EEF2F7"/>
+
+  <g transform="matrix(-1 0 0 1 1200 0)">
+    <rect x="880" y="95" width="250" height="160" rx="12" fill="#EAF6F5" stroke="#147D79" stroke-width="3"/>
+    <rect class="room" x="915" y="150" width="56" height="34" rx="4"/>
+    <rect class="room" x="977" y="150" width="56" height="34" rx="4"/>
+    <rect x="1039" y="150" width="56" height="34" rx="4" fill="#e9c46a" stroke="#A47712" stroke-width="3"/>
+    <rect class="room" x="915" y="192" width="56" height="34" rx="4"/>
+    <rect x="977" y="192" width="56" height="34" rx="4" fill="#e9c46a" stroke="#A47712" stroke-width="3"/>
+    <rect class="room" x="1039" y="192" width="56" height="34" rx="4"/>
+
+    <rect class="bldg" x="610" y="95" width="250" height="160" rx="12"/>
+    <rect class="bldg" x="340" y="95" width="250" height="160" rx="12"/>
+    <rect class="bldg" x="70" y="95" width="250" height="160" rx="12"/>
+    <rect class="bldg" x="880" y="280" width="250" height="160" rx="12"/>
+    <rect class="bldg" x="610" y="280" width="250" height="160" rx="12"/>
+    <rect class="bldg" x="340" y="280" width="250" height="160" rx="12"/>
+    <rect class="bldg" x="70" y="280" width="250" height="160" rx="12"/>
+
+    <rect class="pill" x="830" y="492" width="300" height="48" rx="24"/>
+    <rect class="pill" x="450" y="492" width="300" height="48" rx="24"/>
+    <rect class="pill" x="70" y="492" width="300" height="48" rx="24"/>
+  </g>
+
+  <text class="head" x="600" y="44">The university</text>
+
+  <text x="195" y="128" font-size="17" font-weight="700" fill="#147D79">College of Social Sciences</text>
+  <text x="195" y="246" font-size="13" font-weight="700" fill="#A47712">Professor's sections: 200 students</text>
+
+  <text class="bldg-label" x="465" y="182">Arts</text>
+  <text class="bldg-label" x="735" y="182">Science</text>
+  <text class="bldg-label" x="1005" y="182">Engineering &amp; Petroleum</text>
+  <text class="bldg-label" x="195" y="367">Business Administration</text>
+  <text class="bldg-label" x="465" y="367">Law</text>
+  <text class="bldg-label" x="735" y="367">Education</text>
+  <text class="bldg-label" x="1005" y="367" style="font-size:16px">Medicine &amp; Health Sciences</text>
+
+  <text class="pill-text" x="220" y="522">One college</text>
+  <text class="pill-text" x="600" y="522">Specific times and levels</text>
+  <text class="pill-text" x="980" y="522">Students who chose these courses</text>
+
+  <text class="note" x="600" y="582">200 questionnaires from one professor's courses do not describe the whole university</text>
+</svg>
