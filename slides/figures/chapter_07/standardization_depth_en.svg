@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="en" lang="en" font-family='Arial, Helvetica, sans-serif'>
+<title id="t">Survey and case study: standardization and depth as complementary strengths</title>
+<desc id="d">A two-headed continuum runs from standardizing across many cases to going deep into a few. The survey panel shows many identical figures and lists standardization, comparability and coverage; it answers how many, how common, and whether groups differ, but can miss the meaning behind fixed options. The case study and in-depth interview panel shows one person in layers of context and lists context, process and meaning; it answers how things unfold and what they mean, but can miss breadth and comparison. Arrows between the panels show that depth sharpens survey questions and breadth shows how common a pattern is. The message: not more versus less scientific, but different kinds of evidence.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker><linearGradient id="cont" gradientUnits="userSpaceOnUse" x1="140" x2="1060" y1="44" y2="44"><stop offset="0" stop-color="#147D79"/><stop offset="1" stop-color="#A47712"/></linearGradient></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<path d="M 140.0 44.0 L 1060.0 44.0" fill="none" stroke="url(#cont)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 150.0 30.0 L 126.0 44.0 L 150.0 58.0 Z " fill="#147D79" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1050.0 30.0 L 1074.0 44.0 L 1050.0 58.0 Z " fill="#A47712" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="330.0" y="84.0" font-size="19" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="330.0" dy="0.0">Standardize across many cases</tspan></text>
+<text x="870.0" y="84.0" font-size="19" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="870.0" dy="0.0">Go deep into a few cases</tspan></text>
+<rect x="40.0" y="110.0" width="440.0" height="452.0" rx="18" fill="#EAF6F5" stroke="#147D79" stroke-width="2"/>
+<text x="260.0" y="152.0" font-size="28" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">Survey</tspan></text>
+<circle cx="80.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 71.3 207.2 V 199.7 Q 71.3 194.1 80.0 194.1 Q 88.7 194.1 88.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="120.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 111.3 207.2 V 199.7 Q 111.3 194.1 120.0 194.1 Q 128.7 194.1 128.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="160.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 151.3 207.2 V 199.7 Q 151.3 194.1 160.0 194.1 Q 168.7 194.1 168.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="200.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 191.3 207.2 V 199.7 Q 191.3 194.1 200.0 194.1 Q 208.7 194.1 208.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="240.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 231.3 207.2 V 199.7 Q 231.3 194.1 240.0 194.1 Q 248.7 194.1 248.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="280.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 271.3 207.2 V 199.7 Q 271.3 194.1 280.0 194.1 Q 288.7 194.1 288.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="320.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 311.3 207.2 V 199.7 Q 311.3 194.1 320.0 194.1 Q 328.7 194.1 328.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="360.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 351.3 207.2 V 199.7 Q 351.3 194.1 360.0 194.1 Q 368.7 194.1 368.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="400.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 391.3 207.2 V 199.7 Q 391.3 194.1 400.0 194.1 Q 408.7 194.1 408.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="440.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 431.3 207.2 V 199.7 Q 431.3 194.1 440.0 194.1 Q 448.7 194.1 448.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="80.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 71.3 243.2 V 235.7 Q 71.3 230.1 80.0 230.1 Q 88.7 230.1 88.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="120.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 111.3 243.2 V 235.7 Q 111.3 230.1 120.0 230.1 Q 128.7 230.1 128.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="160.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 151.3 243.2 V 235.7 Q 151.3 230.1 160.0 230.1 Q 168.7 230.1 168.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="200.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 191.3 243.2 V 235.7 Q 191.3 230.1 200.0 230.1 Q 208.7 230.1 208.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="240.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 231.3 243.2 V 235.7 Q 231.3 230.1 240.0 230.1 Q 248.7 230.1 248.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="280.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 271.3 243.2 V 235.7 Q 271.3 230.1 280.0 230.1 Q 288.7 230.1 288.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="320.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 311.3 243.2 V 235.7 Q 311.3 230.1 320.0 230.1 Q 328.7 230.1 328.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="360.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 351.3 243.2 V 235.7 Q 351.3 230.1 360.0 230.1 Q 368.7 230.1 368.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="400.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 391.3 243.2 V 235.7 Q 391.3 230.1 400.0 230.1 Q 408.7 230.1 408.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="440.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 431.3 243.2 V 235.7 Q 431.3 230.1 440.0 230.1 Q 448.7 230.1 448.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="80.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 71.3 279.2 V 271.7 Q 71.3 266.1 80.0 266.1 Q 88.7 266.1 88.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="120.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 111.3 279.2 V 271.7 Q 111.3 266.1 120.0 266.1 Q 128.7 266.1 128.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="160.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 151.3 279.2 V 271.7 Q 151.3 266.1 160.0 266.1 Q 168.7 266.1 168.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="200.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 191.3 279.2 V 271.7 Q 191.3 266.1 200.0 266.1 Q 208.7 266.1 208.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="240.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 231.3 279.2 V 271.7 Q 231.3 266.1 240.0 266.1 Q 248.7 266.1 248.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="280.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 271.3 279.2 V 271.7 Q 271.3 266.1 280.0 266.1 Q 288.7 266.1 288.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="320.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 311.3 279.2 V 271.7 Q 311.3 266.1 320.0 266.1 Q 328.7 266.1 328.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="360.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 351.3 279.2 V 271.7 Q 351.3 266.1 360.0 266.1 Q 368.7 266.1 368.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="400.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 391.3 279.2 V 271.7 Q 391.3 266.1 400.0 266.1 Q 408.7 266.1 408.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="440.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 431.3 279.2 V 271.7 Q 431.3 266.1 440.0 266.1 Q 448.7 266.1 448.7 271.7 V 279.2 Z" fill="#147D79"/>
+<rect x="110.0" y="316.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#147D79" stroke-width="2"/>
+<text x="260.0" y="343.0" font-size="21" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">Standardization</tspan></text>
+<rect x="110.0" y="366.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#147D79" stroke-width="2"/>
+<text x="260.0" y="393.0" font-size="21" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">Comparability</tspan></text>
+<rect x="110.0" y="416.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#147D79" stroke-width="2"/>
+<text x="260.0" y="443.0" font-size="21" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">Coverage (breadth)</tspan></text>
+<text x="260.0" y="488.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="260.0" dy="0.0">Answers questions like</tspan></text>
+<text x="260.0" y="514.0" font-size="18" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">How many? How common? Do groups differ?</tspan></text>
+<text x="260.0" y="546.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle" font-style="italic"><tspan x="260.0" dy="0.0">Can miss the meaning behind fixed options</tspan></text>
+<rect x="720.0" y="110.0" width="440.0" height="452.0" rx="18" fill="#FFF7E3" stroke="#A47712" stroke-width="2"/>
+<text x="940.0" y="152.0" font-size="25" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">Case study / in-depth interview</tspan></text>
+<circle cx="940.0" cy="236.0" r="62" fill="none" stroke="#A47712" stroke-width="1.5" stroke-dasharray="5 5"/>
+<circle cx="940.0" cy="236.0" r="44" fill="#FFFFFF" stroke="#A47712" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="940.0" cy="225.8" r="10.6" fill="#A47712"/>
+<path d="M 922.5 264.5 V 249.5 Q 922.5 238.2 940.0 238.2 Q 957.5 238.2 957.5 249.5 V 264.5 Z" fill="#A47712"/>
+<rect x="968.0" y="186.0" width="46.0" height="28.0" rx="8" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<path d="M 976.0 214.0 L 970.0 224.0 L 986.0 214.0" fill="#FFFFFF" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 976.0 195.0 L 1006.0 195.0" fill="none" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 976.0 202.0 L 1006.0 202.0" fill="none" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 976.0 209.0 L 1006.0 209.0" fill="none" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="790.0" y="316.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<text x="940.0" y="343.0" font-size="21" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">Context</tspan></text>
+<rect x="790.0" y="366.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<text x="940.0" y="393.0" font-size="21" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">Process</tspan></text>
+<rect x="790.0" y="416.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<text x="940.0" y="443.0" font-size="21" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">Meaning</tspan></text>
+<text x="940.0" y="488.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="940.0" dy="0.0">Answers questions like</tspan></text>
+<text x="940.0" y="514.0" font-size="18" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">How does it unfold? What does it mean?</tspan></text>
+<text x="940.0" y="546.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle" font-style="italic"><tspan x="940.0" dy="0.0">Can miss breadth and comparison across cases</tspan></text>
+<path d="M 716.0 270.0 C 660.0 218.0 540.0 218.0 484.0 270.0" fill="none" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<text x="600.0" y="186.0" font-size="17" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">Depth sharpens</tspan><tspan x="600.0" dy="20.7">survey questions</tspan></text>
+<path d="M 484.0 412.0 C 540.0 464.0 660.0 464.0 716.0 412.0" fill="none" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<text x="600.0" y="486.0" font-size="17" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">Breadth shows</tspan><tspan x="600.0" dy="20.7">how common it is</tspan></text>
+<circle cx="600.0" cy="341.0" r="70" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="600.0" y="347.0" font-size="16" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">Complementary</tspan></text>
+<rect x="40.0" y="584.0" width="1120.0" height="50.0" rx="12" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<text x="600.0" y="616.0" font-size="21" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">Not more vs. less scientific: different kinds of evidence for different questions.</tspan></text>
+</svg>

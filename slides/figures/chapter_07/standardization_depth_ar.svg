@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="ar" lang="ar" direction="rtl" font-family='Arial, "Noto Sans Arabic", sans-serif'>
+<title id="t">المسح ودراسة الحالة: التوحيد والتعمق قوتان متكاملتان</title>
+<desc id="d">سهم ذو اتجاهين يمتد من التوحيد عبر حالات كثيرة إلى التعمق في حالات قليلة. لوحة المسح تعرض أشخاصًا كثيرين متماثلين، وتذكر التوحيد وقابلية المقارنة والاتساع؛ وتجيب عن: كم؟ وما مدى الانتشار؟ وهل تختلف الفئات؟ لكنها قد تفوّت المعنى وراء البدائل الموحدة. لوحة دراسة الحالة والمقابلة المعمقة تعرض شخصًا واحدًا داخل طبقات من السياق، وتذكر السياق والعملية والمعنى؛ لكنها قد تفوّت الاتساع والمقارنة. يبيّن سهمان أن التعمق يحسّن أسئلة المسح، وأن الاتساع يبيّن مدى انتشار النمط. الرسالة: الفرق ليس علميًا مقابل غير علمي، بل نوع الدليل.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker><linearGradient id="cont" gradientUnits="userSpaceOnUse" x1="140" x2="1060" y1="44" y2="44"><stop offset="0" stop-color="#A47712"/><stop offset="1" stop-color="#147D79"/></linearGradient></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<path d="M 1060.0 44.0 L 140.0 44.0" fill="none" stroke="url(#cont)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 1050.0 30.0 L 1074.0 44.0 L 1050.0 58.0 Z " fill="#147D79" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 150.0 30.0 L 126.0 44.0 L 150.0 58.0 Z " fill="#A47712" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="870.0" y="84.0" font-size="19" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="870.0" dy="0.0">توحيد عبر حالات كثيرة</tspan></text>
+<text x="330.0" y="84.0" font-size="19" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="330.0" dy="0.0">تعمّق في حالات قليلة</tspan></text>
+<rect x="720.0" y="110.0" width="440.0" height="452.0" rx="18" fill="#EAF6F5" stroke="#147D79" stroke-width="2"/>
+<text x="940.0" y="152.0" font-size="28" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">المسح</tspan></text>
+<circle cx="1120.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 1111.3 207.2 V 199.7 Q 1111.3 194.1 1120.0 194.1 Q 1128.7 194.1 1128.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="1080.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 1071.3 207.2 V 199.7 Q 1071.3 194.1 1080.0 194.1 Q 1088.7 194.1 1088.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="1040.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 1031.3 207.2 V 199.7 Q 1031.3 194.1 1040.0 194.1 Q 1048.7 194.1 1048.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="1000.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 991.3 207.2 V 199.7 Q 991.3 194.1 1000.0 194.1 Q 1008.7 194.1 1008.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="960.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 951.3 207.2 V 199.7 Q 951.3 194.1 960.0 194.1 Q 968.7 194.1 968.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="920.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 911.3 207.2 V 199.7 Q 911.3 194.1 920.0 194.1 Q 928.7 194.1 928.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="880.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 871.3 207.2 V 199.7 Q 871.3 194.1 880.0 194.1 Q 888.7 194.1 888.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="840.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 831.3 207.2 V 199.7 Q 831.3 194.1 840.0 194.1 Q 848.7 194.1 848.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="800.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 791.3 207.2 V 199.7 Q 791.3 194.1 800.0 194.1 Q 808.7 194.1 808.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="760.0" cy="187.9" r="5.3" fill="#147D79"/>
+<path d="M 751.3 207.2 V 199.7 Q 751.3 194.1 760.0 194.1 Q 768.7 194.1 768.7 199.7 V 207.2 Z" fill="#147D79"/>
+<circle cx="1120.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 1111.3 243.2 V 235.7 Q 1111.3 230.1 1120.0 230.1 Q 1128.7 230.1 1128.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="1080.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 1071.3 243.2 V 235.7 Q 1071.3 230.1 1080.0 230.1 Q 1088.7 230.1 1088.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="1040.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 1031.3 243.2 V 235.7 Q 1031.3 230.1 1040.0 230.1 Q 1048.7 230.1 1048.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="1000.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 991.3 243.2 V 235.7 Q 991.3 230.1 1000.0 230.1 Q 1008.7 230.1 1008.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="960.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 951.3 243.2 V 235.7 Q 951.3 230.1 960.0 230.1 Q 968.7 230.1 968.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="920.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 911.3 243.2 V 235.7 Q 911.3 230.1 920.0 230.1 Q 928.7 230.1 928.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="880.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 871.3 243.2 V 235.7 Q 871.3 230.1 880.0 230.1 Q 888.7 230.1 888.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="840.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 831.3 243.2 V 235.7 Q 831.3 230.1 840.0 230.1 Q 848.7 230.1 848.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="800.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 791.3 243.2 V 235.7 Q 791.3 230.1 800.0 230.1 Q 808.7 230.1 808.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="760.0" cy="223.9" r="5.3" fill="#147D79"/>
+<path d="M 751.3 243.2 V 235.7 Q 751.3 230.1 760.0 230.1 Q 768.7 230.1 768.7 235.7 V 243.2 Z" fill="#147D79"/>
+<circle cx="1120.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 1111.3 279.2 V 271.7 Q 1111.3 266.1 1120.0 266.1 Q 1128.7 266.1 1128.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="1080.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 1071.3 279.2 V 271.7 Q 1071.3 266.1 1080.0 266.1 Q 1088.7 266.1 1088.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="1040.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 1031.3 279.2 V 271.7 Q 1031.3 266.1 1040.0 266.1 Q 1048.7 266.1 1048.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="1000.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 991.3 279.2 V 271.7 Q 991.3 266.1 1000.0 266.1 Q 1008.7 266.1 1008.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="960.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 951.3 279.2 V 271.7 Q 951.3 266.1 960.0 266.1 Q 968.7 266.1 968.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="920.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 911.3 279.2 V 271.7 Q 911.3 266.1 920.0 266.1 Q 928.7 266.1 928.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="880.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 871.3 279.2 V 271.7 Q 871.3 266.1 880.0 266.1 Q 888.7 266.1 888.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="840.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 831.3 279.2 V 271.7 Q 831.3 266.1 840.0 266.1 Q 848.7 266.1 848.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="800.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 791.3 279.2 V 271.7 Q 791.3 266.1 800.0 266.1 Q 808.7 266.1 808.7 271.7 V 279.2 Z" fill="#147D79"/>
+<circle cx="760.0" cy="259.9" r="5.3" fill="#147D79"/>
+<path d="M 751.3 279.2 V 271.7 Q 751.3 266.1 760.0 266.1 Q 768.7 266.1 768.7 271.7 V 279.2 Z" fill="#147D79"/>
+<rect x="790.0" y="316.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#147D79" stroke-width="2"/>
+<text x="940.0" y="343.0" font-size="21" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">التوحيد</tspan></text>
+<rect x="790.0" y="366.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#147D79" stroke-width="2"/>
+<text x="940.0" y="393.0" font-size="21" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">قابلية المقارنة</tspan></text>
+<rect x="790.0" y="416.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#147D79" stroke-width="2"/>
+<text x="940.0" y="443.0" font-size="21" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">الاتساع والتغطية</tspan></text>
+<text x="940.0" y="488.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="940.0" dy="0.0">يجيب عن أسئلة مثل</tspan></text>
+<text x="940.0" y="514.0" font-size="18" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="940.0" dy="0.0">كم؟ ما مدى الانتشار؟ هل تختلف الفئات؟</tspan></text>
+<text x="940.0" y="546.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="940.0" dy="0.0">قد يفوته المعنى وراء البدائل الموحدة</tspan></text>
+<rect x="40.0" y="110.0" width="440.0" height="452.0" rx="18" fill="#FFF7E3" stroke="#A47712" stroke-width="2"/>
+<text x="260.0" y="152.0" font-size="25" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">دراسة الحالة / المقابلة المعمقة</tspan></text>
+<circle cx="260.0" cy="236.0" r="62" fill="none" stroke="#A47712" stroke-width="1.5" stroke-dasharray="5 5"/>
+<circle cx="260.0" cy="236.0" r="44" fill="#FFFFFF" stroke="#A47712" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="260.0" cy="225.8" r="10.6" fill="#A47712"/>
+<path d="M 242.5 264.5 V 249.5 Q 242.5 238.2 260.0 238.2 Q 277.5 238.2 277.5 249.5 V 264.5 Z" fill="#A47712"/>
+<rect x="186.0" y="186.0" width="46.0" height="28.0" rx="8" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<path d="M 224.0 214.0 L 230.0 224.0 L 214.0 214.0" fill="#FFFFFF" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 224.0 195.0 L 194.0 195.0" fill="none" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 224.0 202.0 L 194.0 202.0" fill="none" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 224.0 209.0 L 194.0 209.0" fill="none" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="110.0" y="316.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<text x="260.0" y="343.0" font-size="21" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">السياق</tspan></text>
+<rect x="110.0" y="366.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<text x="260.0" y="393.0" font-size="21" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">العملية</tspan></text>
+<rect x="110.0" y="416.0" width="300.0" height="40.0" rx="20" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<text x="260.0" y="443.0" font-size="21" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">المعنى</tspan></text>
+<text x="260.0" y="488.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="260.0" dy="0.0">يجيب عن أسئلة مثل</tspan></text>
+<text x="260.0" y="514.0" font-size="18" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="260.0" dy="0.0">كيف تجري العملية؟ وماذا تعني لأصحابها؟</tspan></text>
+<text x="260.0" y="546.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="260.0" dy="0.0">قد يفوتها الاتساع والمقارنة بين الحالات</tspan></text>
+<path d="M 484.0 270.0 C 540.0 218.0 660.0 218.0 716.0 270.0" fill="none" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<text x="600.0" y="186.0" font-size="17" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">التعمق يحسّن</tspan><tspan x="600.0" dy="20.7">أسئلة المسح</tspan></text>
+<path d="M 716.0 412.0 C 660.0 464.0 540.0 464.0 484.0 412.0" fill="none" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<text x="600.0" y="486.0" font-size="17" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">الاتساع يبيّن</tspan><tspan x="600.0" dy="20.7">مدى انتشار النمط</tspan></text>
+<circle cx="600.0" cy="341.0" r="70" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="600.0" y="347.0" font-size="22" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">متكاملان</tspan></text>
+<rect x="40.0" y="584.0" width="1120.0" height="50.0" rx="12" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<text x="600.0" y="616.0" font-size="21" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">الفرق ليس «علمي» مقابل «غير علمي»؛ بل نوع الدليل الذي ينتجه كل تصميم.</tspan></text>
+</svg>

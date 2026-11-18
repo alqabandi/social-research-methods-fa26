@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="ar" lang="ar" direction="rtl" font-family='Arial, "Noto Sans Arabic", sans-serif'>
+<title id="t">أربعة تصاميم زمنية: المقطعي والاتجاه العام والفئة واللوحة</title>
+<desc id="d">أربعة صفوف تقارن ثلاث موجات (2026 و2028 و2030). يحمل كل رمز شخص حرفًا، والحرف نفسه يعني الشخص نفسه. المقطعي: عينة واحدة (أ–هـ) في الموجة الأولى فقط. الاتجاه العام: المجتمع نفسه من الطلبة المسجلين، لكن أشخاص مختلفون في كل موجة. الفئة: كل رمز يرتدي قبعة تخرج لدفعة 2026، وتُسحب في كل موجة عينة جديدة من الدفعة نفسها مع تقدمها في العمر من نحو 22 إلى 26، فقد يختلف الأفراد. اللوحة: الأشخاص أنفسهم أ–هـ يظهرون في الموجات الثلاث ويربطهم خط.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<text x="1045.0" y="36.0" font-size="19" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">التصميم</tspan></text>
+<text x="747.0" y="36.0" font-size="19" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="747.0" dy="0.0">الموجة 1 · 2026</tspan></text>
+<text x="457.0" y="36.0" font-size="19" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="457.0" dy="0.0">الموجة 2 · 2028</tspan></text>
+<text x="167.0" y="36.0" font-size="19" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="167.0" dy="0.0">الموجة 3 · 2030</tspan></text>
+<rect x="910.0" y="62.0" width="270.0" height="130.0" rx="14" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="1045.0" y="106.0" font-size="27" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">مقطعي</tspan></text>
+<text x="1045.0" y="134.0" font-size="17" fill="#FFFFFF" font-weight="normal" text-anchor="middle" opacity="0.85" direction="ltr" unicode-bidi="embed"><tspan x="1045.0" dy="0.0">Cross-Sectional</tspan></text>
+<text x="1045.0" y="168.0" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">عينة واحدة · مرة واحدة</tspan></text>
+<rect x="20.0" y="62.0" width="874.0" height="130.0" rx="14" fill="#EEF2F7" stroke="none" stroke-width="0"/>
+<text x="457.0" y="86.0" font-size="17" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="457.0" dy="0.0">عينة واحدة تُسحب مرة واحدة من المجتمع</tspan></text>
+<rect x="614.0" y="96.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<circle cx="843.0" cy="123.0" r="8.5" fill="#1B2A4A"/>
+<path d="M 829.0 154.0 V 142.0 Q 829.0 133.0 843.0 133.0 Q 857.0 133.0 857.0 142.0 V 154.0 Z" fill="#1B2A4A"/>
+<text x="843.0" y="148.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">أ</text>
+<circle cx="795.0" cy="123.0" r="8.5" fill="#1B2A4A"/>
+<path d="M 781.0 154.0 V 142.0 Q 781.0 133.0 795.0 133.0 Q 809.0 133.0 809.0 142.0 V 154.0 Z" fill="#1B2A4A"/>
+<text x="795.0" y="148.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ب</text>
+<circle cx="747.0" cy="123.0" r="8.5" fill="#1B2A4A"/>
+<path d="M 733.0 154.0 V 142.0 Q 733.0 133.0 747.0 133.0 Q 761.0 133.0 761.0 142.0 V 154.0 Z" fill="#1B2A4A"/>
+<text x="747.0" y="148.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ج</text>
+<circle cx="699.0" cy="123.0" r="8.5" fill="#1B2A4A"/>
+<path d="M 685.0 154.0 V 142.0 Q 685.0 133.0 699.0 133.0 Q 713.0 133.0 713.0 142.0 V 154.0 Z" fill="#1B2A4A"/>
+<text x="699.0" y="148.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">د</text>
+<circle cx="651.0" cy="123.0" r="8.5" fill="#1B2A4A"/>
+<path d="M 637.0 154.0 V 142.0 Q 637.0 133.0 651.0 133.0 Q 665.0 133.0 665.0 142.0 V 154.0 Z" fill="#1B2A4A"/>
+<text x="651.0" y="148.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ه</text>
+<text x="747.0" y="178.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="747.0" dy="0.0">عينة واحدة</tspan></text>
+<rect x="324.0" y="96.0" width="266.0" height="88.0" rx="10" fill="none" stroke="#B8C0C8" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="457.0" y="146.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="457.0" dy="0.0">لا تكرار</tspan></text>
+<rect x="34.0" y="96.0" width="266.0" height="88.0" rx="10" fill="none" stroke="#B8C0C8" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="167.0" y="146.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="167.0" dy="0.0">لا تكرار</tspan></text>
+<rect x="910.0" y="208.0" width="270.0" height="130.0" rx="14" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="1045.0" y="252.0" font-size="27" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">الاتجاه العام</tspan></text>
+<text x="1045.0" y="280.0" font-size="17" fill="#FFFFFF" font-weight="normal" text-anchor="middle" opacity="0.85" direction="ltr" unicode-bidi="embed"><tspan x="1045.0" dy="0.0">Trend</tspan></text>
+<text x="1045.0" y="314.0" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">الثابت: المجتمع</tspan></text>
+<rect x="20.0" y="208.0" width="874.0" height="130.0" rx="14" fill="#EAF6F5" stroke="none" stroke-width="0"/>
+<text x="457.0" y="232.0" font-size="17" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="457.0" dy="0.0">المجتمع نفسه (الطلبة المسجلون) · عينة جديدة في كل موجة</tspan></text>
+<rect x="614.0" y="242.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#147D79" stroke-width="1.2"/>
+<circle cx="843.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 829.0 300.0 V 288.0 Q 829.0 279.0 843.0 279.0 Q 857.0 279.0 857.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="843.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">أ</text>
+<circle cx="795.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 781.0 300.0 V 288.0 Q 781.0 279.0 795.0 279.0 Q 809.0 279.0 809.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="795.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ب</text>
+<circle cx="747.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 733.0 300.0 V 288.0 Q 733.0 279.0 747.0 279.0 Q 761.0 279.0 761.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="747.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ج</text>
+<circle cx="699.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 685.0 300.0 V 288.0 Q 685.0 279.0 699.0 279.0 Q 713.0 279.0 713.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="699.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">د</text>
+<circle cx="651.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 637.0 300.0 V 288.0 Q 637.0 279.0 651.0 279.0 Q 665.0 279.0 665.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="651.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ه</text>
+<text x="747.0" y="324.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="747.0" dy="0.0">عينة جديدة</tspan></text>
+<rect x="324.0" y="242.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#147D79" stroke-width="1.2"/>
+<circle cx="553.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 539.0 300.0 V 288.0 Q 539.0 279.0 553.0 279.0 Q 567.0 279.0 567.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="553.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">و</text>
+<circle cx="505.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 491.0 300.0 V 288.0 Q 491.0 279.0 505.0 279.0 Q 519.0 279.0 519.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="505.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ز</text>
+<circle cx="457.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 443.0 300.0 V 288.0 Q 443.0 279.0 457.0 279.0 Q 471.0 279.0 471.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="457.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ح</text>
+<circle cx="409.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 395.0 300.0 V 288.0 Q 395.0 279.0 409.0 279.0 Q 423.0 279.0 423.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="409.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ط</text>
+<circle cx="361.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 347.0 300.0 V 288.0 Q 347.0 279.0 361.0 279.0 Q 375.0 279.0 375.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="361.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ي</text>
+<text x="457.0" y="324.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="457.0" dy="0.0">عينة جديدة</tspan></text>
+<rect x="34.0" y="242.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#147D79" stroke-width="1.2"/>
+<circle cx="263.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 249.0 300.0 V 288.0 Q 249.0 279.0 263.0 279.0 Q 277.0 279.0 277.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="263.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ك</text>
+<circle cx="215.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 201.0 300.0 V 288.0 Q 201.0 279.0 215.0 279.0 Q 229.0 279.0 229.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="215.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ل</text>
+<circle cx="167.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 153.0 300.0 V 288.0 Q 153.0 279.0 167.0 279.0 Q 181.0 279.0 181.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="167.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">م</text>
+<circle cx="119.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 105.0 300.0 V 288.0 Q 105.0 279.0 119.0 279.0 Q 133.0 279.0 133.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="119.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ن</text>
+<circle cx="71.0" cy="269.0" r="8.5" fill="#147D79"/>
+<path d="M 57.0 300.0 V 288.0 Q 57.0 279.0 71.0 279.0 Q 85.0 279.0 85.0 288.0 V 300.0 Z" fill="#147D79"/>
+<text x="71.0" y="294.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">س</text>
+<text x="167.0" y="324.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="167.0" dy="0.0">عينة جديدة</tspan></text>
+<rect x="910.0" y="354.0" width="270.0" height="130.0" rx="14" fill="#A47712" stroke="none" stroke-width="0"/>
+<text x="1045.0" y="398.0" font-size="27" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">الفئة</tspan></text>
+<text x="1045.0" y="426.0" font-size="17" fill="#FFFFFF" font-weight="normal" text-anchor="middle" opacity="0.85" direction="ltr" unicode-bidi="embed"><tspan x="1045.0" dy="0.0">Cohort</tspan></text>
+<text x="1045.0" y="460.0" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">الثابت: الفئة نفسها</tspan></text>
+<rect x="20.0" y="354.0" width="874.0" height="130.0" rx="14" fill="#FFF7E3" stroke="none" stroke-width="0"/>
+<text x="457.0" y="378.0" font-size="17" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="457.0" dy="0.0">الفئة نفسها (دفعة 2026) · عينة جديدة في كل موجة، وقد يختلف الأفراد</tspan></text>
+<rect x="614.0" y="388.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#A47712" stroke-width="1.2"/>
+<circle cx="843.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 829.0 446.0 V 434.0 Q 829.0 425.0 843.0 425.0 Q 857.0 425.0 857.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="831.0,407.0 843.0,402.0 855.0,407.0 843.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="843.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">أ</text>
+<circle cx="795.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 781.0 446.0 V 434.0 Q 781.0 425.0 795.0 425.0 Q 809.0 425.0 809.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="783.0,407.0 795.0,402.0 807.0,407.0 795.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="795.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ب</text>
+<circle cx="747.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 733.0 446.0 V 434.0 Q 733.0 425.0 747.0 425.0 Q 761.0 425.0 761.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="735.0,407.0 747.0,402.0 759.0,407.0 747.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="747.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ج</text>
+<circle cx="699.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 685.0 446.0 V 434.0 Q 685.0 425.0 699.0 425.0 Q 713.0 425.0 713.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="687.0,407.0 699.0,402.0 711.0,407.0 699.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="699.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">د</text>
+<circle cx="651.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 637.0 446.0 V 434.0 Q 637.0 425.0 651.0 425.0 Q 665.0 425.0 665.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="639.0,407.0 651.0,402.0 663.0,407.0 651.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="651.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ه</text>
+<text x="747.0" y="470.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="747.0" dy="0.0">عينة جديدة · العمر ≈ 22</tspan></text>
+<rect x="324.0" y="388.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#A47712" stroke-width="1.2"/>
+<circle cx="553.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 539.0 446.0 V 434.0 Q 539.0 425.0 553.0 425.0 Q 567.0 425.0 567.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="541.0,407.0 553.0,402.0 565.0,407.0 553.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="553.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">و</text>
+<circle cx="505.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 491.0 446.0 V 434.0 Q 491.0 425.0 505.0 425.0 Q 519.0 425.0 519.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="493.0,407.0 505.0,402.0 517.0,407.0 505.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="505.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ز</text>
+<circle cx="457.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 443.0 446.0 V 434.0 Q 443.0 425.0 457.0 425.0 Q 471.0 425.0 471.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="445.0,407.0 457.0,402.0 469.0,407.0 457.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="457.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ح</text>
+<circle cx="409.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 395.0 446.0 V 434.0 Q 395.0 425.0 409.0 425.0 Q 423.0 425.0 423.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="397.0,407.0 409.0,402.0 421.0,407.0 409.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="409.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ط</text>
+<circle cx="361.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 347.0 446.0 V 434.0 Q 347.0 425.0 361.0 425.0 Q 375.0 425.0 375.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="349.0,407.0 361.0,402.0 373.0,407.0 361.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="361.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ي</text>
+<text x="457.0" y="470.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="457.0" dy="0.0">عينة جديدة · العمر ≈ 24</tspan></text>
+<rect x="34.0" y="388.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#A47712" stroke-width="1.2"/>
+<circle cx="263.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 249.0 446.0 V 434.0 Q 249.0 425.0 263.0 425.0 Q 277.0 425.0 277.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="251.0,407.0 263.0,402.0 275.0,407.0 263.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="263.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ك</text>
+<circle cx="215.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 201.0 446.0 V 434.0 Q 201.0 425.0 215.0 425.0 Q 229.0 425.0 229.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="203.0,407.0 215.0,402.0 227.0,407.0 215.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="215.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ل</text>
+<circle cx="167.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 153.0 446.0 V 434.0 Q 153.0 425.0 167.0 425.0 Q 181.0 425.0 181.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="155.0,407.0 167.0,402.0 179.0,407.0 167.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="167.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">م</text>
+<circle cx="119.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 105.0 446.0 V 434.0 Q 105.0 425.0 119.0 425.0 Q 133.0 425.0 133.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="107.0,407.0 119.0,402.0 131.0,407.0 119.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="119.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ن</text>
+<circle cx="71.0" cy="415.0" r="8.5" fill="#A47712"/>
+<path d="M 57.0 446.0 V 434.0 Q 57.0 425.0 71.0 425.0 Q 85.0 425.0 85.0 434.0 V 446.0 Z" fill="#A47712"/>
+<polygon points="59.0,407.0 71.0,402.0 83.0,407.0 71.0,411.5" fill="#1B2A4A" stroke="#FFFFFF" stroke-width="1"/>
+<text x="71.0" y="440.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">س</text>
+<text x="167.0" y="470.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="167.0" dy="0.0">عينة جديدة · العمر ≈ 26</tspan></text>
+<rect x="910.0" y="500.0" width="270.0" height="130.0" rx="14" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="1045.0" y="544.0" font-size="27" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">اللوحة</tspan></text>
+<text x="1045.0" y="572.0" font-size="17" fill="#FFFFFF" font-weight="normal" text-anchor="middle" opacity="0.85" direction="ltr" unicode-bidi="embed"><tspan x="1045.0" dy="0.0">Panel</tspan></text>
+<text x="1045.0" y="606.0" font-size="19" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.0" dy="0.0">الثابت: الوحدات نفسها</tspan></text>
+<rect x="20.0" y="500.0" width="874.0" height="130.0" rx="14" fill="#FBEDEA" stroke="none" stroke-width="0"/>
+<text x="457.0" y="524.0" font-size="17" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="457.0" dy="0.0">الأشخاص أنفسهم (أ–هـ) يُسألون في كل موجة</tspan></text>
+<rect x="614.0" y="534.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.2"/>
+<circle cx="843.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 829.0 592.0 V 580.0 Q 829.0 571.0 843.0 571.0 Q 857.0 571.0 857.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="843.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">أ</text>
+<circle cx="795.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 781.0 592.0 V 580.0 Q 781.0 571.0 795.0 571.0 Q 809.0 571.0 809.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="795.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ب</text>
+<circle cx="747.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 733.0 592.0 V 580.0 Q 733.0 571.0 747.0 571.0 Q 761.0 571.0 761.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="747.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ج</text>
+<circle cx="699.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 685.0 592.0 V 580.0 Q 685.0 571.0 699.0 571.0 Q 713.0 571.0 713.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="699.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">د</text>
+<circle cx="651.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 637.0 592.0 V 580.0 Q 637.0 571.0 651.0 571.0 Q 665.0 571.0 665.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="651.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ه</text>
+<text x="747.0" y="616.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="747.0" dy="0.0">أ–هـ أنفسهم</tspan></text>
+<path d="M 614.0 578.0 L 590.0 578.0" fill="none" stroke="#C65D4B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="324.0" y="534.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.2"/>
+<circle cx="553.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 539.0 592.0 V 580.0 Q 539.0 571.0 553.0 571.0 Q 567.0 571.0 567.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="553.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">أ</text>
+<circle cx="505.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 491.0 592.0 V 580.0 Q 491.0 571.0 505.0 571.0 Q 519.0 571.0 519.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="505.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ب</text>
+<circle cx="457.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 443.0 592.0 V 580.0 Q 443.0 571.0 457.0 571.0 Q 471.0 571.0 471.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="457.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ج</text>
+<circle cx="409.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 395.0 592.0 V 580.0 Q 395.0 571.0 409.0 571.0 Q 423.0 571.0 423.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="409.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">د</text>
+<circle cx="361.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 347.0 592.0 V 580.0 Q 347.0 571.0 361.0 571.0 Q 375.0 571.0 375.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="361.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ه</text>
+<text x="457.0" y="616.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="457.0" dy="0.0">أ–هـ أنفسهم</tspan></text>
+<path d="M 324.0 578.0 L 300.0 578.0" fill="none" stroke="#C65D4B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="34.0" y="534.0" width="266.0" height="88.0" rx="10" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.2"/>
+<circle cx="263.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 249.0 592.0 V 580.0 Q 249.0 571.0 263.0 571.0 Q 277.0 571.0 277.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="263.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">أ</text>
+<circle cx="215.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 201.0 592.0 V 580.0 Q 201.0 571.0 215.0 571.0 Q 229.0 571.0 229.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="215.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ب</text>
+<circle cx="167.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 153.0 592.0 V 580.0 Q 153.0 571.0 167.0 571.0 Q 181.0 571.0 181.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="167.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ج</text>
+<circle cx="119.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 105.0 592.0 V 580.0 Q 105.0 571.0 119.0 571.0 Q 133.0 571.0 133.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="119.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">د</text>
+<circle cx="71.0" cy="561.0" r="8.5" fill="#C65D4B"/>
+<path d="M 57.0 592.0 V 580.0 Q 57.0 571.0 71.0 571.0 Q 85.0 571.0 85.0 580.0 V 592.0 Z" fill="#C65D4B"/>
+<text x="71.0" y="586.5" font-size="13.0" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ه</text>
+<text x="167.0" y="616.0" font-size="15" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="167.0" dy="0.0">أ–هـ أنفسهم</tspan></text>
+</svg>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="en" lang="en" font-family='Arial, Helvetica, sans-serif'>
+<title id="t">Schematic household panel growing across generations</title>
+<desc id="d">A schematic, not actual PSID data. Four waves run left to right over 30 years. Wave 1 interviews two original sample families, A and B, drawn as gold houses with parents and children inside. Grey lines show each household re-interviewed in the next wave. As children grow up and move out, dashed teal lines lead to new teal households that join the panel, including a third-generation household by wave 4. The panel grows from 2 to 3, 5 and 7 households.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<text x="600.0" y="30.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle" font-style="italic"><tspan x="600.0" dy="0.0">Schematic example inspired by long-running household panels such as the PSID: not actual PSID data</tspan></text>
+<g transform="translate(56.0 66.0) scale(0.5)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<text x="84.0" y="66.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="84.0" dy="0.0">Original sample family</tspan></text>
+<g transform="translate(316.0 66.0) scale(0.5)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<text x="344.0" y="66.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="344.0" dy="0.0">Household formed by a descendant</tspan></text>
+<path d="M 620.0 60.0 L 654.0 60.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="664.0" y="66.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="664.0" dy="0.0">Same household, next wave</tspan></text>
+<path d="M 890.0 60.0 L 924.0 60.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<text x="934.0" y="66.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="934.0" dy="0.0">Child forms a new household</tspan></text>
+<rect x="58.0" y="88.0" width="224.0" height="472.0" rx="14" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<rect x="338.0" y="88.0" width="224.0" height="472.0" rx="14" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<rect x="618.0" y="88.0" width="224.0" height="472.0" rx="14" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<rect x="898.0" y="88.0" width="224.0" height="472.0" rx="14" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<path d="M 210.0 132.0 L 410.0 132.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 490.0 132.0 L 690.0 132.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 770.0 132.0 L 970.0 132.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 490.0 197.0 L 690.0 197.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 770.0 197.0 L 970.0 197.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 770.0 327.0 L 970.0 327.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 210.0 412.0 L 410.0 412.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 490.0 412.0 L 690.0 412.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 770.0 412.0 L 970.0 412.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 770.0 477.0 L 970.0 477.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 208.0 138.0 C 298.0 138.0 318.0 197.0 408.0 197.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<path d="M 488.0 138.0 C 578.0 138.0 598.0 327.0 688.0 327.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<path d="M 768.0 203.0 C 858.0 203.0 878.0 262.0 968.0 262.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<path d="M 488.0 418.0 C 578.0 418.0 598.0 477.0 688.0 477.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<path d="M 768.0 418.0 C 858.0 418.0 878.0 538.0 968.0 538.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<g transform="translate(170.0 132.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="150.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 144.6 151.6 V 146.5 Q 144.6 142.7 150.5 142.7 Q 156.4 142.7 156.4 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="163.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 157.6 151.6 V 146.5 Q 157.6 142.7 163.5 142.7 Q 169.4 142.7 169.4 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="176.5" cy="142.5" r="2.6" fill="#A47712"/>
+<path d="M 172.2 152.1 V 148.4 Q 172.2 145.6 176.5 145.6 Q 180.8 145.6 180.8 148.4 V 152.1 Z" fill="#A47712"/>
+<circle cx="189.5" cy="142.5" r="2.6" fill="#A47712"/>
+<path d="M 185.2 152.1 V 148.4 Q 185.2 145.6 189.5 145.6 Q 193.8 145.6 193.8 148.4 V 152.1 Z" fill="#A47712"/>
+<g transform="translate(450.0 132.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="437.0" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 431.1 151.6 V 146.5 Q 431.1 142.7 437.0 142.7 Q 442.9 142.7 442.9 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="450.0" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 444.1 151.6 V 146.5 Q 444.1 142.7 450.0 142.7 Q 455.9 142.7 455.9 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="463.0" cy="142.5" r="2.6" fill="#A47712"/>
+<path d="M 458.7 152.1 V 148.4 Q 458.7 145.6 463.0 145.6 Q 467.3 145.6 467.3 148.4 V 152.1 Z" fill="#A47712"/>
+<g transform="translate(730.0 132.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="723.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 717.6 151.6 V 146.5 Q 717.6 142.7 723.5 142.7 Q 729.4 142.7 729.4 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="736.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 730.6 151.6 V 146.5 Q 730.6 142.7 736.5 142.7 Q 742.4 142.7 742.4 146.5 V 151.6 Z" fill="#A47712"/>
+<g transform="translate(1010.0 132.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="1003.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 997.6 151.6 V 146.5 Q 997.6 142.7 1003.5 142.7 Q 1009.4 142.7 1009.4 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="1016.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 1010.6 151.6 V 146.5 Q 1010.6 142.7 1016.5 142.7 Q 1022.4 142.7 1022.4 146.5 V 151.6 Z" fill="#A47712"/>
+<g transform="translate(450.0 197.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="450.0" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 444.1 216.6 V 211.5 Q 444.1 207.7 450.0 207.7 Q 455.9 207.7 455.9 211.5 V 216.6 Z" fill="#147D79"/>
+<g transform="translate(730.0 197.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="723.5" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 717.6 216.6 V 211.5 Q 717.6 207.7 723.5 207.7 Q 729.4 207.7 729.4 211.5 V 216.6 Z" fill="#147D79"/>
+<circle cx="736.5" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 730.6 216.6 V 211.5 Q 730.6 207.7 736.5 207.7 Q 742.4 207.7 742.4 211.5 V 216.6 Z" fill="#147D79"/>
+<g transform="translate(1010.0 197.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="997.0" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 991.1 216.6 V 211.5 Q 991.1 207.7 997.0 207.7 Q 1002.9 207.7 1002.9 211.5 V 216.6 Z" fill="#147D79"/>
+<circle cx="1010.0" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 1004.1 216.6 V 211.5 Q 1004.1 207.7 1010.0 207.7 Q 1015.9 207.7 1015.9 211.5 V 216.6 Z" fill="#147D79"/>
+<circle cx="1023.0" cy="207.5" r="2.6" fill="#147D79"/>
+<path d="M 1018.7 217.1 V 213.4 Q 1018.7 210.6 1023.0 210.6 Q 1027.3 210.6 1027.3 213.4 V 217.1 Z" fill="#147D79"/>
+<g transform="translate(730.0 327.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="730.0" cy="333.5" r="3.6" fill="#147D79"/>
+<path d="M 724.1 346.6 V 341.5 Q 724.1 337.7 730.0 337.7 Q 735.9 337.7 735.9 341.5 V 346.6 Z" fill="#147D79"/>
+<g transform="translate(1010.0 327.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="1003.5" cy="333.5" r="3.6" fill="#147D79"/>
+<path d="M 997.6 346.6 V 341.5 Q 997.6 337.7 1003.5 337.7 Q 1009.4 337.7 1009.4 341.5 V 346.6 Z" fill="#147D79"/>
+<circle cx="1016.5" cy="333.5" r="3.6" fill="#147D79"/>
+<path d="M 1010.6 346.6 V 341.5 Q 1010.6 337.7 1016.5 337.7 Q 1022.4 337.7 1022.4 341.5 V 346.6 Z" fill="#147D79"/>
+<g transform="translate(1010.0 262.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="1010.0" cy="268.5" r="3.6" fill="#147D79"/>
+<path d="M 1004.1 281.6 V 276.5 Q 1004.1 272.7 1010.0 272.7 Q 1015.9 272.7 1015.9 276.5 V 281.6 Z" fill="#147D79"/>
+<g transform="translate(170.0 412.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="150.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 144.6 431.6 V 426.5 Q 144.6 422.7 150.5 422.7 Q 156.4 422.7 156.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="163.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 157.6 431.6 V 426.5 Q 157.6 422.7 163.5 422.7 Q 169.4 422.7 169.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="176.5" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 172.2 432.1 V 428.4 Q 172.2 425.6 176.5 425.6 Q 180.8 425.6 180.8 428.4 V 432.1 Z" fill="#A47712"/>
+<circle cx="189.5" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 185.2 432.1 V 428.4 Q 185.2 425.6 189.5 425.6 Q 193.8 425.6 193.8 428.4 V 432.1 Z" fill="#A47712"/>
+<g transform="translate(450.0 412.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="430.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 424.6 431.6 V 426.5 Q 424.6 422.7 430.5 422.7 Q 436.4 422.7 436.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="443.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 437.6 431.6 V 426.5 Q 437.6 422.7 443.5 422.7 Q 449.4 422.7 449.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="456.5" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 452.2 432.1 V 428.4 Q 452.2 425.6 456.5 425.6 Q 460.8 425.6 460.8 428.4 V 432.1 Z" fill="#A47712"/>
+<circle cx="469.5" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 465.2 432.1 V 428.4 Q 465.2 425.6 469.5 425.6 Q 473.8 425.6 473.8 428.4 V 432.1 Z" fill="#A47712"/>
+<g transform="translate(730.0 412.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="717.0" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 711.1 431.6 V 426.5 Q 711.1 422.7 717.0 422.7 Q 722.9 422.7 722.9 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="730.0" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 724.1 431.6 V 426.5 Q 724.1 422.7 730.0 422.7 Q 735.9 422.7 735.9 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="743.0" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 738.7 432.1 V 428.4 Q 738.7 425.6 743.0 425.6 Q 747.3 425.6 747.3 428.4 V 432.1 Z" fill="#A47712"/>
+<g transform="translate(1010.0 412.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="1003.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 997.6 431.6 V 426.5 Q 997.6 422.7 1003.5 422.7 Q 1009.4 422.7 1009.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="1016.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 1010.6 431.6 V 426.5 Q 1010.6 422.7 1016.5 422.7 Q 1022.4 422.7 1022.4 426.5 V 431.6 Z" fill="#A47712"/>
+<g transform="translate(730.0 477.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="730.0" cy="483.5" r="3.6" fill="#147D79"/>
+<path d="M 724.1 496.6 V 491.5 Q 724.1 487.7 730.0 487.7 Q 735.9 487.7 735.9 491.5 V 496.6 Z" fill="#147D79"/>
+<g transform="translate(1010.0 477.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="997.0" cy="483.5" r="3.6" fill="#147D79"/>
+<path d="M 991.1 496.6 V 491.5 Q 991.1 487.7 997.0 487.7 Q 1002.9 487.7 1002.9 491.5 V 496.6 Z" fill="#147D79"/>
+<circle cx="1010.0" cy="483.5" r="3.6" fill="#147D79"/>
+<path d="M 1004.1 496.6 V 491.5 Q 1004.1 487.7 1010.0 487.7 Q 1015.9 487.7 1015.9 491.5 V 496.6 Z" fill="#147D79"/>
+<circle cx="1023.0" cy="487.5" r="2.6" fill="#147D79"/>
+<path d="M 1018.7 497.1 V 493.4 Q 1018.7 490.6 1023.0 490.6 Q 1027.3 490.6 1027.3 493.4 V 497.1 Z" fill="#147D79"/>
+<g transform="translate(1010.0 538.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="1010.0" cy="544.5" r="3.6" fill="#147D79"/>
+<path d="M 1004.1 557.6 V 552.5 Q 1004.1 548.7 1010.0 548.7 Q 1015.9 548.7 1015.9 552.5 V 557.6 Z" fill="#147D79"/>
+<text x="120.0" y="138.0" font-size="16" fill="#A47712" font-weight="bold" text-anchor="end"><tspan x="120.0" dy="0.0">Family A</tspan></text>
+<text x="120.0" y="418.0" font-size="16" fill="#A47712" font-weight="bold" text-anchor="end"><tspan x="120.0" dy="0.0">Family B</tspan></text>
+<text x="450.0" y="268.0" font-size="16" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="450.0" dy="0.0">A grown child</tspan><tspan x="450.0" dy="20.0">moves out: the new</tspan><tspan x="450.0" dy="20.0">household joins</tspan><tspan x="450.0" dy="20.0">the panel</tspan></text>
+<text x="1056.0" y="260.0" font-size="14" fill="#147D79" font-weight="bold" text-anchor="start"><tspan x="1056.0" dy="0.0">3rd</tspan><tspan x="1056.0" dy="16.1">generation</tspan></text>
+<path d="M 60.0 574.0 L 1140.0 574.0" fill="none" stroke="#6F7985" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-muted)"/>
+<text x="170.0" y="604.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="170.0" dy="0.0">Wave 1 · start</tspan></text>
+<text x="170.0" y="630.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="170.0" dy="0.0">2 households</tspan></text>
+<text x="450.0" y="604.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="450.0" dy="0.0">Wave 2 · +10 years</tspan></text>
+<text x="450.0" y="630.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="450.0" dy="0.0">3 households</tspan></text>
+<text x="730.0" y="604.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="730.0" dy="0.0">Wave 3 · +20 years</tspan></text>
+<text x="730.0" y="630.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="730.0" dy="0.0">5 households</tspan></text>
+<text x="1010.0" y="604.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="1010.0" dy="0.0">Wave 4 · +30 years</tspan></text>
+<text x="1010.0" y="630.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="1010.0" dy="0.0">7 households</tspan></text>
+</svg>

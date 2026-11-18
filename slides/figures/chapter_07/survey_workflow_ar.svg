@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="t d" xml:lang="ar" lang="ar" direction="rtl" font-family='Arial, "Noto Sans Arabic", sans-serif'>
+<title id="t">خطوات المسح الاثنتا عشرة مجمّعة في أربع مراحل</title>
+<desc id="d">أربعة أعمدة ملونة تُقرأ من اليمين إلى اليسار. المرحلة 1، السؤال والمفاهيم: تحديد المشكلة، والأسئلة والفروض، والتعريف الإجرائي للمتغيرات، وخطة البحث. المرحلة 2، المجتمع والعينة والأداة: المجتمع والوحدة ونمط العينة، والأدوات والمقاييس، وخطة التحليل. المرحلة 3، الاختبار الأولي والعمل الميداني: اختبار أولي وتدريب الفريق، ثم جمع البيانات. ويبيّن سهم متقطع أن مشكلات الاختبار الأولي تعيد الباحث إلى الخطوات 5 إلى 7. المرحلة 4: التحليل والتفسير وكتابة التقرير. الرسالة: التنظيم الجيد في آخر السلسلة لا يصلح خطأً أساسيًا في بدايتها.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="800" fill="#FFFFFF"/>
+<rect x="915.0" y="24.0" width="261.0" height="700.0" rx="18" fill="#EEF2F7" stroke="none" stroke-width="0"/>
+<rect x="915.0" y="24.0" width="261.0" height="108.0" rx="18" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<rect x="915.0" y="104.0" width="261.0" height="28.0" rx="0" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="1045.5" y="54.0" font-size="17" fill="#F2D77E" font-weight="bold" text-anchor="middle"><tspan x="1045.5" dy="0.0">المرحلة 1</tspan></text>
+<text x="1045.5" y="84.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.5" dy="0.0">السؤال</tspan><tspan x="1045.5" dy="24.1">والمفاهيم</tspan></text>
+<text x="1045.5" y="164.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="1045.5" dy="0.0">ماذا نريد أن نعرف؟</tspan></text>
+<rect x="927.0" y="186.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.5"/>
+<circle cx="1130.0" cy="242.0" r="22" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="1130.0" y="250.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1130.0" dy="0.0">1</tspan></text>
+<text x="1012.0" y="250.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="1012.0" dy="0.0">تحديد المشكلة</tspan></text>
+<rect x="927.0" y="312.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.5"/>
+<circle cx="1130.0" cy="368.0" r="22" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="1130.0" y="376.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1130.0" dy="0.0">2</tspan></text>
+<text x="1012.0" y="376.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="1012.0" dy="0.0">الأسئلة والفروض</tspan></text>
+<rect x="927.0" y="438.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.5"/>
+<circle cx="1130.0" cy="494.0" r="22" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="1130.0" y="502.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1130.0" dy="0.0">3</tspan></text>
+<text x="1012.0" y="489.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="1012.0" dy="0.0">التعريف الإجرائي</tspan><tspan x="1012.0" dy="25.2">للمتغيرات</tspan></text>
+<rect x="927.0" y="564.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.5"/>
+<circle cx="1130.0" cy="620.0" r="22" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="1130.0" y="628.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1130.0" dy="0.0">4</tspan></text>
+<text x="1012.0" y="628.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="1012.0" dy="0.0">خطة البحث</tspan></text>
+<path d="M 906.0 62.0 L 888.0 78.0 L 906.0 94.0 Z " fill="#6F7985" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="618.0" y="24.0" width="261.0" height="700.0" rx="18" fill="#EAF6F5" stroke="none" stroke-width="0"/>
+<rect x="618.0" y="24.0" width="261.0" height="108.0" rx="18" fill="#147D79" stroke="none" stroke-width="0"/>
+<rect x="618.0" y="104.0" width="261.0" height="28.0" rx="0" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="748.5" y="54.0" font-size="17" fill="#F2D77E" font-weight="bold" text-anchor="middle"><tspan x="748.5" dy="0.0">المرحلة 2</tspan></text>
+<text x="748.5" y="84.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="748.5" dy="0.0">المجتمع والعينة</tspan><tspan x="748.5" dy="24.1">والأداة</tspan></text>
+<text x="748.5" y="164.0" font-size="19" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="748.5" dy="0.0">كيف سنعرف؟</tspan></text>
+<rect x="630.0" y="186.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#147D79" stroke-width="1.5"/>
+<circle cx="833.0" cy="242.0" r="22" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="833.0" y="250.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="833.0" dy="0.0">5</tspan></text>
+<text x="715.0" y="237.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="715.0" dy="0.0">المجتمع والوحدة</tspan><tspan x="715.0" dy="25.2">ونمط العينة</tspan></text>
+<rect x="630.0" y="312.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#147D79" stroke-width="1.5"/>
+<circle cx="833.0" cy="368.0" r="22" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="833.0" y="376.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="833.0" dy="0.0">6</tspan></text>
+<text x="715.0" y="363.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="715.0" dy="0.0">الأدوات</tspan><tspan x="715.0" dy="25.2">والمقاييس</tspan></text>
+<rect x="630.0" y="438.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#147D79" stroke-width="1.5"/>
+<circle cx="833.0" cy="494.0" r="22" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="833.0" y="502.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="833.0" dy="0.0">7</tspan></text>
+<text x="715.0" y="502.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="715.0" dy="0.0">خطة التحليل</tspan></text>
+<path d="M 609.0 62.0 L 591.0 78.0 L 609.0 94.0 Z " fill="#6F7985" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="321.0" y="24.0" width="261.0" height="700.0" rx="18" fill="#FFF7E3" stroke="none" stroke-width="0"/>
+<rect x="321.0" y="24.0" width="261.0" height="108.0" rx="18" fill="#A47712" stroke="none" stroke-width="0"/>
+<rect x="321.0" y="104.0" width="261.0" height="28.0" rx="0" fill="#A47712" stroke="none" stroke-width="0"/>
+<text x="451.5" y="54.0" font-size="17" fill="#FFF3CF" font-weight="bold" text-anchor="middle"><tspan x="451.5" dy="0.0">المرحلة 3</tspan></text>
+<text x="451.5" y="84.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="451.5" dy="0.0">الاختبار الأولي</tspan><tspan x="451.5" dy="24.1">والعمل الميداني</tspan></text>
+<text x="451.5" y="164.0" font-size="19" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="451.5" dy="0.0">هل تنجح في الميدان؟</tspan></text>
+<rect x="333.0" y="186.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#A47712" stroke-width="1.5"/>
+<circle cx="536.0" cy="242.0" r="22" fill="#A47712" stroke="none" stroke-width="0"/>
+<text x="536.0" y="250.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="536.0" dy="0.0">8</tspan></text>
+<text x="418.0" y="237.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="418.0" dy="0.0">اختبار أولي</tspan><tspan x="418.0" dy="25.2">وتدريب الفريق</tspan></text>
+<rect x="333.0" y="312.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#A47712" stroke-width="1.5"/>
+<circle cx="536.0" cy="368.0" r="22" fill="#A47712" stroke="none" stroke-width="0"/>
+<text x="536.0" y="376.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="536.0" dy="0.0">9</tspan></text>
+<text x="418.0" y="376.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="418.0" dy="0.0">جمع البيانات</tspan></text>
+<path d="M 312.0 62.0 L 294.0 78.0 L 312.0 94.0 Z " fill="#6F7985" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24.0" y="24.0" width="261.0" height="700.0" rx="18" fill="#FBEDEA" stroke="none" stroke-width="0"/>
+<rect x="24.0" y="24.0" width="261.0" height="108.0" rx="18" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<rect x="24.0" y="104.0" width="261.0" height="28.0" rx="0" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="154.5" y="54.0" font-size="17" fill="#F2D77E" font-weight="bold" text-anchor="middle"><tspan x="154.5" dy="0.0">المرحلة 4</tspan></text>
+<text x="154.5" y="84.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="154.5" dy="0.0">التحليل</tspan><tspan x="154.5" dy="24.1">والتفسير والتقرير</tspan></text>
+<text x="154.5" y="164.0" font-size="19" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="154.5" dy="0.0">ماذا تعني النتائج؟</tspan></text>
+<rect x="36.0" y="186.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.5"/>
+<circle cx="239.0" cy="242.0" r="22" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="239.0" y="250.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="239.0" dy="0.0">10</tspan></text>
+<text x="121.0" y="250.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="121.0" dy="0.0">التحليل</tspan></text>
+<rect x="36.0" y="312.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.5"/>
+<circle cx="239.0" cy="368.0" r="22" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="239.0" y="376.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="239.0" dy="0.0">11</tspan></text>
+<text x="121.0" y="376.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="121.0" dy="0.0">التفسير</tspan></text>
+<rect x="36.0" y="438.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.5"/>
+<circle cx="239.0" cy="494.0" r="22" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="239.0" y="502.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="239.0" dy="0.0">12</tspan></text>
+<text x="121.0" y="502.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="121.0" dy="0.0">كتابة التقرير</tspan></text>
+<rect x="333.0" y="446.0" width="237.0" height="122.0" rx="12" fill="#FFFFFF" stroke="#C65D4B" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="451.5" y="482.0" font-size="19" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="451.5" dy="0.0">مشكلات في الاختبار؟</tspan></text>
+<text x="451.5" y="514.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="451.5" dy="0.0">ارجع وعدّل</tspan><tspan x="451.5" dy="23.8">الخطوات 5–7</tspan></text>
+<path d="M 570.0 470.0 C 596.0 470.0 600.0 372.0 624.0 368.0" fill="none" stroke="#C65D4B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#ah-coral)"/>
+<rect x="24.0" y="742.0" width="1152.0" height="46.0" rx="12" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<text x="600.0" y="773.0" font-size="21" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">التنظيم الجيد في آخر السلسلة لا يصلح خطأً أساسيًا في بدايتها.</tspan></text>
+</svg>

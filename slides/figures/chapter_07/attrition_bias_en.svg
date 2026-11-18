@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="en" lang="en" font-family='Arial, Helvetica, sans-serif'>
+<title id="t">Attrition bias in a panel: 1,000 students shrink to 650</title>
+<desc id="d">Two grids of 40 icons, each icon equal to 25 students. Wave 1 has 1,000 students: 400 high-stress or at risk of leaving university (coral) and 600 others (teal). Two years later 650 remain: 350 left the panel, 250 of them high-stress or leavers and 100 others; dropouts appear as dashed outlines. The high-stress share falls from 40% to 23%. Message: the retained panel looks healthier even if no one's stress changed, because the most stressed were most likely to leave.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<circle cx="90.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 78.1 137.3 V 127.1 Q 78.1 119.5 90.0 119.5 Q 101.9 119.5 101.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="130.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 118.1 137.3 V 127.1 Q 118.1 119.5 130.0 119.5 Q 141.9 119.5 141.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="170.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 158.1 137.3 V 127.1 Q 158.1 119.5 170.0 119.5 Q 181.9 119.5 181.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="210.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 198.1 137.3 V 127.1 Q 198.1 119.5 210.0 119.5 Q 221.9 119.5 221.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="250.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 238.1 137.3 V 127.1 Q 238.1 119.5 250.0 119.5 Q 261.9 119.5 261.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="290.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 278.1 137.3 V 127.1 Q 278.1 119.5 290.0 119.5 Q 301.9 119.5 301.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="330.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 318.1 137.3 V 127.1 Q 318.1 119.5 330.0 119.5 Q 341.9 119.5 341.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="370.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 358.1 137.3 V 127.1 Q 358.1 119.5 370.0 119.5 Q 381.9 119.5 381.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="90.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 78.1 187.3 V 177.1 Q 78.1 169.4 90.0 169.4 Q 101.9 169.4 101.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="130.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 118.1 187.3 V 177.1 Q 118.1 169.4 130.0 169.4 Q 141.9 169.4 141.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="170.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 158.1 187.3 V 177.1 Q 158.1 169.4 170.0 169.4 Q 181.9 169.4 181.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="210.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 198.1 187.3 V 177.1 Q 198.1 169.4 210.0 169.4 Q 221.9 169.4 221.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="250.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 238.1 187.3 V 177.1 Q 238.1 169.4 250.0 169.4 Q 261.9 169.4 261.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="290.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 278.1 187.3 V 177.1 Q 278.1 169.4 290.0 169.4 Q 301.9 169.4 301.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="330.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 318.1 187.3 V 177.1 Q 318.1 169.4 330.0 169.4 Q 341.9 169.4 341.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="370.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 358.1 187.3 V 177.1 Q 358.1 169.4 370.0 169.4 Q 381.9 169.4 381.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="90.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 78.1 237.3 V 227.1 Q 78.1 219.4 90.0 219.4 Q 101.9 219.4 101.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="130.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 118.1 237.3 V 227.1 Q 118.1 219.4 130.0 219.4 Q 141.9 219.4 141.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="170.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 158.1 237.3 V 227.1 Q 158.1 219.4 170.0 219.4 Q 181.9 219.4 181.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="210.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 198.1 237.3 V 227.1 Q 198.1 219.4 210.0 219.4 Q 221.9 219.4 221.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="250.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 238.1 237.3 V 227.1 Q 238.1 219.4 250.0 219.4 Q 261.9 219.4 261.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="290.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 278.1 237.3 V 227.1 Q 278.1 219.4 290.0 219.4 Q 301.9 219.4 301.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="330.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 318.1 237.3 V 227.1 Q 318.1 219.4 330.0 219.4 Q 341.9 219.4 341.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="370.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 358.1 237.3 V 227.1 Q 358.1 219.4 370.0 219.4 Q 381.9 219.4 381.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="90.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 78.1 287.3 V 277.1 Q 78.1 269.4 90.0 269.4 Q 101.9 269.4 101.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="130.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 118.1 287.3 V 277.1 Q 118.1 269.4 130.0 269.4 Q 141.9 269.4 141.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="170.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 158.1 287.3 V 277.1 Q 158.1 269.4 170.0 269.4 Q 181.9 269.4 181.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="210.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 198.1 287.3 V 277.1 Q 198.1 269.4 210.0 269.4 Q 221.9 269.4 221.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="250.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 238.1 287.3 V 277.1 Q 238.1 269.4 250.0 269.4 Q 261.9 269.4 261.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="290.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 278.1 287.3 V 277.1 Q 278.1 269.4 290.0 269.4 Q 301.9 269.4 301.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="330.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 318.1 287.3 V 277.1 Q 318.1 269.4 330.0 269.4 Q 341.9 269.4 341.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="370.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 358.1 287.3 V 277.1 Q 358.1 269.4 370.0 269.4 Q 381.9 269.4 381.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="90.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 78.1 337.3 V 327.1 Q 78.1 319.4 90.0 319.4 Q 101.9 319.4 101.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="130.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 118.1 337.3 V 327.1 Q 118.1 319.4 130.0 319.4 Q 141.9 319.4 141.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="170.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 158.1 337.3 V 327.1 Q 158.1 319.4 170.0 319.4 Q 181.9 319.4 181.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="210.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 198.1 337.3 V 327.1 Q 198.1 319.4 210.0 319.4 Q 221.9 319.4 221.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="250.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 238.1 337.3 V 327.1 Q 238.1 319.4 250.0 319.4 Q 261.9 319.4 261.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="290.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 278.1 337.3 V 327.1 Q 278.1 319.4 290.0 319.4 Q 301.9 319.4 301.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="330.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 318.1 337.3 V 327.1 Q 318.1 319.4 330.0 319.4 Q 341.9 319.4 341.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="370.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 358.1 337.3 V 327.1 Q 358.1 319.4 370.0 319.4 Q 381.9 319.4 381.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="830.0" cy="111.0" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 818.1 137.3 V 127.1 Q 818.1 119.5 830.0 119.5 Q 841.9 119.5 841.9 127.1 V 137.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="870.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 858.1 137.3 V 127.1 Q 858.1 119.5 870.0 119.5 Q 881.9 119.5 881.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="910.0" cy="111.0" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 898.1 137.3 V 127.1 Q 898.1 119.5 910.0 119.5 Q 921.9 119.5 921.9 127.1 V 137.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="950.0" cy="111.0" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 938.1 137.3 V 127.1 Q 938.1 119.5 950.0 119.5 Q 961.9 119.5 961.9 127.1 V 137.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="990.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 978.1 137.3 V 127.1 Q 978.1 119.5 990.0 119.5 Q 1001.9 119.5 1001.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="1030.0" cy="111.0" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 1018.1 137.3 V 127.1 Q 1018.1 119.5 1030.0 119.5 Q 1041.9 119.5 1041.9 127.1 V 137.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="1070.0" cy="111.0" r="7.2" fill="#C65D4B"/>
+<path d="M 1058.1 137.3 V 127.1 Q 1058.1 119.5 1070.0 119.5 Q 1081.9 119.5 1081.9 127.1 V 137.3 Z" fill="#C65D4B"/>
+<circle cx="1110.0" cy="111.0" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 1098.1 137.3 V 127.1 Q 1098.1 119.5 1110.0 119.5 Q 1121.9 119.5 1121.9 127.1 V 137.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="830.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 818.1 187.3 V 177.1 Q 818.1 169.4 830.0 169.4 Q 841.9 169.4 841.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="870.0" cy="160.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 858.1 187.3 V 177.1 Q 858.1 169.4 870.0 169.4 Q 881.9 169.4 881.9 177.1 V 187.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="910.0" cy="160.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 898.1 187.3 V 177.1 Q 898.1 169.4 910.0 169.4 Q 921.9 169.4 921.9 177.1 V 187.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="950.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 938.1 187.3 V 177.1 Q 938.1 169.4 950.0 169.4 Q 961.9 169.4 961.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="990.0" cy="160.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 978.1 187.3 V 177.1 Q 978.1 169.4 990.0 169.4 Q 1001.9 169.4 1001.9 177.1 V 187.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="1030.0" cy="160.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 1018.1 187.3 V 177.1 Q 1018.1 169.4 1030.0 169.4 Q 1041.9 169.4 1041.9 177.1 V 187.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="1070.0" cy="160.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 1058.1 187.3 V 177.1 Q 1058.1 169.4 1070.0 169.4 Q 1081.9 169.4 1081.9 177.1 V 187.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="1110.0" cy="160.9" r="7.2" fill="#C65D4B"/>
+<path d="M 1098.1 187.3 V 177.1 Q 1098.1 169.4 1110.0 169.4 Q 1121.9 169.4 1121.9 177.1 V 187.3 Z" fill="#C65D4B"/>
+<circle cx="830.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 818.1 237.3 V 227.1 Q 818.1 219.4 830.0 219.4 Q 841.9 219.4 841.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="870.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 858.1 237.3 V 227.1 Q 858.1 219.4 870.0 219.4 Q 881.9 219.4 881.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="910.0" cy="210.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 898.1 237.3 V 227.1 Q 898.1 219.4 910.0 219.4 Q 921.9 219.4 921.9 227.1 V 237.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="950.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 938.1 237.3 V 227.1 Q 938.1 219.4 950.0 219.4 Q 961.9 219.4 961.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="990.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 978.1 237.3 V 227.1 Q 978.1 219.4 990.0 219.4 Q 1001.9 219.4 1001.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="1030.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 1018.1 237.3 V 227.1 Q 1018.1 219.4 1030.0 219.4 Q 1041.9 219.4 1041.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="1070.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 1058.1 237.3 V 227.1 Q 1058.1 219.4 1070.0 219.4 Q 1081.9 219.4 1081.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="1110.0" cy="210.9" r="7.2" fill="#147D79"/>
+<path d="M 1098.1 237.3 V 227.1 Q 1098.1 219.4 1110.0 219.4 Q 1121.9 219.4 1121.9 227.1 V 237.3 Z" fill="#147D79"/>
+<circle cx="830.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 818.1 287.3 V 277.1 Q 818.1 269.4 830.0 269.4 Q 841.9 269.4 841.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="870.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 858.1 287.3 V 277.1 Q 858.1 269.4 870.0 269.4 Q 881.9 269.4 881.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="910.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 898.1 287.3 V 277.1 Q 898.1 269.4 910.0 269.4 Q 921.9 269.4 921.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="950.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 938.1 287.3 V 277.1 Q 938.1 269.4 950.0 269.4 Q 961.9 269.4 961.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="990.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 978.1 287.3 V 277.1 Q 978.1 269.4 990.0 269.4 Q 1001.9 269.4 1001.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="1030.0" cy="260.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 1018.1 287.3 V 277.1 Q 1018.1 269.4 1030.0 269.4 Q 1041.9 269.4 1041.9 277.1 V 287.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="1070.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 1058.1 287.3 V 277.1 Q 1058.1 269.4 1070.0 269.4 Q 1081.9 269.4 1081.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="1110.0" cy="260.9" r="7.2" fill="#147D79"/>
+<path d="M 1098.1 287.3 V 277.1 Q 1098.1 269.4 1110.0 269.4 Q 1121.9 269.4 1121.9 277.1 V 287.3 Z" fill="#147D79"/>
+<circle cx="830.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 818.1 337.3 V 327.1 Q 818.1 319.4 830.0 319.4 Q 841.9 319.4 841.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="870.0" cy="310.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 858.1 337.3 V 327.1 Q 858.1 319.4 870.0 319.4 Q 881.9 319.4 881.9 327.1 V 337.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="910.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 898.1 337.3 V 327.1 Q 898.1 319.4 910.0 319.4 Q 921.9 319.4 921.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="950.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 938.1 337.3 V 327.1 Q 938.1 319.4 950.0 319.4 Q 961.9 319.4 961.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="990.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 978.1 337.3 V 327.1 Q 978.1 319.4 990.0 319.4 Q 1001.9 319.4 1001.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="1030.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 1018.1 337.3 V 327.1 Q 1018.1 319.4 1030.0 319.4 Q 1041.9 319.4 1041.9 327.1 V 337.3 Z" fill="#147D79"/>
+<circle cx="1070.0" cy="310.9" r="7.2" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 1058.1 337.3 V 327.1 Q 1058.1 319.4 1070.0 319.4 Q 1081.9 319.4 1081.9 327.1 V 337.3 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="1110.0" cy="310.9" r="7.2" fill="#147D79"/>
+<path d="M 1098.1 337.3 V 327.1 Q 1098.1 319.4 1110.0 319.4 Q 1121.9 319.4 1121.9 327.1 V 337.3 Z" fill="#147D79"/>
+<text x="230.0" y="54.0" font-size="25" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="230.0" dy="0.0">Wave 1: 1,000 students</tspan></text>
+<text x="970.0" y="54.0" font-size="25" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="970.0" dy="0.0">Two years later: 650 remain</tspan></text>
+<rect x="70.0" y="378.0" width="320.0" height="28.0" rx="6" fill="#147D79" stroke="none" stroke-width="0"/>
+<rect x="70.0" y="378.0" width="128.0" height="28.0" rx="6" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="230.0" y="440.0" font-size="22" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="230.0" dy="0.0">High stress: 40%</tspan></text>
+<rect x="810.0" y="378.0" width="320.0" height="28.0" rx="6" fill="#147D79" stroke="none" stroke-width="0"/>
+<rect x="810.0" y="378.0" width="73.6" height="28.0" rx="6" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="970.0" y="440.0" font-size="22" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="970.0" dy="0.0">High stress: 23%</tspan></text>
+<path d="M 430.0 222.0 L 770.0 222.0" fill="none" stroke="#1B2A4A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-navy)"/>
+<text x="600.0" y="192.0" font-size="24" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">350 left the panel</tspan></text>
+<text x="600.0" y="264.0" font-size="19" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">250 high-stress or leavers</tspan></text>
+<text x="600.0" y="292.0" font-size="19" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">100 other students</tspan></text>
+<text x="600.0" y="336.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="600.0" dy="0.0">Retention 65% · the loss is not random</tspan></text>
+<rect x="448.0" y="372.0" width="304.0" height="138.0" rx="12" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<circle cx="474.0" cy="388.9" r="5.9" fill="#C65D4B"/>
+<path d="M 464.2 410.6 V 402.2 Q 464.2 395.9 474.0 395.9 Q 483.8 395.9 483.8 402.2 V 410.6 Z" fill="#C65D4B"/>
+<text x="494.0" y="404.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="494.0" dy="0.0">High stress or leaving university</tspan></text>
+<circle cx="474.0" cy="420.9" r="5.9" fill="#147D79"/>
+<path d="M 464.2 442.6 V 434.2 Q 464.2 427.9 474.0 427.9 Q 483.8 427.9 483.8 434.2 V 442.6 Z" fill="#147D79"/>
+<text x="494.0" y="436.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="494.0" dy="0.0">Other students</tspan></text>
+<circle cx="474.0" cy="452.9" r="5.9" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<path d="M 464.2 474.6 V 466.2 Q 464.2 459.9 474.0 459.9 Q 483.8 459.9 483.8 466.2 V 474.6 Z" fill="none" stroke="#B8C0C8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<text x="494.0" y="468.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="494.0" dy="0.0">Dropped out of the panel</tspan></text>
+<text x="600.0" y="497.0" font-size="16" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">Each icon = 25 students</tspan></text>
+<rect x="40.0" y="534.0" width="1120.0" height="88.0" rx="14" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="600.0" y="570.0" font-size="24" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">The retained panel looks healthier, even if no one's stress changed.</tspan></text>
+<text x="600.0" y="604.0" font-size="20" fill="#F2D77E" font-weight="normal" text-anchor="middle"><tspan x="600.0" dy="0.0">The most stressed students were the most likely to leave.</tspan></text>
+</svg>

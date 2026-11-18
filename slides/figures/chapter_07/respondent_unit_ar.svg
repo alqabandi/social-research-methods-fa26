@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="ar" lang="ar" direction="rtl" font-family='Arial, "Noto Sans Arabic", sans-serif'>
+<title id="t">المجيب ووحدة التحليل</title>
+<desc id="d">ثلاثة أمثلة. مدير المدرسة يملأ الاستبانة، لكن وحدة التحليل هي المدرسة، والبيانات عن المعلمين وسياسة الغياب والأنشطة. أحد أفراد الأسرة يجيب نيابة عن الأسرة، وهي الوحدة، والبيانات عن الدخل وعدد الأفراد والسكن. موظف يجيب عن مؤسسته، وهي الوحدة، والبيانات عن عدد العاملين والسياسات والهيكل. ويظهر المجيب داخل كل وحدة عضوًا مميزًا بين آخرين. الرسالة: من يجيب عن الأسئلة ليس دائمًا الوحدة التي نستنتج عنها.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<text x="970.0" y="44.0" font-size="27" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="970.0" dy="0.0">المجيب</tspan></text>
+<text x="970.0" y="72.0" font-size="18" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="970.0" dy="0.0">من يجيب عن الأسئلة</tspan></text>
+<text x="370.0" y="44.0" font-size="27" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="370.0" dy="0.0">وحدة التحليل</tspan></text>
+<text x="370.0" y="72.0" font-size="18" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="370.0" dy="0.0">ما نستنتج عنه ونقارن بين حالاته</tspan></text>
+<rect x="30.0" y="96.0" width="1140.0" height="148.0" rx="16" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<circle cx="1100.0" cy="151.9" r="14.4" fill="#147D79"/>
+<path d="M 1076.2 204.6 V 184.2 Q 1076.2 168.9 1100.0 168.9 Q 1123.8 168.9 1123.8 184.2 V 204.6 Z" fill="#147D79"/>
+<text x="935.0" y="166.0" font-size="23" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="935.0" dy="0.0">مدير المدرسة</tspan></text>
+<text x="935.0" y="196.0" font-size="19" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="935.0" dy="0.0">يملأ الاستبانة</tspan></text>
+<text x="700.0" y="154.0" font-size="17" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="700.0" dy="0.0">يجيب عن</tspan></text>
+<path d="M 780.0 172.0 L 620.0 172.0" fill="none" stroke="#147D79" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-teal)"/>
+<rect x="446.0" y="156" width="128" height="68" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3"/>
+<polygon points="438.0,156 510.0,124 582.0,156" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3" stroke-linejoin="round"/>
+<line x1="510.0" y1="124" x2="510.0" y2="102" stroke="#1B2A4A" stroke-width="2.5"/>
+<polygon points="510.0,102 530.0,108 510.0,114" fill="#A47712"/>
+<circle cx="558.0" cy="199.9" r="5.3" fill="#147D79"/>
+<path d="M 549.3 219.2 V 211.7 Q 549.3 206.1 558.0 206.1 Q 566.7 206.1 566.7 211.7 V 219.2 Z" fill="#147D79"/>
+<circle cx="534.0" cy="199.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 525.3 219.2 V 211.7 Q 525.3 206.1 534.0 206.1 Q 542.7 206.1 542.7 211.7 V 219.2 Z" fill="#8C9BB0"/>
+<circle cx="510.0" cy="199.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 501.3 219.2 V 211.7 Q 501.3 206.1 510.0 206.1 Q 518.7 206.1 518.7 211.7 V 219.2 Z" fill="#8C9BB0"/>
+<circle cx="486.0" cy="199.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 477.3 219.2 V 211.7 Q 477.3 206.1 486.0 206.1 Q 494.7 206.1 494.7 211.7 V 219.2 Z" fill="#8C9BB0"/>
+<circle cx="462.0" cy="199.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 453.3 219.2 V 211.7 Q 453.3 206.1 462.0 206.1 Q 470.7 206.1 470.7 211.7 V 219.2 Z" fill="#8C9BB0"/>
+<text x="235.0" y="158.0" font-size="25" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="235.0" dy="0.0">المدرسة</tspan></text>
+<text x="235.0" y="190.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="235.0" dy="0.0">بيانات عن المعلمين، وسياسة</tspan><tspan x="235.0" dy="24.7">الغياب، والأنشطة</tspan></text>
+<rect x="30.0" y="256.0" width="1140.0" height="148.0" rx="16" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<circle cx="1100.0" cy="311.9" r="14.4" fill="#147D79"/>
+<path d="M 1076.2 364.6 V 344.2 Q 1076.2 328.9 1100.0 328.9 Q 1123.8 328.9 1123.8 344.2 V 364.6 Z" fill="#147D79"/>
+<text x="935.0" y="326.0" font-size="23" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="935.0" dy="0.0">أحد أفراد الأسرة</tspan></text>
+<text x="935.0" y="356.0" font-size="19" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="935.0" dy="0.0">يجيب نيابة عن الأسرة</tspan></text>
+<text x="700.0" y="314.0" font-size="17" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="700.0" dy="0.0">يجيب عن</tspan></text>
+<path d="M 780.0 332.0 L 620.0 332.0" fill="none" stroke="#147D79" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-teal)"/>
+<rect x="452.0" y="320" width="116" height="64" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3"/>
+<polygon points="440.0,322 510.0,274 580.0,322" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="546.0" cy="359.9" r="5.3" fill="#147D79"/>
+<path d="M 537.3 379.2 V 371.7 Q 537.3 366.1 546.0 366.1 Q 554.7 366.1 554.7 371.7 V 379.2 Z" fill="#147D79"/>
+<circle cx="522.0" cy="359.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 513.3 379.2 V 371.7 Q 513.3 366.1 522.0 366.1 Q 530.7 366.1 530.7 371.7 V 379.2 Z" fill="#8C9BB0"/>
+<circle cx="498.0" cy="364.5" r="4.2" fill="#8C9BB0"/>
+<path d="M 491.0 380.0 V 374.0 Q 491.0 369.5 498.0 369.5 Q 505.0 369.5 505.0 374.0 V 380.0 Z" fill="#8C9BB0"/>
+<circle cx="474.0" cy="364.5" r="4.2" fill="#8C9BB0"/>
+<path d="M 467.0 380.0 V 374.0 Q 467.0 369.5 474.0 369.5 Q 481.0 369.5 481.0 374.0 V 380.0 Z" fill="#8C9BB0"/>
+<text x="235.0" y="318.0" font-size="25" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="235.0" dy="0.0">الأسرة</tspan></text>
+<text x="235.0" y="350.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="235.0" dy="0.0">بيانات عن الدخل، وعدد</tspan><tspan x="235.0" dy="24.7">الأفراد، والسكن</tspan></text>
+<rect x="30.0" y="416.0" width="1140.0" height="148.0" rx="16" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<circle cx="1100.0" cy="471.9" r="14.4" fill="#147D79"/>
+<path d="M 1076.2 524.6 V 504.2 Q 1076.2 488.9 1100.0 488.9 Q 1123.8 488.9 1123.8 504.2 V 524.6 Z" fill="#147D79"/>
+<text x="935.0" y="486.0" font-size="23" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="935.0" dy="0.0">موظف</tspan></text>
+<text x="935.0" y="516.0" font-size="19" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="935.0" dy="0.0">يجيب عن مؤسسته</tspan></text>
+<text x="700.0" y="474.0" font-size="17" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="700.0" dy="0.0">يجيب عن</tspan></text>
+<path d="M 780.0 492.0 L 620.0 492.0" fill="none" stroke="#147D79" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-teal)"/>
+<rect x="458.0" y="430" width="104" height="114" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3"/>
+<rect x="470.0" y="440" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="492.0" y="440" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="514.0" y="440" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="536.0" y="440" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="470.0" y="458" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="492.0" y="458" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="514.0" y="458" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="536.0" y="458" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="470.0" y="476" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="492.0" y="476" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="514.0" y="476" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="536.0" y="476" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<circle cx="546.0" cy="519.9" r="5.3" fill="#147D79"/>
+<path d="M 537.3 539.2 V 531.7 Q 537.3 526.1 546.0 526.1 Q 554.7 526.1 554.7 531.7 V 539.2 Z" fill="#147D79"/>
+<circle cx="522.0" cy="519.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 513.3 539.2 V 531.7 Q 513.3 526.1 522.0 526.1 Q 530.7 526.1 530.7 531.7 V 539.2 Z" fill="#8C9BB0"/>
+<circle cx="498.0" cy="519.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 489.3 539.2 V 531.7 Q 489.3 526.1 498.0 526.1 Q 506.7 526.1 506.7 531.7 V 539.2 Z" fill="#8C9BB0"/>
+<circle cx="474.0" cy="519.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 465.3 539.2 V 531.7 Q 465.3 526.1 474.0 526.1 Q 482.7 526.1 482.7 531.7 V 539.2 Z" fill="#8C9BB0"/>
+<text x="235.0" y="478.0" font-size="25" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="235.0" dy="0.0">المؤسسة</tspan></text>
+<text x="235.0" y="510.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="235.0" dy="0.0">بيانات عن عدد العاملين،</tspan><tspan x="235.0" dy="24.7">والسياسات، والهيكل</tspan></text>
+<rect x="30.0" y="584.0" width="1140.0" height="52.0" rx="14" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="600.0" y="618.0" font-size="22" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">من يجيب عن الأسئلة ليس دائمًا الوحدة التي نستنتج عنها.</tspan></text>
+</svg>

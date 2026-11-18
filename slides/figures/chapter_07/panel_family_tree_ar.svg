@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="ar" lang="ar" direction="rtl" font-family='Arial, "Noto Sans Arabic", sans-serif'>
+<title id="t">مخطط توضيحي للوحة أسر تتسع عبر الأجيال</title>
+<desc id="d">مخطط توضيحي، وليس بيانات PSID فعلية. أربع موجات تمتد من اليمين إلى اليسار عبر 30 سنة. في الموجة الأولى تُسأل أسرتان من العينة الأصلية، أ وب، مرسومتان منزلين ذهبيين بداخلهما الوالدان والأبناء. تبيّن الخطوط الرمادية أن كل أسرة تُسأل مجددًا في الموجة التالية. وعندما يكبر الأبناء ويستقلون، تقود خطوط متقطعة إلى أسر جديدة تنضم إلى اللوحة، منها أسرة من الجيل الثالث في الموجة الرابعة. ويزداد عدد الأسر من 2 إلى 3 ثم 5 ثم 7.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<text x="600.0" y="30.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="600.0" dy="0.0">مثال توضيحي مستوحى من لوحات الأسر الطويلة مثل PSID، وليس بيانات PSID فعلية</tspan></text>
+<g transform="translate(1144.0 66.0) scale(0.5)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<text x="1116.0" y="66.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="1116.0" dy="0.0">أسرة من العينة الأصلية</tspan></text>
+<g transform="translate(884.0 66.0) scale(0.5)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<text x="856.0" y="66.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="856.0" dy="0.0">أسرة كوّنها أحد الأبناء أو الأحفاد</tspan></text>
+<path d="M 580.0 60.0 L 546.0 60.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="536.0" y="66.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="536.0" dy="0.0">الأسرة نفسها في الموجة التالية</tspan></text>
+<path d="M 310.0 60.0 L 276.0 60.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<text x="266.0" y="66.0" font-size="16" fill="#25313D" font-weight="normal" text-anchor="start"><tspan x="266.0" dy="0.0">ابن أو ابنة يكوّن أسرة جديدة</tspan></text>
+<rect x="918.0" y="88.0" width="224.0" height="472.0" rx="14" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<rect x="638.0" y="88.0" width="224.0" height="472.0" rx="14" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<rect x="358.0" y="88.0" width="224.0" height="472.0" rx="14" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<rect x="78.0" y="88.0" width="224.0" height="472.0" rx="14" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<path d="M 990.0 132.0 L 790.0 132.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 710.0 132.0 L 510.0 132.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 430.0 132.0 L 230.0 132.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 710.0 197.0 L 510.0 197.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 430.0 197.0 L 230.0 197.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 430.0 327.0 L 230.0 327.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 990.0 412.0 L 790.0 412.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 710.0 412.0 L 510.0 412.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 430.0 412.0 L 230.0 412.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 430.0 477.0 L 230.0 477.0" fill="none" stroke="#AEB8C3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 992.0 138.0 C 902.0 138.0 882.0 197.0 792.0 197.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<path d="M 712.0 138.0 C 622.0 138.0 602.0 327.0 512.0 327.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<path d="M 432.0 203.0 C 342.0 203.0 322.0 262.0 232.0 262.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<path d="M 712.0 418.0 C 622.0 418.0 602.0 477.0 512.0 477.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<path d="M 432.0 418.0 C 342.0 418.0 322.0 538.0 232.0 538.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#ah-teal)"/>
+<g transform="translate(1030.0 132.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="1049.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 1043.6 151.6 V 146.5 Q 1043.6 142.7 1049.5 142.7 Q 1055.4 142.7 1055.4 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="1036.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 1030.6 151.6 V 146.5 Q 1030.6 142.7 1036.5 142.7 Q 1042.4 142.7 1042.4 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="1023.5" cy="142.5" r="2.6" fill="#A47712"/>
+<path d="M 1019.2 152.1 V 148.4 Q 1019.2 145.6 1023.5 145.6 Q 1027.8 145.6 1027.8 148.4 V 152.1 Z" fill="#A47712"/>
+<circle cx="1010.5" cy="142.5" r="2.6" fill="#A47712"/>
+<path d="M 1006.2 152.1 V 148.4 Q 1006.2 145.6 1010.5 145.6 Q 1014.8 145.6 1014.8 148.4 V 152.1 Z" fill="#A47712"/>
+<g transform="translate(750.0 132.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="763.0" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 757.1 151.6 V 146.5 Q 757.1 142.7 763.0 142.7 Q 768.9 142.7 768.9 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="750.0" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 744.1 151.6 V 146.5 Q 744.1 142.7 750.0 142.7 Q 755.9 142.7 755.9 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="737.0" cy="142.5" r="2.6" fill="#A47712"/>
+<path d="M 732.7 152.1 V 148.4 Q 732.7 145.6 737.0 145.6 Q 741.3 145.6 741.3 148.4 V 152.1 Z" fill="#A47712"/>
+<g transform="translate(470.0 132.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="476.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 470.6 151.6 V 146.5 Q 470.6 142.7 476.5 142.7 Q 482.4 142.7 482.4 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="463.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 457.6 151.6 V 146.5 Q 457.6 142.7 463.5 142.7 Q 469.4 142.7 469.4 146.5 V 151.6 Z" fill="#A47712"/>
+<g transform="translate(190.0 132.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="196.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 190.6 151.6 V 146.5 Q 190.6 142.7 196.5 142.7 Q 202.4 142.7 202.4 146.5 V 151.6 Z" fill="#A47712"/>
+<circle cx="183.5" cy="138.5" r="3.6" fill="#A47712"/>
+<path d="M 177.6 151.6 V 146.5 Q 177.6 142.7 183.5 142.7 Q 189.4 142.7 189.4 146.5 V 151.6 Z" fill="#A47712"/>
+<g transform="translate(750.0 197.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="750.0" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 744.1 216.6 V 211.5 Q 744.1 207.7 750.0 207.7 Q 755.9 207.7 755.9 211.5 V 216.6 Z" fill="#147D79"/>
+<g transform="translate(470.0 197.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="476.5" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 470.6 216.6 V 211.5 Q 470.6 207.7 476.5 207.7 Q 482.4 207.7 482.4 211.5 V 216.6 Z" fill="#147D79"/>
+<circle cx="463.5" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 457.6 216.6 V 211.5 Q 457.6 207.7 463.5 207.7 Q 469.4 207.7 469.4 211.5 V 216.6 Z" fill="#147D79"/>
+<g transform="translate(190.0 197.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="203.0" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 197.1 216.6 V 211.5 Q 197.1 207.7 203.0 207.7 Q 208.9 207.7 208.9 211.5 V 216.6 Z" fill="#147D79"/>
+<circle cx="190.0" cy="203.5" r="3.6" fill="#147D79"/>
+<path d="M 184.1 216.6 V 211.5 Q 184.1 207.7 190.0 207.7 Q 195.9 207.7 195.9 211.5 V 216.6 Z" fill="#147D79"/>
+<circle cx="177.0" cy="207.5" r="2.6" fill="#147D79"/>
+<path d="M 172.7 217.1 V 213.4 Q 172.7 210.6 177.0 210.6 Q 181.3 210.6 181.3 213.4 V 217.1 Z" fill="#147D79"/>
+<g transform="translate(470.0 327.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="470.0" cy="333.5" r="3.6" fill="#147D79"/>
+<path d="M 464.1 346.6 V 341.5 Q 464.1 337.7 470.0 337.7 Q 475.9 337.7 475.9 341.5 V 346.6 Z" fill="#147D79"/>
+<g transform="translate(190.0 327.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="196.5" cy="333.5" r="3.6" fill="#147D79"/>
+<path d="M 190.6 346.6 V 341.5 Q 190.6 337.7 196.5 337.7 Q 202.4 337.7 202.4 341.5 V 346.6 Z" fill="#147D79"/>
+<circle cx="183.5" cy="333.5" r="3.6" fill="#147D79"/>
+<path d="M 177.6 346.6 V 341.5 Q 177.6 337.7 183.5 337.7 Q 189.4 337.7 189.4 341.5 V 346.6 Z" fill="#147D79"/>
+<g transform="translate(190.0 262.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="190.0" cy="268.5" r="3.6" fill="#147D79"/>
+<path d="M 184.1 281.6 V 276.5 Q 184.1 272.7 190.0 272.7 Q 195.9 272.7 195.9 276.5 V 281.6 Z" fill="#147D79"/>
+<g transform="translate(1030.0 412.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="1049.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 1043.6 431.6 V 426.5 Q 1043.6 422.7 1049.5 422.7 Q 1055.4 422.7 1055.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="1036.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 1030.6 431.6 V 426.5 Q 1030.6 422.7 1036.5 422.7 Q 1042.4 422.7 1042.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="1023.5" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 1019.2 432.1 V 428.4 Q 1019.2 425.6 1023.5 425.6 Q 1027.8 425.6 1027.8 428.4 V 432.1 Z" fill="#A47712"/>
+<circle cx="1010.5" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 1006.2 432.1 V 428.4 Q 1006.2 425.6 1010.5 425.6 Q 1014.8 425.6 1014.8 428.4 V 432.1 Z" fill="#A47712"/>
+<g transform="translate(750.0 412.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="769.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 763.6 431.6 V 426.5 Q 763.6 422.7 769.5 422.7 Q 775.4 422.7 775.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="756.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 750.6 431.6 V 426.5 Q 750.6 422.7 756.5 422.7 Q 762.4 422.7 762.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="743.5" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 739.2 432.1 V 428.4 Q 739.2 425.6 743.5 425.6 Q 747.8 425.6 747.8 428.4 V 432.1 Z" fill="#A47712"/>
+<circle cx="730.5" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 726.2 432.1 V 428.4 Q 726.2 425.6 730.5 425.6 Q 734.8 425.6 734.8 428.4 V 432.1 Z" fill="#A47712"/>
+<g transform="translate(470.0 412.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="483.0" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 477.1 431.6 V 426.5 Q 477.1 422.7 483.0 422.7 Q 488.9 422.7 488.9 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="470.0" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 464.1 431.6 V 426.5 Q 464.1 422.7 470.0 422.7 Q 475.9 422.7 475.9 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="457.0" cy="422.5" r="2.6" fill="#A47712"/>
+<path d="M 452.7 432.1 V 428.4 Q 452.7 425.6 457.0 425.6 Q 461.3 425.6 461.3 428.4 V 432.1 Z" fill="#A47712"/>
+<g transform="translate(190.0 412.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#A47712" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#E9C46A" stroke="#A47712" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="196.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 190.6 431.6 V 426.5 Q 190.6 422.7 196.5 422.7 Q 202.4 422.7 202.4 426.5 V 431.6 Z" fill="#A47712"/>
+<circle cx="183.5" cy="418.5" r="3.6" fill="#A47712"/>
+<path d="M 177.6 431.6 V 426.5 Q 177.6 422.7 183.5 422.7 Q 189.4 422.7 189.4 426.5 V 431.6 Z" fill="#A47712"/>
+<g transform="translate(470.0 477.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="470.0" cy="483.5" r="3.6" fill="#147D79"/>
+<path d="M 464.1 496.6 V 491.5 Q 464.1 487.7 470.0 487.7 Q 475.9 487.7 475.9 491.5 V 496.6 Z" fill="#147D79"/>
+<g transform="translate(190.0 477.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="203.0" cy="483.5" r="3.6" fill="#147D79"/>
+<path d="M 197.1 496.6 V 491.5 Q 197.1 487.7 203.0 487.7 Q 208.9 487.7 208.9 491.5 V 496.6 Z" fill="#147D79"/>
+<circle cx="190.0" cy="483.5" r="3.6" fill="#147D79"/>
+<path d="M 184.1 496.6 V 491.5 Q 184.1 487.7 190.0 487.7 Q 195.9 487.7 195.9 491.5 V 496.6 Z" fill="#147D79"/>
+<circle cx="177.0" cy="487.5" r="2.6" fill="#147D79"/>
+<path d="M 172.7 497.1 V 493.4 Q 172.7 490.6 177.0 490.6 Q 181.3 490.6 181.3 493.4 V 497.1 Z" fill="#147D79"/>
+<g transform="translate(190.0 538.0) scale(1.0)"><rect x="-30" y="-10" width="60" height="32" rx="3" fill="#FFFFFF" stroke="#147D79" stroke-width="2.5"/><polygon points="-37,-9 0,-31 37,-9" fill="#EAF6F5" stroke="#147D79" stroke-width="2.5" stroke-linejoin="round"/></g>
+<circle cx="190.0" cy="544.5" r="3.6" fill="#147D79"/>
+<path d="M 184.1 557.6 V 552.5 Q 184.1 548.7 190.0 548.7 Q 195.9 548.7 195.9 552.5 V 557.6 Z" fill="#147D79"/>
+<text x="1080.0" y="138.0" font-size="16" fill="#A47712" font-weight="bold" text-anchor="end"><tspan x="1080.0" dy="0.0">الأسرة أ</tspan></text>
+<text x="1080.0" y="418.0" font-size="16" fill="#A47712" font-weight="bold" text-anchor="end"><tspan x="1080.0" dy="0.0">الأسرة ب</tspan></text>
+<text x="750.0" y="268.0" font-size="16" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="750.0" dy="0.0">ابن يكبر ويستقل:</tspan><tspan x="750.0" dy="20.0">فتنضم أسرته</tspan><tspan x="750.0" dy="20.0">الجديدة إلى اللوحة</tspan></text>
+<text x="144.0" y="260.0" font-size="14" fill="#147D79" font-weight="bold" text-anchor="start"><tspan x="144.0" dy="0.0">الجيل</tspan><tspan x="144.0" dy="16.1">الثالث</tspan></text>
+<path d="M 1140.0 574.0 L 60.0 574.0" fill="none" stroke="#6F7985" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-muted)"/>
+<text x="1030.0" y="604.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="1030.0" dy="0.0">الموجة 1 · البداية</tspan></text>
+<text x="1030.0" y="630.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="1030.0" dy="0.0">أسرتان</tspan></text>
+<text x="750.0" y="604.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="750.0" dy="0.0">الموجة 2 · بعد 10 سنوات</tspan></text>
+<text x="750.0" y="630.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="750.0" dy="0.0">3 أسر</tspan></text>
+<text x="470.0" y="604.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="470.0" dy="0.0">الموجة 3 · بعد 20 سنة</tspan></text>
+<text x="470.0" y="630.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="470.0" dy="0.0">5 أسر</tspan></text>
+<text x="190.0" y="604.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="190.0" dy="0.0">الموجة 4 · بعد 30 سنة</tspan></text>
+<text x="190.0" y="630.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="190.0" dy="0.0">7 أسر</tspan></text>
+</svg>

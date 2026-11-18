@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="en" lang="en" font-family='Arial, Helvetica, sans-serif'>
+<title id="t">Respondent versus unit of analysis</title>
+<desc id="d">Three examples. A school director fills in the questionnaire, but the unit of analysis is the school, with data on teachers, absence policy and activities. A household member answers for the household, the unit, with data on income, size and housing. An employee answers for the organization, the unit, with data on staff size, policies and structure. In each unit icon the respondent appears as one highlighted member among others. Message: the person who answers is not always the unit we draw conclusions about.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<text x="230.0" y="44.0" font-size="27" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="230.0" dy="0.0">Respondent</tspan></text>
+<text x="230.0" y="72.0" font-size="18" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="230.0" dy="0.0">who answers the questions</tspan></text>
+<text x="830.0" y="44.0" font-size="27" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="830.0" dy="0.0">Unit of analysis</tspan></text>
+<text x="830.0" y="72.0" font-size="18" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="830.0" dy="0.0">what we draw conclusions about</tspan></text>
+<rect x="30.0" y="96.0" width="1140.0" height="148.0" rx="16" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<circle cx="100.0" cy="151.9" r="14.4" fill="#147D79"/>
+<path d="M 76.2 204.6 V 184.2 Q 76.2 168.9 100.0 168.9 Q 123.8 168.9 123.8 184.2 V 204.6 Z" fill="#147D79"/>
+<text x="265.0" y="166.0" font-size="23" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="265.0" dy="0.0">School director</tspan></text>
+<text x="265.0" y="196.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="265.0" dy="0.0">fills in the questionnaire</tspan></text>
+<text x="500.0" y="154.0" font-size="17" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="500.0" dy="0.0">reports on</tspan></text>
+<path d="M 420.0 172.0 L 580.0 172.0" fill="none" stroke="#147D79" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-teal)"/>
+<rect x="626.0" y="156" width="128" height="68" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3"/>
+<polygon points="618.0,156 690.0,124 762.0,156" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3" stroke-linejoin="round"/>
+<line x1="690.0" y1="124" x2="690.0" y2="102" stroke="#1B2A4A" stroke-width="2.5"/>
+<polygon points="690.0,102 710.0,108 690.0,114" fill="#A47712"/>
+<circle cx="642.0" cy="199.9" r="5.3" fill="#147D79"/>
+<path d="M 633.3 219.2 V 211.7 Q 633.3 206.1 642.0 206.1 Q 650.7 206.1 650.7 211.7 V 219.2 Z" fill="#147D79"/>
+<circle cx="666.0" cy="199.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 657.3 219.2 V 211.7 Q 657.3 206.1 666.0 206.1 Q 674.7 206.1 674.7 211.7 V 219.2 Z" fill="#8C9BB0"/>
+<circle cx="690.0" cy="199.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 681.3 219.2 V 211.7 Q 681.3 206.1 690.0 206.1 Q 698.7 206.1 698.7 211.7 V 219.2 Z" fill="#8C9BB0"/>
+<circle cx="714.0" cy="199.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 705.3 219.2 V 211.7 Q 705.3 206.1 714.0 206.1 Q 722.7 206.1 722.7 211.7 V 219.2 Z" fill="#8C9BB0"/>
+<circle cx="738.0" cy="199.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 729.3 219.2 V 211.7 Q 729.3 206.1 738.0 206.1 Q 746.7 206.1 746.7 211.7 V 219.2 Z" fill="#8C9BB0"/>
+<text x="965.0" y="158.0" font-size="25" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="965.0" dy="0.0">School</tspan></text>
+<text x="965.0" y="190.0" font-size="17" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="965.0" dy="0.0">Data on teachers, absence</tspan><tspan x="965.0" dy="22.1">policy, and activities</tspan></text>
+<rect x="30.0" y="256.0" width="1140.0" height="148.0" rx="16" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<circle cx="100.0" cy="311.9" r="14.4" fill="#147D79"/>
+<path d="M 76.2 364.6 V 344.2 Q 76.2 328.9 100.0 328.9 Q 123.8 328.9 123.8 344.2 V 364.6 Z" fill="#147D79"/>
+<text x="265.0" y="326.0" font-size="23" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="265.0" dy="0.0">Household member</tspan></text>
+<text x="265.0" y="356.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="265.0" dy="0.0">answers for the household</tspan></text>
+<text x="500.0" y="314.0" font-size="17" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="500.0" dy="0.0">reports on</tspan></text>
+<path d="M 420.0 332.0 L 580.0 332.0" fill="none" stroke="#147D79" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-teal)"/>
+<rect x="632.0" y="320" width="116" height="64" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3"/>
+<polygon points="620.0,322 690.0,274 760.0,322" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="654.0" cy="359.9" r="5.3" fill="#147D79"/>
+<path d="M 645.3 379.2 V 371.7 Q 645.3 366.1 654.0 366.1 Q 662.7 366.1 662.7 371.7 V 379.2 Z" fill="#147D79"/>
+<circle cx="678.0" cy="359.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 669.3 379.2 V 371.7 Q 669.3 366.1 678.0 366.1 Q 686.7 366.1 686.7 371.7 V 379.2 Z" fill="#8C9BB0"/>
+<circle cx="702.0" cy="364.5" r="4.2" fill="#8C9BB0"/>
+<path d="M 695.0 380.0 V 374.0 Q 695.0 369.5 702.0 369.5 Q 709.0 369.5 709.0 374.0 V 380.0 Z" fill="#8C9BB0"/>
+<circle cx="726.0" cy="364.5" r="4.2" fill="#8C9BB0"/>
+<path d="M 719.0 380.0 V 374.0 Q 719.0 369.5 726.0 369.5 Q 733.0 369.5 733.0 374.0 V 380.0 Z" fill="#8C9BB0"/>
+<text x="965.0" y="318.0" font-size="25" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="965.0" dy="0.0">Household</tspan></text>
+<text x="965.0" y="350.0" font-size="17" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="965.0" dy="0.0">Data on income, size,</tspan><tspan x="965.0" dy="22.1">and housing</tspan></text>
+<rect x="30.0" y="416.0" width="1140.0" height="148.0" rx="16" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<circle cx="100.0" cy="471.9" r="14.4" fill="#147D79"/>
+<path d="M 76.2 524.6 V 504.2 Q 76.2 488.9 100.0 488.9 Q 123.8 488.9 123.8 504.2 V 524.6 Z" fill="#147D79"/>
+<text x="265.0" y="486.0" font-size="23" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="265.0" dy="0.0">Employee</tspan></text>
+<text x="265.0" y="516.0" font-size="17" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="265.0" dy="0.0">answers for the organization</tspan></text>
+<text x="500.0" y="474.0" font-size="17" fill="#6F7985" font-weight="bold" text-anchor="middle"><tspan x="500.0" dy="0.0">reports on</tspan></text>
+<path d="M 420.0 492.0 L 580.0 492.0" fill="none" stroke="#147D79" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ah-teal)"/>
+<rect x="638.0" y="430" width="104" height="114" fill="#EEF2F7" stroke="#1B2A4A" stroke-width="3"/>
+<rect x="650.0" y="440" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="672.0" y="440" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="694.0" y="440" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="716.0" y="440" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="650.0" y="458" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="672.0" y="458" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="694.0" y="458" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="716.0" y="458" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="650.0" y="476" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="672.0" y="476" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="694.0" y="476" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<rect x="716.0" y="476" width="14" height="10" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.2"/>
+<circle cx="654.0" cy="519.9" r="5.3" fill="#147D79"/>
+<path d="M 645.3 539.2 V 531.7 Q 645.3 526.1 654.0 526.1 Q 662.7 526.1 662.7 531.7 V 539.2 Z" fill="#147D79"/>
+<circle cx="678.0" cy="519.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 669.3 539.2 V 531.7 Q 669.3 526.1 678.0 526.1 Q 686.7 526.1 686.7 531.7 V 539.2 Z" fill="#8C9BB0"/>
+<circle cx="702.0" cy="519.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 693.3 539.2 V 531.7 Q 693.3 526.1 702.0 526.1 Q 710.7 526.1 710.7 531.7 V 539.2 Z" fill="#8C9BB0"/>
+<circle cx="726.0" cy="519.9" r="5.3" fill="#8C9BB0"/>
+<path d="M 717.3 539.2 V 531.7 Q 717.3 526.1 726.0 526.1 Q 734.7 526.1 734.7 531.7 V 539.2 Z" fill="#8C9BB0"/>
+<text x="965.0" y="478.0" font-size="25" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="965.0" dy="0.0">Organization</tspan></text>
+<text x="965.0" y="510.0" font-size="17" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="965.0" dy="0.0">Data on staff size,</tspan><tspan x="965.0" dy="22.1">policies, and structure</tspan></text>
+<rect x="30.0" y="584.0" width="1140.0" height="52.0" rx="14" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="600.0" y="618.0" font-size="22" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">The person who answers is not always the unit we draw conclusions about.</tspan></text>
+</svg>

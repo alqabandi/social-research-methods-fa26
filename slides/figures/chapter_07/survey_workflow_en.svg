@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="t d" xml:lang="en" lang="en" font-family='Arial, Helvetica, sans-serif'>
+<title id="t">The 12 steps of a survey, grouped into four phases</title>
+<desc id="d">Four colored columns read left to right. Phase 1, question and concepts: define the problem, questions and hypotheses, operational definitions, research plan. Phase 2, population, sample and instrument: population, unit and sampling design; instruments and measures; analysis plan. Phase 3, pretest and fieldwork: pretest and train the team; collect data. A dashed arrow shows that pretest problems send the researcher back to steps 5 to 7. Phase 4, analysis and reporting: analyze, interpret, write the report. Bottom message: good execution at the end cannot fix a basic mistake at the start.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="800" fill="#FFFFFF"/>
+<rect x="24.0" y="24.0" width="261.0" height="700.0" rx="18" fill="#EEF2F7" stroke="none" stroke-width="0"/>
+<rect x="24.0" y="24.0" width="261.0" height="108.0" rx="18" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<rect x="24.0" y="104.0" width="261.0" height="28.0" rx="0" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="154.5" y="54.0" font-size="17" fill="#F2D77E" font-weight="bold" text-anchor="middle"><tspan x="154.5" dy="0.0">Phase 1</tspan></text>
+<text x="154.5" y="84.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="154.5" dy="0.0">Question &amp;</tspan><tspan x="154.5" dy="24.1">concepts</tspan></text>
+<text x="154.5" y="164.0" font-size="19" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="154.5" dy="0.0">What do we want to know?</tspan></text>
+<rect x="36.0" y="186.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.5"/>
+<circle cx="70.0" cy="242.0" r="22" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="70.0" y="250.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="70.0" dy="0.0">1</tspan></text>
+<text x="188.0" y="237.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="188.0" dy="0.0">Define the</tspan><tspan x="188.0" dy="25.2">problem</tspan></text>
+<rect x="36.0" y="312.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.5"/>
+<circle cx="70.0" cy="368.0" r="22" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="70.0" y="376.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="70.0" dy="0.0">2</tspan></text>
+<text x="188.0" y="363.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="188.0" dy="0.0">Questions &amp;</tspan><tspan x="188.0" dy="25.2">hypotheses</tspan></text>
+<rect x="36.0" y="438.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.5"/>
+<circle cx="70.0" cy="494.0" r="22" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="70.0" y="502.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="70.0" dy="0.0">3</tspan></text>
+<text x="188.0" y="489.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="188.0" dy="0.0">Operational</tspan><tspan x="188.0" dy="25.2">definitions</tspan></text>
+<rect x="36.0" y="564.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="1.5"/>
+<circle cx="70.0" cy="620.0" r="22" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<text x="70.0" y="628.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="70.0" dy="0.0">4</tspan></text>
+<text x="188.0" y="628.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="188.0" dy="0.0">Research plan</tspan></text>
+<path d="M 294.0 62.0 L 312.0 78.0 L 294.0 94.0 Z " fill="#6F7985" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="321.0" y="24.0" width="261.0" height="700.0" rx="18" fill="#EAF6F5" stroke="none" stroke-width="0"/>
+<rect x="321.0" y="24.0" width="261.0" height="108.0" rx="18" fill="#147D79" stroke="none" stroke-width="0"/>
+<rect x="321.0" y="104.0" width="261.0" height="28.0" rx="0" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="451.5" y="54.0" font-size="17" fill="#F2D77E" font-weight="bold" text-anchor="middle"><tspan x="451.5" dy="0.0">Phase 2</tspan></text>
+<text x="451.5" y="84.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="451.5" dy="0.0">Population, sample</tspan><tspan x="451.5" dy="24.1">&amp; instrument</tspan></text>
+<text x="451.5" y="164.0" font-size="19" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="451.5" dy="0.0">How will we know?</tspan></text>
+<rect x="333.0" y="186.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#147D79" stroke-width="1.5"/>
+<circle cx="367.0" cy="242.0" r="22" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="367.0" y="250.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="367.0" dy="0.0">5</tspan></text>
+<text x="485.0" y="237.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="485.0" dy="0.0">Population,</tspan><tspan x="485.0" dy="25.2">unit &amp; sample</tspan></text>
+<rect x="333.0" y="312.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#147D79" stroke-width="1.5"/>
+<circle cx="367.0" cy="368.0" r="22" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="367.0" y="376.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="367.0" dy="0.0">6</tspan></text>
+<text x="485.0" y="363.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="485.0" dy="0.0">Instruments &amp;</tspan><tspan x="485.0" dy="25.2">measures</tspan></text>
+<rect x="333.0" y="438.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#147D79" stroke-width="1.5"/>
+<circle cx="367.0" cy="494.0" r="22" fill="#147D79" stroke="none" stroke-width="0"/>
+<text x="367.0" y="502.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="367.0" dy="0.0">7</tspan></text>
+<text x="485.0" y="502.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="485.0" dy="0.0">Analysis plan</tspan></text>
+<path d="M 591.0 62.0 L 609.0 78.0 L 591.0 94.0 Z " fill="#6F7985" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="618.0" y="24.0" width="261.0" height="700.0" rx="18" fill="#FFF7E3" stroke="none" stroke-width="0"/>
+<rect x="618.0" y="24.0" width="261.0" height="108.0" rx="18" fill="#A47712" stroke="none" stroke-width="0"/>
+<rect x="618.0" y="104.0" width="261.0" height="28.0" rx="0" fill="#A47712" stroke="none" stroke-width="0"/>
+<text x="748.5" y="54.0" font-size="17" fill="#FFF3CF" font-weight="bold" text-anchor="middle"><tspan x="748.5" dy="0.0">Phase 3</tspan></text>
+<text x="748.5" y="84.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="748.5" dy="0.0">Pretest &amp;</tspan><tspan x="748.5" dy="24.1">fieldwork</tspan></text>
+<text x="748.5" y="164.0" font-size="19" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="748.5" dy="0.0">Does it work in the field?</tspan></text>
+<rect x="630.0" y="186.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#A47712" stroke-width="1.5"/>
+<circle cx="664.0" cy="242.0" r="22" fill="#A47712" stroke="none" stroke-width="0"/>
+<text x="664.0" y="250.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="664.0" dy="0.0">8</tspan></text>
+<text x="782.0" y="237.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="782.0" dy="0.0">Pretest &amp;</tspan><tspan x="782.0" dy="25.2">train the team</tspan></text>
+<rect x="630.0" y="312.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#A47712" stroke-width="1.5"/>
+<circle cx="664.0" cy="368.0" r="22" fill="#A47712" stroke="none" stroke-width="0"/>
+<text x="664.0" y="376.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="664.0" dy="0.0">9</tspan></text>
+<text x="782.0" y="376.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="782.0" dy="0.0">Collect data</tspan></text>
+<path d="M 888.0 62.0 L 906.0 78.0 L 888.0 94.0 Z " fill="#6F7985" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="915.0" y="24.0" width="261.0" height="700.0" rx="18" fill="#FBEDEA" stroke="none" stroke-width="0"/>
+<rect x="915.0" y="24.0" width="261.0" height="108.0" rx="18" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<rect x="915.0" y="104.0" width="261.0" height="28.0" rx="0" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="1045.5" y="54.0" font-size="17" fill="#F2D77E" font-weight="bold" text-anchor="middle"><tspan x="1045.5" dy="0.0">Phase 4</tspan></text>
+<text x="1045.5" y="84.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="1045.5" dy="0.0">Analysis &amp;</tspan><tspan x="1045.5" dy="24.1">reporting</tspan></text>
+<text x="1045.5" y="164.0" font-size="19" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="1045.5" dy="0.0">What does it mean?</tspan></text>
+<rect x="927.0" y="186.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.5"/>
+<circle cx="961.0" cy="242.0" r="22" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="961.0" y="250.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="961.0" dy="0.0">10</tspan></text>
+<text x="1079.0" y="250.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="1079.0" dy="0.0">Analyze</tspan></text>
+<rect x="927.0" y="312.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.5"/>
+<circle cx="961.0" cy="368.0" r="22" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="961.0" y="376.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="961.0" dy="0.0">11</tspan></text>
+<text x="1079.0" y="376.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="1079.0" dy="0.0">Interpret</tspan></text>
+<rect x="927.0" y="438.0" width="237.0" height="112.0" rx="12" fill="#FFFFFF" stroke="#C65D4B" stroke-width="1.5"/>
+<circle cx="961.0" cy="494.0" r="22" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<text x="961.0" y="502.0" font-size="21" fill="#FFFFFF" font-weight="bold" text-anchor="middle"><tspan x="961.0" dy="0.0">12</tspan></text>
+<text x="1079.0" y="489.0" font-size="21" fill="#25313D" font-weight="bold" text-anchor="middle"><tspan x="1079.0" dy="0.0">Write the</tspan><tspan x="1079.0" dy="25.2">report</tspan></text>
+<rect x="630.0" y="446.0" width="237.0" height="122.0" rx="12" fill="#FFFFFF" stroke="#C65D4B" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="748.5" y="482.0" font-size="19" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="748.5" dy="0.0">Pretest problems?</tspan></text>
+<text x="748.5" y="514.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="748.5" dy="0.0">Go back and revise</tspan><tspan x="748.5" dy="23.8">steps 5–7</tspan></text>
+<path d="M 630.0 470.0 C 604.0 470.0 600.0 372.0 576.0 368.0" fill="none" stroke="#C65D4B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#ah-coral)"/>
+<rect x="24.0" y="742.0" width="1152.0" height="46.0" rx="12" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<text x="600.0" y="773.0" font-size="21" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">Good execution at the end cannot fix a basic mistake at the start.</tspan></text>
+</svg>

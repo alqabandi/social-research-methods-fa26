@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d" xml:lang="ar" lang="ar" direction="rtl" font-family='Arial, "Noto Sans Arabic", sans-serif'>
+<title id="t">أربع طرق لجمع بيانات المسح مقارنة بأربعة معايير للقرار</title>
+<desc id="d">جدول من أربعة أعمدة: المسح الهاتفي، والاستبانة الذاتية الورقية أو الإلكترونية، والمقابلة الشخصية المنظمة، والجمع بمساعدة الحاسوب، وقد رُسم بإطار متقطع لأنه طبقة تضاف إلى أي قناة. وتعرض أربعة صفوف إشارات قصيرة عن الوصول، والتوضيح، والخصوصية، والكلفة والضبط. مثلًا: الهاتف يصل إلى مناطق متباعدة لكن الأرقام المجهولة تُرفض، والاستبانة الذاتية بلا توضيح مباشر لكنها أكثر خصوصية أحيانًا، والمقابلة الشخصية تسمح بالمتابعة مع وجود المقابل، والحاسوب يضبط المسارات والتنبيهات لكنه يحتفظ بتغطية القناة نفسها. الملاحظة: لا يوجد ترتيب عام.</desc>
+<defs><marker id="ah-navy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#1B2A4A"/></marker><marker id="ah-teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#147D79"/></marker><marker id="ah-coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#C65D4B"/></marker><marker id="ah-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#6F7985"/></marker><marker id="ah-gold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#A47712"/></marker></defs>
+<rect x="0" y="0" width="1200" height="650" fill="#FFFFFF"/>
+<rect x="20.0" y="190.0" width="1160.0" height="92.0" rx="0" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<circle cx="1090.0" cy="222.0" r="16" fill="none" stroke="#1B2A4A" stroke-width="2.5"/>
+<ellipse cx="1090.0" cy="222" rx="7" ry="16" fill="none" stroke="#1B2A4A" stroke-width="2"/>
+<path d="M 1106.0 222.0 L 1074.0 222.0" fill="none" stroke="#1B2A4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1090.0" y="266.0" font-size="18" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="1090.0" dy="0.0">الوصول</tspan></text>
+<rect x="20.0" y="282.0" width="1160.0" height="92.0" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1072.0" y="299.0" width="36.0" height="26.0" rx="8" fill="none" stroke="#1B2A4A" stroke-width="2.5"/>
+<path d="M 1098.0 325.0 L 1102.0 333.0 L 1089.0 325.0" fill="none" stroke="#1B2A4A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1090.0" y="319.0" font-size="18" fill="#1B2A4A" font-weight="bold" text-anchor="middle" direction="ltr" unicode-bidi="embed"><tspan x="1090.0" dy="0.0">?</tspan></text>
+<text x="1090.0" y="358.0" font-size="18" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="1090.0" dy="0.0">التوضيح</tspan></text>
+<rect x="20.0" y="374.0" width="1160.0" height="92.0" rx="0" fill="#F5F7F8" stroke="none" stroke-width="0"/>
+<rect x="1076.0" y="403.0" width="28.0" height="21.0" rx="3" fill="#1B2A4A" stroke="none" stroke-width="0"/>
+<path d="M 1098.0 403.0 V 397.0 C 1098.0 386.0 1082.0 386.0 1082.0 397.0 V 403.0" fill="none" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1090.0" y="450.0" font-size="18" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="1090.0" dy="0.0">الخصوصية</tspan></text>
+<rect x="20.0" y="466.0" width="1160.0" height="92.0" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<path d="M 1108.0 486.0 L 1072.0 486.0" fill="none" stroke="#1B2A4A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1098.0" cy="486.0" r="4.5" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="2.5"/>
+<path d="M 1108.0 498.0 L 1072.0 498.0" fill="none" stroke="#1B2A4A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1084.0" cy="498.0" r="4.5" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="2.5"/>
+<path d="M 1108.0 510.0 L 1072.0 510.0" fill="none" stroke="#1B2A4A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1092.0" cy="510.0" r="4.5" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="2.5"/>
+<text x="1090.0" y="542.0" font-size="18" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="1090.0" dy="0.0">الكلفة والضبط</tspan></text>
+<rect x="755.0" y="20.0" width="235.0" height="158.0" rx="16" fill="#EAF6F5" stroke="none" stroke-width="0"/>
+<rect x="855.5" y="40.0" width="34.0" height="60.0" rx="7" fill="#FFFFFF" stroke="#147D79" stroke-width="3"/>
+<rect x="861.5" y="48.0" width="22.0" height="38.0" rx="0" fill="#EAF6F5" stroke="none" stroke-width="0"/>
+<circle cx="872.5" cy="93.0" r="2.5" fill="#147D79" stroke="none" stroke-width="0"/>
+<path d="M 850.5 58.0 Q 840.9 70.0 850.5 82.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 850.5 48.0 Q 832.9 70.0 850.5 92.0" fill="none" stroke="#147D79" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="872.5" y="132.0" font-size="22" fill="#147D79" font-weight="bold" text-anchor="middle"><tspan x="872.5" dy="0.0">المسح الهاتفي</tspan></text>
+<text x="872.5" y="158.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="872.5" dy="0.0">مقابل عبر الهاتف</tspan></text>
+<text x="872.5" y="230.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="872.5" dy="0.0">مناطق متباعدة؛ ورفض</tspan><tspan x="872.5" dy="24.7">الأرقام المجهولة</tspan></text>
+<text x="872.5" y="322.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="872.5" dy="0.0">يستطيع المقابل</tspan><tspan x="872.5" dy="24.7">التوضيح</tspan></text>
+<text x="872.5" y="414.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="872.5" dy="0.0">قد يسمع الآخرون</tspan><tspan x="872.5" dy="24.7">المكالمة</tspan></text>
+<text x="872.5" y="506.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="872.5" dy="0.0">أقل كلفة غالبًا؛</tspan><tspan x="872.5" dy="24.7">وإشراف مركزي</tspan></text>
+<rect x="755.0" y="20.0" width="235.0" height="538.0" rx="16" fill="none" stroke="#147D79" stroke-width="2.5"/>
+<rect x="510.0" y="20.0" width="235.0" height="158.0" rx="16" fill="#FFF7E3" stroke="none" stroke-width="0"/>
+<rect x="603.5" y="38.0" width="48.0" height="62.0" rx="5" fill="#FFFFFF" stroke="#A47712" stroke-width="3"/>
+<rect x="632.5" y="47.0" width="10.0" height="10.0" rx="0" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<path d="M 626.5 52.0 L 611.5 52.0" fill="none" stroke="#A47712" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="632.5" y="63.0" width="10.0" height="10.0" rx="0" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<path d="M 626.5 68.0 L 611.5 68.0" fill="none" stroke="#A47712" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="632.5" y="79.0" width="10.0" height="10.0" rx="0" fill="#FFFFFF" stroke="#A47712" stroke-width="2"/>
+<path d="M 626.5 84.0 L 611.5 84.0" fill="none" stroke="#A47712" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 640.5 52.0 L 637.5 56.0 L 632.5 48.0" fill="none" stroke="#A47712" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="627.5" y="132.0" font-size="22" fill="#A47712" font-weight="bold" text-anchor="middle"><tspan x="627.5" dy="0.0">الاستبانة الذاتية</tspan></text>
+<text x="627.5" y="158.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="627.5" dy="0.0">ورقية أو إلكترونية</tspan></text>
+<text x="627.5" y="230.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="627.5" dy="0.0">تعتمد على البريد</tspan><tspan x="627.5" dy="24.7">أو الإنترنت</tspan></text>
+<text x="627.5" y="335.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="627.5" dy="0.0">لا توضيح مباشر</tspan></text>
+<text x="627.5" y="414.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="627.5" dy="0.0">خصوصية أعلى</tspan><tspan x="627.5" dy="24.7">أحيانًا</tspan></text>
+<text x="627.5" y="506.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="627.5" dy="0.0">كلفة أقل؛ ولا نعرف</tspan><tspan x="627.5" dy="24.7">دائمًا من أجاب</tspan></text>
+<rect x="510.0" y="20.0" width="235.0" height="538.0" rx="16" fill="none" stroke="#A47712" stroke-width="2.5"/>
+<rect x="265.0" y="20.0" width="235.0" height="158.0" rx="16" fill="#EEF2F7" stroke="none" stroke-width="0"/>
+<circle cx="412.5" cy="55.0" r="8.5" fill="#1B2A4A"/>
+<path d="M 398.5 86.0 V 74.0 Q 398.5 65.0 412.5 65.0 Q 426.5 65.0 426.5 74.0 V 86.0 Z" fill="#1B2A4A"/>
+<circle cx="352.5" cy="55.0" r="8.5" fill="#1B2A4A"/>
+<path d="M 338.5 86.0 V 74.0 Q 338.5 65.0 352.5 65.0 Q 366.5 65.0 366.5 74.0 V 86.0 Z" fill="#1B2A4A"/>
+<rect x="366.5" y="76.0" width="32.0" height="14.0" rx="2" fill="#FFFFFF" stroke="#1B2A4A" stroke-width="2.5"/>
+<path d="M 404.5 96.0 L 360.5 96.0" fill="none" stroke="#1B2A4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="382.5" y="132.0" font-size="22" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="382.5" dy="0.0">المقابلة الشخصية</tspan></text>
+<text x="382.5" y="158.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="382.5" dy="0.0">منظمة وجهًا لوجه</tspan></text>
+<text x="382.5" y="230.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="382.5" dy="0.0">تتطلب تنقلًا؛ وتناسب</tspan><tspan x="382.5" dy="24.7">من يصعب عليه القراءة</tspan></text>
+<text x="382.5" y="322.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="382.5" dy="0.0">توضيح</tspan><tspan x="382.5" dy="24.7">ومتابعة</tspan></text>
+<text x="382.5" y="414.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="382.5" dy="0.0">وجود المقابل</tspan><tspan x="382.5" dy="24.7">قد يحرج المجيب</tspan></text>
+<text x="382.5" y="506.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="382.5" dy="0.0">كلفة أعلى؛ وضبط</tspan><tspan x="382.5" dy="24.7">مسار الأسئلة</tspan></text>
+<rect x="265.0" y="20.0" width="235.0" height="538.0" rx="16" fill="none" stroke="#1B2A4A" stroke-width="2.5"/>
+<rect x="20.0" y="20.0" width="235.0" height="158.0" rx="16" fill="#FBEDEA" stroke="none" stroke-width="0"/>
+<rect x="103.5" y="42.0" width="68.0" height="44.0" rx="4" fill="#FFFFFF" stroke="#C65D4B" stroke-width="3"/>
+<path d="M 181.5 94.0 L 93.5 94.0 L 101.5 86.0 L 173.5 86.0 Z " fill="#C65D4B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 157.5 64.0 L 137.5 54.0 M 157.5 64.0 L 137.5 74.0" fill="none" stroke="#C65D4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="157.5" cy="64.0" r="4" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<circle cx="137.5" cy="54.0" r="4" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<circle cx="137.5" cy="74.0" r="4" fill="#C65D4B" stroke="none" stroke-width="0"/>
+<path d="M 131.5 54.0 L 115.5 54.0" fill="none" stroke="#C65D4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 131.5 74.0 L 115.5 74.0" fill="none" stroke="#C65D4B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="137.5" y="132.0" font-size="22" fill="#C65D4B" font-weight="bold" text-anchor="middle"><tspan x="137.5" dy="0.0">بمساعدة الحاسوب</tspan></text>
+<text x="137.5" y="158.0" font-size="16" fill="#6F7985" font-weight="normal" text-anchor="middle"><tspan x="137.5" dy="0.0">طبقة تضاف إلى أي قناة</tspan></text>
+<text x="137.5" y="230.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="137.5" dy="0.0">تغطية القناة</tspan><tspan x="137.5" dy="24.7">المستخدمة نفسها</tspan></text>
+<text x="137.5" y="322.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="137.5" dy="0.0">بحسب</tspan><tspan x="137.5" dy="24.7">القناة</tspan></text>
+<text x="137.5" y="414.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="137.5" dy="0.0">الإدخال الذاتي</tspan><tspan x="137.5" dy="24.7">قد يساعد</tspan></text>
+<text x="137.5" y="506.0" font-size="19" fill="#25313D" font-weight="normal" text-anchor="middle"><tspan x="137.5" dy="0.0">كلفة إعداد؛ ومسارات</tspan><tspan x="137.5" dy="24.7">وتنبيهات آلية</tspan></text>
+<rect x="20.0" y="20.0" width="235.0" height="538.0" rx="16" fill="none" stroke="#C65D4B" stroke-width="2.5" stroke-dasharray="8 6"/>
+<text x="600.0" y="600.0" font-size="20" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">لا يوجد ترتيب عام: يعتمد الاختيار على المجتمع، وحساسية الموضوع،</tspan></text>
+<text x="600.0" y="628.0" font-size="20" fill="#1B2A4A" font-weight="bold" text-anchor="middle"><tspan x="600.0" dy="0.0">وتعقيد الأسئلة، والكلفة، وجودة الاستجابة المطلوبة.</tspan></text>
+</svg>

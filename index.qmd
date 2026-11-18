@@ -166,7 +166,7 @@ Microsoft Teams
     <tr>
       <td class="week">١١</td>
       <td>٢٢–٢٦ نوفمبر</td>
-      <td>المسح الاجتماعي (١–٢)</td>
+      <td><a href="slides/chapter_07_slides.html">المسح الاجتماعي (١–٢) — الفصل السابع — HTML</a> · <a href="slides/chapter_07_slides.pdf">PDF</a></td>
       <td></td>
     </tr>
     <tr>
